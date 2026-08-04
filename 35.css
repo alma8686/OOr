@@ -108,8 +108,8 @@ h1{
     }
 
     .lyrics{
-        font-size:18px;
-        line-height:2;
+        font-size: 13px;
+        line-height: 1.6;
         padding-left:18px;
         border-left:4px solid #ff3b3b;
     }
