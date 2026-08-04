@@ -117,3 +117,12 @@ h1{
     }
 
 }
+
+/* 検索ヒット部分 */
+mark{
+    background:yellow;
+    color:black;
+    padding:2px 5px;
+    border-radius:4px;
+    font-weight:bold;
+}
