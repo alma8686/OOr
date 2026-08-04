@@ -1,24 +1,47 @@
-body {
-    margin: 0;
-    color: white;
-    background: url("images/am.jpg") center/cover no-repeat fixed;
+body{
+    margin:0;
+    color:white;
+    font-family:"Yu Gothic",sans-serif;
+    background:url("images/am.jpg") center/cover no-repeat fixed;
 }
 
-body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.6);
-    backdrop-filter: blur(6px);
-    z-index: -1;
+body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,.65);
+    backdrop-filter:blur(8px);
+    z-index:-1;
 }
 
-.lyrics {
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 30px;
-    background: rgba(0, 0, 0, 0.7);
-    border-radius: 15px;
-    line-height: 2;
-    font-size: 20px;
+h1{
+    text-align:center;
+    font-size:48px;
+    margin-top:40px;
+}
+
+.lyrics{
+    width:80%;
+    max-width:900px;
+    margin:40px auto;
+    padding:40px;
+    background:rgba(20,20,20,.75);
+    border-radius:20px;
+    box-shadow:0 0 30px rgba(0,0,0,.5);
+    line-height:2.2;
+    font-size:20px;
+}
+
+.lyrics p{
+    white-space:pre-line;
+    margin:0;
+}
+
+a{
+    color:#ff5555;
+    text-decoration:none;
+}
+
+a:hover{
+    color:white;
 }
