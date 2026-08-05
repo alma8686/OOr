@@ -23,114 +23,169 @@ h1 {
 }
 
 
+/* =================
+   検索
+================= */
+
+.search-box{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    max-width:600px;
+    margin:0 auto 30px;
+}
+
+
+#search {
+    flex:1;
+    height:50px;
+    font-size:18px;
+    padding:0 15px;
+    border:none;
+    border-radius:10px 0 0 10px;
+}
+
+
+#searchButton {
+    width:100px;
+    height:50px;
+    font-size:18px;
+    border:none;
+    background:#ff4040;
+    color:white;
+    border-radius:0 10px 10px 0;
+    cursor:pointer;
+}
+
+
+#searchButton:hover{
+    background:#ff7070;
+}
+
+
+/* 曲一覧 */
+
 ul {
-    width: 80%;
-    max-width: 900px;
-    margin: auto;
-    background: rgba(20,20,20,.75);
-    padding: 30px;
-    border-radius: 20px;
+    width:80%;
+    max-width:900px;
+    margin:auto;
+    background:rgba(20,20,20,.75);
+    padding:30px;
+    border-radius:20px;
 }
 
 
 strong {
-    display: block;
-    font-size: 30px;
-    color: #ff4040;
-    margin-top: 30px;
-    border-left: 5px solid #ff4040;
-    padding-left: 12px;
+    display:block;
+    font-size:30px;
+    color:#ff4040;
+    margin-top:30px;
+    border-left:5px solid #ff4040;
+    padding-left:12px;
 }
 
 
 li {
-    list-style: none;
-    margin: 8px 0;
+    list-style:none;
+    margin:8px 0;
 }
 
 
 a {
-    color: white;
-    text-decoration: none;
-    display: block;
-    padding: 12px;
-    border-radius: 8px;
-    transition: .2s;
+    color:white;
+    text-decoration:none;
+    display:block;
+    padding:12px;
+    border-radius:8px;
+    transition:.2s;
 }
 
 
 a:hover {
-    background: #ff4040;
-    padding-left: 25px;
+    background:#ff4040;
+    padding-left:25px;
 }
 
 
-/* 検索結果 */
+
+/* =================
+   検索結果
+================= */
+
 .search-item {
-    background: rgba(20,20,20,.75);
-    margin: 15px auto;
-    padding: 10px;
-    border-radius: 10px;
+    background:rgba(20,20,20,.75);
+    margin:15px auto;
+    padding:10px;
+    border-radius:10px;
 }
 
 
 .search-item a {
-    font-size: 20px;
-    font-weight: bold;
+    font-size:20px;
+    font-weight:bold;
 }
 
 
 .hit {
-    font-size: 14px;
-    color: #ddd;
-    margin-left: 10px;
-    line-height: 1.6;
+    font-size:14px;
+    color:#ddd;
+    margin-left:10px;
+    line-height:1.6;
 }
 
 
-/* 検索文字の強調 */
 mark {
-    background-color: yellow;
-    color: black;
-    padding: 2px 4px;
-    border-radius: 3px;
+    background:yellow;
+    color:black;
+    padding:2px 4px;
+    border-radius:4px;
 }
 
 
-/* スマホ対応 */
-@media screen and (max-width: 600px) {
 
-    h1 {
-        font-size: 32px;
+/* =================
+   スマホ
+================= */
+
+@media screen and (max-width:600px){
+
+    h1{
+        font-size:32px;
     }
 
 
-    ul {
-        width: 90%;
-        padding: 20px;
+    .search-box{
+        width:95%;
     }
 
 
-    #search {
-        width: 80%;
-        height: 45px;
-        font-size: 16px;
+    #search{
+        height:55px;
+        font-size:16px;
     }
 
 
-    #searchButton {
-        height: 45px;
-        font-size: 16px;
+    #searchButton{
+        width:90px;
+        height:55px;
+        font-size:16px;
     }
 
 
-    .search-item a {
-        font-size: 18px;
+    ul{
+        width:90%;
+        padding:20px;
     }
 
 
-    .hit {
-        font-size: 13px;
+    .search-item a{
+        font-size:18px;
+    }
+
+
+    .hit{
+        font-size:13px;
     }
 
 }

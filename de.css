@@ -126,3 +126,12 @@ mark{
     border-radius:4px;
     font-weight:bold;
 }
+
+/* 画像スマホ対応 */
+img{
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
