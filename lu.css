@@ -10,32 +10,23 @@
 
 html{
     scroll-behavior:smooth;
+    height:100%;
 }
-
 
 body{
 
     font-family:"Yu Gothic","Meiryo",sans-serif;
-
     color:white;
 
-
-    background:url("images/lu.jpg")
-    center top / 100% auto
-    no-repeat;
-
-
-    background-repeat:repeat-y;
-
+    background-image:url("images/lu.jpg");
+    background-position:center top;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
     background-attachment:scroll;
 
-
-    min-height:100vh;
-
+    min-height:100%;
     padding:30px 20px;
-
 }
-
 
 
 /* 背景 */
@@ -48,14 +39,12 @@ body::before{
 
     inset:0;
 
-
     background:linear-gradient(
         to bottom,
         rgba(0,0,0,.75),
         rgba(0,0,0,.40),
         rgba(0,0,0,.75)
     );
-
 
     backdrop-filter:blur(4px);
 
@@ -77,7 +66,6 @@ h1{
 
     letter-spacing:2px;
 
-
     text-shadow:
     0 0 20px rgba(0,0,0,.9);
 
@@ -95,32 +83,23 @@ h1{
 
     margin:25px auto 50px;
 
-
     text-align:center;
 
     padding:14px;
 
-
     border-radius:50px;
-
 
     background:#1DB954;
 
-
     color:white;
-
 
     text-decoration:none;
 
-
     font-weight:bold;
-
 
     transition:.3s;
 
 }
-
-
 
 .spotify:hover{
 
@@ -140,29 +119,20 @@ h1{
 
     margin:auto;
 
-
     padding-left:30px;
-
 
     border-left:5px solid #ff3b3b;
 
-
     font-size:20px;
-
 
     line-height:2.2;
 
-
     white-space:pre-line;
-
 
     overflow-wrap:break-word;
 
-
     text-shadow:
-
         0 2px 10px rgba(0,0,0,1),
-
         0 0 5px rgba(0,0,0,.9);
 
 }
@@ -175,36 +145,25 @@ h1{
 
     display:block;
 
-
     width:220px;
-
 
     margin:60px auto;
 
-
     text-align:center;
-
 
     padding:14px;
 
-
     border:2px solid white;
-
 
     border-radius:40px;
 
-
     color:white;
 
-
     text-decoration:none;
-
 
     transition:.3s;
 
 }
-
-
 
 .back:hover{
 
@@ -238,21 +197,22 @@ mark{
 
 @media(max-width:768px){
 
+    html{
+        height:100%;
+    }
 
     body{
 
         padding:20px 10px;
 
-
-        background-size:100% auto;
-
+        background-size:100% 100%;
         background-position:center top;
+        background-repeat:no-repeat;
+        background-attachment:scroll;
 
-        background-repeat:repeat-y;
+        min-height:100%;
 
     }
-
-
 
     h1{
 
@@ -260,29 +220,22 @@ mark{
 
     }
 
-
-
     .lyrics{
 
         font-size:13px;
 
         line-height:1.6;
 
-
         padding-left:18px;
-
 
         border-left:4px solid #ff3b3b;
 
     }
-
-
 
     .spotify{
 
         width:200px;
 
     }
-
 
 }
