@@ -15,7 +15,13 @@ html{
 body{
     font-family:"Yu Gothic","Meiryo",sans-serif;
     color:white;
-    background:url("images/de.jpg") center center/cover no-repeat fixed;
+
+    background-image:url("images/de.jpg");
+    background-size: auto 100vh;
+    background-position:center top;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+
     min-height:100vh;
     padding:30px 20px;
 }
@@ -127,11 +133,3 @@ mark{
     font-weight:bold;
 }
 
-/* 画像スマホ対応 */
-img{
-    max-width:100%;
-    height:auto;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-}
