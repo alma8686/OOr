@@ -3,6 +3,8 @@ const songs = [
 {
 title:"内秘心書",
 url:"naihi.html",
+album:"ゼイタクビョウ",
+tags:["ロック","日本語曲"],
 lyrics:`犯した罪の数が 寂しさを物語ってんだよ
 そしたら大人はソレ見て 全てを悪く言うんだろ?
 言えない見えない見たくもなくない? だから飛べるはずない
@@ -40,8 +42,100 @@ I got something to hide, but never put it aside
 },
 
 {
+title:"Borderline",
+url:"Boderline.html",
+album:"ゼイタクビョウ",
+lyrics:`どこで生まれて　僕はどこで育ったの?
+誰かに愛された記憶はない
+I can’t load my secret code 分からないまま
+パンクしそうな思いをどうすればいい?
+
+いつもI’m thinking　気になって仕方がないから
+Someone! Please take me away
+
+I didn’t know much about love and happiness
+I didn’t know much about hope and fondness
+目覚めて　感じられた　生きるために必要なこと
+どれだけ愛と真実を信じ　どれだけ価値があるか知りたくて
+人との出会い　つながる世界　またひとつ足跡残して
+
+人を今まで　半信半疑でみていた
+I’m sick of myself　全てに対して
+Please tell me when to believe it again
+境界線がはっきりしないから岐路でもがいてる
+
+No-one knows　本当の嫉妬心を見せたくないから
+Don’t try to hide your own way
+
+I didn’t know much about joy and tenderness
+I didn’t know much about truth and faithfulness
+全てが　解き放たれ　心の色が変わる
+どれだけ愛と真実を信じ　どれだけ価値があるか知りたくて
+君との出会い　つながる世界　またひとつ足跡残して
+
+どれだけ愛と真実を信じ　どれだけ価値があるか知りたくて
+全てが動き出した　だからmoving for the future
+
+I didn’t know much about love and happiness
+I didn’t know much about hope and fondness
+目覚めて　感じられた　生きるために必要なこと
+善いか悪いか真実を信じ　答えは自分の中にあるさ
+人との出会い　つながる世界　またひとつ足跡残して`
+},
+
+{
+title:"(you can do)everything",
+url:"everything.html",
+album:"ゼイタクビョウ",
+lyrics:`You can fly　You can shine
+Can be stronger　Can be brighter
+You can do it　You can do it
+do it, do it…
+
+You can scream　You can feel
+Can be louder　Can be wiser
+You can do it　You can do it
+do it, do it…
+
+I know I make mistake だけど
+やらないよりは
+
+You can do everything　たとえ道に迷っても
+必ずかなうと信じ続ければ
+Find your“anything”そこに道が無くたって
+Everything, everything
+You can take a everything
+
+迷った分だけ　道は増えるさ
+そこでその道を覚えとくか忘れるかで
+この先のキミが変わる
+
+Sometimes I’m going wrong　だけど
+口先だけよりは
+
+You can do everything　たとえ道に迷っても
+必ずかなうと信じ続ければ
+Find your“anything”そこに道が無くたって
+Everything, everything
+You can take a everything
+
+探してた物は何だったんだろう
+その答えを日々探してた　でも
+答えじゃなくて
+ソレは理由だったんだ
+
+Got to try everything　たとえ地球のはてでも
+色や音が違う所だって
+All I can do is sing　そこに言葉が無くたって
+I will sing, I will sing
+My singing is everything`
+},
+
+{
 title:"夜にしか咲かない満月",
 url:"yoru.html",
+album:"ゼイタクビョウ",
+tags:["ロック","日本語曲","失恋"],
 lyrics:`正しい事なんて何もないこの世界で
 正そうとしているヤツは知る限りでは偽善者で
 こんな僕らでも分かるアンタらのその行動は
@@ -89,6 +183,8 @@ Hey, Mr. Crazy, don't you think?
 {
 title:"努努-ゆめゆめ-",
 url:"yumeyume.html",
+album:"ゼイタクビョウ",
+tags:["ロック","日本語曲","応援ソング"],
 lyrics:`Your life is automatic　Believe a little magic
 Your future may be tragic　For a toxic animatic
 
@@ -140,6 +236,8 @@ Compassが指す方へ　Go for a sail!!
 {
 title:"カゲロウ",
 url:"kagerou.html",
+album:"ゼイタクビョウ",
+tags:["バラード","ラブソング","日本語曲"],
 lyrics:`君を想う気持はカゲロウ
 伝えられず僕は漂う…
 
@@ -174,8 +272,34 @@ lyrics:`君を想う気持はカゲロウ
 },
 
 {
+title:"Lujo",
+url:"Lujo.html",
+album:"ゼイタクビョウ",
+lyrics:`Cry扉カギ閉め暗い部屋で奥歯噛みしめ
+辛い皆心は正直Slyな都会ドクされ病気に
+Fly快感と好奇心My Past’s gone, Memory’s gone
+脳内崩壊将来no light
+
+空前絶後最強贅沢病
+
+腐った人間尖ったナイフ
+刺さって無神経Life is a nightmare
+同者集い汚れて黒さ増す細胞分裂
+脳内崩壊将来no light
+
+叫んでは病んで強い雨打たれ
+行き場ないすでに眠らない街で
+目の前モノクロにしか見えねぇ
+時間の問題世界の終わり
+
+空前絶後最強贅沢病`
+},
+
+{
 title:"ケムリ",
 url:"kemu.html",
+album:"ゼイタクビョウ",
+tags:["ロック","日本語曲"],
 lyrics:`このままだと自分だけじゃなくてこの世界壊れるだろう
 信頼できないデカい未来　夢はあるけど…
 
@@ -220,6 +344,8 @@ Such a smoky world
 {
 title:"欲望に満ちた青年団",
 url:"yokubou.html",
+album:"ゼイタクビョウ",
+tags:["ロック","日本語曲","人気曲","ライブ定番"],
 lyrics:`一度はあの光を見たんだよ　とてもキレイで
 でも今思えば汚かった　あれはいわゆるBad Day Dreams
 光が眩し過ぎて周りが見えず　ただただ日々を
@@ -252,6 +378,8 @@ We have, We have, We have grown
 {
 title:"エトセトラ",
 url:"eto.html",
+album:"ゼイタクビョウ",
+tags:["ロック","日本語曲"],
 lyrics:`全てが終わるような恐怖に背中を押され
 涙腺が嫌う「別れよう」の5文字にロックをかける
 
@@ -282,10 +410,44 @@ I know　全部分かって　全て分かってたつもり
 頼む誰か　誰か　答えてくれ`
 },
 
+{
+title:"A new one for all,All for the new one",
+url:"A_new_one_for_all.html",
+album:"ゼイタクビョウ",
+lyrics:`この世に生を授かったモノ
+この世で息絶えていったモノ
+ふたつはひとつさ
+
+あなたは光となったの?
+あなたの光を浴びているの?
+
+繰り返される出来事の中のひとつと思うには
+まだまだ時間がかかりそう
+そんなルールブックの上で僕らは生きてるから
+どんな悲しみにも涙を流すんだね
+
+We all knew that you'd be nowhere when we are born
+How can we see your face elsewhere? now we are torn
+You will be waiting for us there?
+
+あなたが標した道しるべ
+小石は僕が拾って歩くの!
+
+繰り返される出来事の中のひとつと思うには
+まだまだ時間がかかりそう
+そんなルールブックの上で僕らは生きているから
+つまらないことや楽しいことが必然に見える時がある
+
+さよならは言わないよ
+近くにいると信じているから`
+},
+
 
 {
 title:"恋ノアイボウ心ノクピド",
 url:"koi.html",
+album:"感情エフェクト",
+tags:["ロック","ラブソング","日本語曲"],
 lyrics:`第三次私事大戦　始まろうと今幕開けた
 真の理解者　自分の甘え受け入れる
 世界でひとつの肝細胞　見つけた矛盾ない運命
@@ -307,8 +469,61 @@ lyrics:`第三次私事大戦　始まろうと今幕開けた
 },
 
 {
+title:"どっぺるゲンガー",
+url:"dopperu.html",
+album:"感情エフェクト",
+lyrics:`何かに導かれるかのように　出て行く僕の影
+つながれてた鎖も今じゃ何の意味も成されない
+冷たくあしらったせいか…それともただ単純に
+僕という人間に飽きたのか?
+分かりはしないけど…
+
+もし光がさしても　抜け殻の僕がただただいるだけ
+
+I wanna be wanna be
+逃げ出した黒い僕に　どうやって?
+I’m tryin’ I’m tryin’
+未知数な領域をぐるぐる回んのさ
+その僕が僕に帰る瞬間は
+It’s just time!
+Now I’m here, now I stand, when I’m playing on my stage
+
+情報や利益、自分の都合と一緒に付けられた
+僕の住む体はもう変色して腐る一歩手前
+徐々に蝕んで溶かすそいつらは
+あたかも「始めから君の中にいました。」
+みたいな顔でその場をやり過ごすんだろ?
+
+もしこのまま僕がここにい続ければ
+僕も溶けてなくなるよ
+
+I wanna go wanna go
+区切りすら無い場所へ　You’re a stranger
+I’m alone I’m alone
+それでもブレずただ自分信じんのさ
+ただそうやるべきことはひとつだけ
+それ以外はない
+What I hear and what I play, they’re everything in my heart
+Can’t you see that?
+
+たとえもう僕があの鎖に繋がれても
+君の指示を受けるつもりはない!
+
+I wanna go wanna go
+区切りすら無い場所へ　You’re a stranger
+I’m alone I’m alone
+それでもブレずただ自分信じんのさ
+ただそうやるべきことはひとつだけ
+それ以外はない
+What I hear and what I play, they’re everything in my heart
+Can’t you see that?`
+},
+
+{
 title:"皆無",
 url:"kaimu.html",
+album:"感情エフェクト",
+tags:["ロック","日本語曲"],
 lyrics:`この地球(ほし)がもしも明日　全てを終わらそうとすれば
 どれだけの怒り・悲しみを残していくだろう？
 それ聞いてこの星で　自分の命と引き換えに
@@ -347,8 +562,61 @@ lyrics:`この地球(ほし)がもしも明日　全てを終わらそうとす�
 },
 
 {
+title:"20 years old",
+url:"20_years_old.html",
+album:"感情エフェクト",
+lyrics:`Hey brother I got something to say
+その手上げ　Every body right now!
+Hey sister are you looking my way yeah
+Doesn’t matter what ever they say
+
+消えるモノと消えないモノ一つずつを
+持ち合わせた何とも憎い僕
+日々の中で忘れたり落としたりしていたモノは実は
+僕が着せ替えていた
+
+よせる人の波の中じゃ何も気付けなくて
+かえす波の中で何かを悟り気付いた　Ah
+
+20 years old and you gotta let me know?
+何から何を着せ替えてきて何を犠牲にしたの？
+もしも気付かず進み続け10年後の僕はどうなるの？
+Somebody I would never want to be
+『どうしてかはわからずな』の　No No!!
+
+気付けばホラ！！僕の中にあるいくつかのモノ
+はもう過去と比べられて
+感じたモノ全てが宝物のはずなのに
+月日経てば飽きるのは何故なの？
+
+よせる人の波はただただ慌しくて
+かえす波は実は寂しさしかない…。
+
+20 years old and you gotta let me know?
+何から何を着せ替えてきて何を置いてきていたの？
+気付くはずのモノ見落として余計な事に気付いてるよな
+そんな気持ちになるの！！
+『I think I’m going crazy』No No No!!
+
+20年経ったこの僕を誰が認め誰がけなして
+何処(いずこ)へ僕は連れてかれてしまうの？
+ならば80年後の自分はいったい誰に煙たく思われ
+季節外れの人になるの？
+
+20 years old and you gotta let me know?
+何から何を着せ替えてきて何を犠牲にしたの？
+もしも気付かず進み続け10年後の僕はどうなるの？
+Somebody I would never want to be
+どうしてかはわからないの…
+
+できることなら僕はここで時(きみ)とずっとそばにいたいの…`
+},
+
+{
 title:"Living Dolls",
 url:"Living_Dolls.html",
+album:"感情エフェクト",
+tags:["ロック"],
 lyrics:`We are living in the same world?
 僕と君　答えはないけど
 運命の出会いさえ　誰かの決めごとで…
@@ -387,6 +655,8 @@ First love that you brought me…
 {
 title:"Break My Strings",
 url:"Break_My_Strings.html",
+album:"感情エフェクト",
+tags:["ロック","英語曲"],
 lyrics:`僕の手足から延びた曲線
 今日もいつの間にか遊離して
 ふりきる余力さえ　もう僕の中にゃ
@@ -426,10 +696,341 @@ You’ll never reach out to my soul
 You know, you know, Desire in my hand`
 },
 
+{
+title:"存在証明",
+url:"sonzai.html",
+album:"感情エフェクト",
+lyrics:`背伸びして見えたもの　まだ早過ぎた光景？
+見たくはない触れたくはないモノだらけでこわばる感情
+正常とは何？聞きたくなるほどに入り乱れた世界(きょう)に
+片足入れたまんま
+
+How crazy!?　叫ぶ声も溶けては深海へ
+Rescue me now!!
+呼吸ができる世界に…
+そして浅い眠りから僕らを解放へと導いてよ
+
+夢にまで見たような世界とははたして
+いったいぜんたいどんな色や形をしているんだろうか？
+想像・空想・幻想・妄想すらここでは役立たず？
+
+Show me how　この世で生きる術や過ちを
+証明はもうここじゃ期限切れ
+ルールも金や地位で根こそぎ奪われて
+身動きすらできなくて　Ah
+
+今日も何か…考えさせられる一日
+カーテンの隙間　日差しはやたらこの僕を刺す
+
+Here I am　されど誰がかまうはずもなく
+早々にと先を急ぐ
+However　この際ここで這いつくばっては
+醜く朽ち果てようか？(笑)　なぁ！`
+},
+
+{
+title:"CONVINCING",
+url:"CONVINCING.html",
+album:"感情エフェクト",
+lyrics:`I know I was not a dreamer
+But I lost something somehow anyway!
+I don’t care ‘bout what they say
+Whatever whoever tells me something
+Never stop! until the end
+ここで折れるほどやわじゃない
+It’s so wrong!!
+
+そんな理想を僕は思い描くたび
+強くならなきゃとまた今日の僕を脱ぎ捨てる
+
+くだらない憶測に前倣(なら)えはまず置いといて
+しばられずできるコト一つ一つ組み立てていく
+それからだその先は誰があーだこーだ言ったって
+やれるのは己だけ自分自身を信じてみるよ!
+
+Everything I’m gonna do
+Is not what you think hard thing anyway!
+It’s too bad! everyone knows!!
+The simple thing is not so easy
+I am sorry! I can’t do this!!
+そんなような気がするけど
+It’s so wrong?
+
+時にささいな事が僕を僕じゃなくす
+I know that 始まれば終わりも世界(ここ)ではあるんでしょ?
+
+くだらない憶測に前倣(なら)えはまず置いといて
+しばられずできるコト一つ一つ組み立てていく
+それからだその先は誰があーだこーだ言ったって
+やれるのは己だけ自分自身を信じてみるよ!
+
+甘えとか言い訳は二の次三の次にして
+今だから楽しめる事見つけて離さんでくれよ!
+それからだその先は今はあーだこーだ言ったって
+始まらないし　終わりもしない
+Waiting for Ending = No Future!`
+},
+
+{
+title:"My sweet baby",
+url:"My_sweet_baby.html",
+album:"感情エフェクト",
+lyrics:`My baby, Sweet baby
+I see you smiling when I close my eyes
+‘cause I miss you, I need you right now
+
+「ただいま」もろくに言えなくてゴメンね
+Never knew I’d make you feel lonely
+口癖の「疲れた」も僕は言い過ぎだね…
+帰りを待つ方が辛いのに…
+
+And we’re back to screaming
+些細なことでまた
+Can’t stop the rain
+So　互いに譲らずに気がつけば
+Together again
+‘cause only you can drive me crazy
+
+My baby, Sweet baby oh
+いつも素直に出来ない僕を
+あなたは優しく包んでくれる唯一の人だよ
+
+Do you believe in destiny
+‘cause I can’t deny, baby you and I
+なぜ僕らがここにいるのか?
+
+出会うべき二人が出会ったとしたら僕ら
+どんな困難も越えれるね?
+
+都合よく考えて
+また君を困らせて
+そんなふうに今日もまた僕は君に甘え過ぎ
+‘cause only I can’t drive you crazy!
+
+My baby, Sweet babyって　これからも先一生君に
+言いたい!!って僕は心からそう思うんだよ
+
+なぁBaby, Please tell me? Oh
+言葉じゃなくていいから
+ただ隣りで微笑んでくれればそれだけでいいからさ!!
+
+The world’s in a hurry
+僕らの時間は止めておこう
+There’s nothing to worry
+時は僕らを連れ去れはしないよ`
+},
+
+{
+title:"Reflection",
+url:"Reflection.html",
+album:"感情エフェクト",
+lyrics:`Fading out your memories from the vision
+Pulling off the picture away from mirror
+Still you wait for the chance
+For me to share our time we had
+But what will be for you
+I know same results will break us down
+
+Help me out, inside of me
+Just take on to find your way
+All you want is to stay along
+But we stand too far
+
+Falling out pieces you’ll never find one
+I know what you are looking for
+Trying to find a reason you can pull me over
+You just listen what they say
+Creeping shadow right behind me
+You know I’ll turn my head away
+I will never let you down
+You know what I feel
+
+Help me out, inside of me
+Just take on to find your way
+All you want is to stay along
+But we stand too far
+
+It’s like a reflection, like a reflection
+In my heart, just keep on bleeding
+I can’t stand myself too long
+
+Like a reflection, it’s like a reflection
+Don’t you ever say your words
+We had enough, we can take it over
+
+It’s like a reflection, like a reflection
+In my heart, just keep on bleeding
+I can’t stand myself too long
+
+Like a reflection, it’s like a reflection
+In my heart, just keep on bleeding
+I can’t stand myself too long
+
+Like a reflection, it’s like a reflection
+Don’t you ever say your words
+We had enough, we can take it over`
+},
+
+{
+title:"Viva Violent Fellow~美しきモッシュピット",
+url:"Viva.html",
+album:"感情エフェクト",
+lyrics:`一音下げのギターの音が心地良く
+鼓膜から心臓へと響き足に伝わる
+
+キックが鼓動と共に体中を揺らす
+挟まれて高い音スネアがまぶた落とす
+
+Never happen again
+What we’re doing with you all
+
+Viva violent fellow!!
+Viva violent fellow!!
+奏でる音と共に体中を揺らせ!!
+We’re going crazy! crazy!!
+
+Viva violent fellow!!
+Viva violent fellow!!
+趣くままに
+ただ解き放て
+頭ん中はメリーGOメリーGO ラウンド!!
+
+アドレナリンが音の誘惑に身をゆだね
+熱のあるこの体　更に煽りをかける
+
+Never happen again
+What you’re doing to us all
+
+Viva violent fellow!!
+Viva violent fellow!!
+奏でる音と共に体中を揺らせ!!
+We’re going crazy! crazy!!
+Viva violent fellow!!
+Viva violent fellow!!
+趣くままに
+ただ解き放て
+頭ん中はメリーGOメリーGO ラウンド!!
+Viva violent fellow!!
+Viva violent fellow!!
+奏でる音と共に体中を揺らせ!!
+We’re going crazy! crazy!!
+Viva violent fellow!!
+Viva violent fellow!!
+趣くままに
+ただ解き放て
+頭ん中はメリーGOメリーGO ラウンド!!`
+},
+
+{
+title:"JUST",
+url:"JUST.html",
+album:"感情エフェクト",
+lyrics:`何も言えない君が写るガラスをくやしくて壊しても
+そこから逃げる君を写す鏡がそこにはあるの
+
+「わからないの!!」いや「わかりたくないのさ!!」
+今日も明日も明後日も…
+そこから逃げるように…
+
+Just discover the sound
+Burning the music in your heart
+Scream!!　叫べ　Yeah
+自分の声をからして
+
+人は驚くほどに単純かつ純粋無垢でとてつもなく
+時に人を傷つけては　あざ笑う悪魔のよう
+
+「わかってるさ!!」いや　わかれば違うはず
+今日や昨日やおとといも
+明日も変わらないさ
+
+Just discover the sound
+Burning the music in your heart
+Scream!!　叫べYeah
+自分の声をからして
+
+Get away Don’t wanna think about it
+Far away You wanna take my name
+Killin’ me Don’t wanna think about You
+I define it
+I can hear it now
+
+Just discover the sound
+Burning the music in your heart
+Scream!!　叫べ　Yeah
+自分の声をからして
+
+Just discover the sound
+Burning the music in your heart
+Scream!!`
+},
+
+{
+title:"Never Let This Go",
+url:"Never_Let_This_Go.html",
+album:"Nicheシンドローム",
+lyrics:`We have to carry on
+We have to make it for us
+But then never gonna make it
+Let this go!
+As I look into your eyes and see you standing there
+Tell me something
+You're never gonna let this go
+Step into your heart but you don't take it
+Please don't leave it
+And you're never gonna let this go
+All I know
+Is that you want to break it
+I just want to say
+Is that your feeling?
+You know what you are
+Tell me why
+Did you turn your back right to me
+You drive me crazy!
+We just carry on our relation that we can't keep any more
+But we have to make it for us 'cause I'm never gonna make it
+If I see your mind without the wall of emotion that I tore
+I could get everything back
+It's back to me just like that!
+As I look into your face and see you smiling there
+Show me anything
+You're never gonna let this go
+Maybe I was messed
+You think maybe I was wrong
+No way to change it
+But you're never gonna let this go
+All I know
+Is that you want to break it
+I just want to say
+Is that your feeling?
+You know what you are
+Tell me why
+Did you turn your back right to me
+You drive me crazy!
+We just carry on our relation that we can't keep any more
+But we have to make it for us 'cause I'm never gonna make it
+If I see your mind without the wall of emotion that I tore
+I could get everything back
+It's back to me just like that!
+All I know
+Is that you don't want to break it
+Please tell me why
+Did you turn your back right to me
+You drive me crazy!
+We just carry on our relation that we can't keep any more
+But we have to make it for us 'cause I'm never gonna make it
+If I see your mind without the wall of emotion that I tore
+I could get everything back
+This time, we will let this go!
+Let this go
+Let this go`
+},
 
 {
 title:"完全感覚Dreamer",
 url:"Dreamer.html",
+album:"Nicheシンドローム",
+tags:["ロック","日本語曲","人気曲","ライブ定番"],
 lyrics:`So now my time is up
 Your game starts, my heart moving?
 Past time has no meaning for us, it’s not enough!
@@ -483,8 +1084,64 @@ I can’t get enough! Can’t get enough!!`
 },
 
 {
+title:"混雑コミュニケーション",
+url:"konzatu.html",
+album:"Nicheシンドローム",
+lyrics:`It’s like you
+Here I am
+It’s been since 1988
+
+We are alive for a moment
+混雑してる　毎日
+あれも有りでこれも有り
+挙句の果てに何でも有り? There’s no option?
+
+空想的なイミテーションが
+いつだって It’s on my way
+限りなく果てしない
+しまいに落ちに落ちてくのさ Where are you going?
+
+Always had some trouble with pressure and connection
+戦略的攻略は? I guess nobody knows
+そうやって今日だって You can’t fool me
+
+It’s like you
+Here I am
+It’s been since 1988
+We got everything to take off now
+You’re thinking the same way
+
+We fight for a moment
+感覚的に毎日
+アレがこうでだからこう
+そんな理屈や理論だけじゃ There’s no way out
+
+突発的なイミテーションが
+いつだって It’s on my way
+限りなく果てしない
+しまいに落ちに落ちていって You can’t go back
+
+It’s like you
+Here I am
+It’s been since 1988
+We got everything to take off now
+
+It’s like you
+Here I am
+It’s been since 1988
+I’ve been taking this way all the time
+Taking this way again and again
+We got everything to take off now
+You’re thinking the same way
+
+`
+},
+
+{
 title:"Yes I am",
 url:"Yes_I_am.html",
+album:"Nicheシンドローム",
+tags:["ロック","英語曲"],
 lyrics:`世界の誰よりも輝ける
 そう信じて生きてきたのは確かなんだ
 でも世界の誰もがそう輝ける
@@ -526,8 +1183,64 @@ So keep on walking, go out through the door
 },
 
 {
+title:"Shake it down",
+url:"Shake_it_down.html",
+album:"Nicheシンドローム",
+lyrics:`Life is full of up and down
+I keep on searching for permanent security and satisfaction
+We sometimes get great achievement and encounter disappointment
+
+不承不承なこの世界　ゆえに不条理　実に低迷
+それを黙ってやり過ごす
+そんな毎日とはおさらばバイバイ
+You kiss my @*S!!
+
+Let’s shake it down
+Get it up!
+What I am doing is what you’re thinking now
+Everybody　なにもかもとっぱらって
+Let’s shake it down
+Get on up!
+まだまだこれから　Let’s dance
+型にははまらず　You shake it down
+
+One day, the sun is shining
+It makes me feel alive and makes me so rash
+Another day, the sky is so dark
+I’m here crying alone looking down all the time
+
+不承不承なこの世界　ゆえに不条理　実に低迷
+それを黙ってやり過ごす
+そんな毎日とはおさらばバイバイ
+I come from nowhere, I’m now here
+You know what I mean?
+
+Let’s shake it down
+Get it up!
+What I am doing is what you’re thinking now
+Everybody　なにもかもとっぱらって
+Let’s shake it down
+Get on up!
+まだまだこれから　Let’s dance
+型にはまらず　Shake it down
+
+This is your life 好きなように　騒いで我忘れて
+
+Let’s shake it down
+Get it up!
+What I am doing is what you’re thinking now
+Everybody　なにもかもとっぱらって
+Let’s shake it down
+Get on up!
+まだまだここから　Let’s dance
+横は気にせず　You shake it down`
+},
+
+{
 title:"じぶんROCK",
 url:"ROCK.html",
+album:"Nicheシンドローム",
+tags:["ロック","日本語曲","人気曲","ライブ定番"],
 lyrics:`今日も君は信じること
 忘れずに目覚められていますか?
 時が経つと自分さえも信じれなくなる時代のようです
@@ -565,6 +1278,8 @@ WOW!!何回ダメダメと言われようが
 {
 title:"Lair",
 url:"Lair.html",
+album:"Nicheシンドローム",
+tags:["ロック","英語曲"],
 lyrics:`What do you want from me? Just let me breathe a little
 What do you want to see? 目に見えるモノ?
 What do you want to believe? Still nothing can settled
@@ -604,6 +1319,8 @@ What do you think of living without me?
 {
 title:"Wherever you are",
 url:"wherever_you_are.html",
+album:"Nicheシンドローム",
+tags:["バラード","ラブソング","英語曲","人気曲","ライブ定番"],
 lyrics:`I’m telling you
 I softly whisper
 Tonight tonight
@@ -653,8 +1370,101 @@ I promise you“forever”right now`
 },
 
 {
+title:"Riot!!!",
+url:"Riot.html",
+album:"Nicheシンドローム",
+lyrics:`Everybody screaming
+Everybody moving
+Let's get it started
+Gotta make a riot now
+If you feel so empty and feel so tired
+When I'm sick of fake smile and fake words
+We're all wired
+いつだって 僕らほら
+自分を誤魔化しているから
+Everybody screaming
+Everybody moving
+I'm going crazy
+So what are you gonna do now
+I'm not only one
+Just like you, yeah
+We are all the same
+I can make it now
+When I'm sick of being the one who always tells everything
+Nothing can keep us from doing this
+Gotta make a riot now
+誰だってみんなほら
+泣いて 笑って 生きているから
+Everybody screaming
+Everybody moving
+I'm going crazy
+So what are you gonna do now
+I'm not only one
+Just like you, yeah
+We are all the same
+I can make it now
+Everybody screaming
+Everybody moving
+I'm going crazy
+This is all we got now
+I'm not only one
+Just like you, yeah
+You and I are one
+Make a riot now!
+Everybody screaming
+Everybody moving`
+},
+
+{
+title:"アダルトスーツ",
+url:"adult.html",
+album:"Nicheシンドローム",
+lyrics:`Can you hear me when I cry in desperation?
+Nothing comes along with my expectation
+How much pain and ache you’re feeling?
+Breathing??
+I gotta change this situation
+
+アダルトなキグルミ着てる僕
+心はいつも不安定天秤シーソー
+まさかの発言で凍り付かす印籠見え隠れ血迷うボク
+
+今日の今この瞬間に放とうとする　言葉がいつも後ろ髪引く
+
+全部ダメダメなんでしょ?じゃあもう放棄して!
+ハナから無かった事にしよ!! ラリるラリラリラ
+それじゃダメダメ悪いクセだね! もうしない!
+どうせ着せられているならキメきめでいこう!
+
+何もかもが暗く黒く見える!
+色メガネ付きのアダルトなパチモンスーツ
+必殺技×0で全部消し去ろうか? 強気なボク(笑)
+
+だけど実際はやっぱ出来やしないの　身軽さを奪われ動けない
+
+それでうまいことバランスとれてるんだよ!
+きみは耳元でそれを言う! それにしちゃ少し
+あんまりじゃない?っていうか不公平じゃない?
+どうせ勝ち目なんてないし食いぎみでいこう!
+
+I feel this moment
+No one can take it
+そう何回だって　伝わらなけりゃ意味無い!
+
+今日の今この瞬間が大事なの! 奪う権利はあなた方にはない!!
+
+全部ダメダメ! 何がダメダメ? なんでしょう?
+納得いくまで話してよ!
+どうせ屁理屈並べるんだろ? バカみたい
+とどめをさす気でいるなら?
+今がチャンスだぞ!`
+},
+
+{
 title:"未完成交響曲",
 url:"mikansei.html",
+album:"Nicheシンドローム",
+tags:["ロック","日本語曲","人気曲"],
 lyrics:`未完成さ!! そう僕は!!
 未完成なんだみんな!!
 生きる限り日々努力してその度に学んで七転び八起き
@@ -694,6 +1504,8 @@ We are alive We are alive
 {
 title:"Nobody's Home",
 url:"Nobody's_Home.html",
+album:"Nicheシンドローム",
+tags:["バラード","日本語曲","人気曲","ライブ定番"],
 lyrics:`How are you doing?
 そんなふうに言えるのにも時間がかかったね…
 いつだってここだけは温もりややさしさが
@@ -741,6 +1553,8 @@ Nobody’s home yeah
 {
 title:"アンサイズニア",
 url:"ansize.html",
+album:"残響リファレンス",
+tags:["ロック","日本語曲","人気曲","ライブ定番"],
 lyrics:`I think this way
 いく通りもある その問いの答えはもうただ…
 原理や理論に従って導き出す
@@ -794,6 +1608,8 @@ You know, the answer is inside of me`
 {
 title:"NO SCARED",
 url:"NO_SCARED.html",
+album:"残響リファレンス",
+tags:["ロック","英語曲","人気曲"],
 lyrics:`I wanna bring it back, We never carry on
 I wanna bring it back, We never carry on
 Seize it somehow seize it somehow
@@ -858,6 +1674,8 @@ flame we are`
 {
 title:"C.h.a.o.s.m.y.t.h",
 url:"Chaosmyth.html",
+album:"残響リファレンス",
+tags:["ロック","日本語曲","人気曲"],
 lyrics:`相変わらずあの頃に話した
 夢を僕は追い続けてるよ
 
@@ -930,6 +1748,8 @@ And live as if you’ll die today`
 {
 title:"Re:make",
 url:"Re_make.html",
+album:"残響リファレンス",
+tags:["ロック","人気曲","ライブ定番"],
 lyrics:`You take me back and show me you’re
 the only one
 Reveal the way you got me, I’ve got to run
@@ -987,6 +1807,8 @@ I can’t believe in you
 {
 title:"Pierce",
 url:"Pierce.html",
+album:"残響リファレンス",
+tags:["バラード","ラブソング"],
 lyrics:`Here with you now I’m good, still miss you
 I don’t know what I can do, we can’t be true
 
@@ -1024,6 +1846,8 @@ I can be your side`
 {
 title:"Let's take it someday",
 url:"Let's_take_it_someday.html",
+album:"残響リファレンス",
+tags:["ロック","英語曲"],
 lyrics:`いつだっていつの時代だって
 何が真実で　どれがニセモノなんて
 分かりゃしないから僕は音楽で大事な何かを
@@ -1080,6 +1904,8 @@ Let’s take it someday`
 {
 title:"キミシダイ列車",
 url:"kimi.html",
+album:"残響リファレンス",
+tags:["ロック","人気曲","ライブ定番"],
 lyrics:`Can’t take a time
 What are you waiting for?
 大事なコト忘れてないかい?
@@ -1138,6 +1964,7 @@ Are you ready now?　We are ready now for tonight`
 {
 title:"Ending Story??",
 url:"Ending_Story.html",
+album:"人生×僕=",
 lyrics:`You’ve got me trapped in corners
 Think I have nowhere to go
 But I’ll show you, first thing I do
@@ -1228,6 +2055,7 @@ A thousand words for every tear of mine`
 {
 title:"ONION!",
 url:"ONION.html",
+album:"人生×僕=",
 lyrics:`Wow what is life? tell me it’s like
 本質もとめる日々
 Peel it over and over again
@@ -1284,6 +2112,7 @@ Crying you don’t even know what for
 {
 title:"The Beginning",
 url:"the_beginning.html",
+album:"人生×僕=",
 lyrics:`Just give me a reason
 to keep my heart beating
 Don’t worry it’s safe right here in my arms
@@ -1360,6 +2189,7 @@ It finally begins`
 {
 title:"Clock Strike",
 url:"Clock_Strike.html",
+album:"人生×僕=",
 lyrics:`What waits for you?
 What’s breaking through?
 Nothing for good
@@ -1407,6 +2237,7 @@ You can keep it till the end`
 {
 title:"Be the light",
 url:"Be_the_light.html",
+album:"人生×僕=",
 lyrics:`Just the thought of another day
 How did we end up this way
 What did we do wrong?
@@ -1492,6 +2323,7 @@ Let’s make tomorrow a brighter and better day`
 {
 title:"Nothing Helps",
 url:"Nothing_Helps.html",
+album:"人生×僕=",
 lyrics:`No nothing helps
 We won’t stop right now
 We did it on our own
@@ -1574,6 +2406,7 @@ The story goes`
 {
 title:"All Mine",
 url:"All_Mine.html",
+album:"人生×僕=",
 lyrics:`All my problems they will run away from you and I see
 All the angels sit and stare at you
 You are everything but not today
@@ -1624,6 +2457,7 @@ I know I’m falling`
 {
 title:"Deeper Deeper",
 url:"Deeper_Deeper.html",
+album:"人生×僕=",
 lyrics:`Another step up
 It’s takin’ takin’ takin’ takin’ long
 Always digging
@@ -1683,6 +2517,7 @@ Do what you do gotta get through
 {
 title:"69",
 url:"69.html",
+album:"人生×僕=",
 lyrics:`このあまりにも短すぎる人生の中で何かを変える事は
 そんな簡単なことじゃないけどでもこの時代に生まれる事が出来たからこそ
 何かをぶっ壊す必要があって新しい何かを築いて
@@ -1730,6 +2565,7 @@ That’s the 69
 {
 title:"the same as...",
 url:"the_same_as.html",
+album:"人生×僕=",
 lyrics:`何気ない日々Just the same old thing
 何が欠けて足りないか….
 気付かないフリしててもI can’t run away from myself
@@ -1801,6 +2637,7 @@ and we hold every moment
 {
 title:"Take me to the top",
 url:"Take_me_to_the_top.html",
+album:"35xxxv",
 lyrics:`Take me to the top Take me to the top
 Take me to the top Take it
 Take me to the top Take me to the top
@@ -1856,6 +2693,7 @@ I wonder why`
 {
 title:"Cry Out",
 url:"Cry_out.html",
+album:"35xxxv",
 lyrics:`Switch the light off
 Welcome to the night
 What's the problem
@@ -1918,6 +2756,7 @@ Can't you hear the sound?`
 {
 title:"Suddenly",
 url:"Suddenly.html",
+album:"35xxxv",
 lyrics:`Spitting gas on the fire
 That’s burning this town
 Pieces really conspire
@@ -1961,6 +2800,7 @@ Suddenly`
 {
 title:"Mighty Long Fall",
 url:"Mighty_Long_Fall.html",
+album:"35xxxv",
 lyrics:`When we met the pain stood still
 It was us
 
@@ -2011,6 +2851,7 @@ When you know time is up`
 {
 title:"Heartache",
 url:"Heartache.html",
+album:"35xxxv",
 lyrics:`So they say that time
 Takes away the pain
 But I’m still the same
@@ -2065,6 +2906,7 @@ I miss you`
 {
 title:"Memories",
 url:"Memories.html",
+album:"35xxxv",
 lyrics:`Watch'n outer space I see them shine
 Crazy stuff like this it blows my mind
 So many times, waking up to the radio
@@ -2114,6 +2956,7 @@ Go on and fuck yourself`
 {
 title:"Decision",
 url:"Decision.html",
+album:"35xxxv",
 lyrics:`Another day
 Another life
 I wanna live it to the fullest
@@ -2166,6 +3009,7 @@ It’s my decision`
 {
 title:"Paper Planes",
 url:"Paper_Planes.html",
+album:"35xxxv",
 lyrics:`From paper planes, to hand grenades
 I'm gonna take you out
 From paper planes, to hand grenades
@@ -2239,6 +3083,7 @@ I'm gonna take you out`
 {
 title:"One by One",
 url:"One_by_One.html",
+album:"35xxxv",
 lyrics:`
  Come on!!
 
@@ -2339,6 +3184,7 @@ One by one they fall down
 {
 title:"Bombs away",
 url:"Bombs_away.html",
+album:"Ambitions",
 lyrics:`This is the end of you and me
 And I’m never going back
 Before my broken soulbegins
@@ -2401,6 +3247,7 @@ Tick tick tock and it’s bombs away
 {
 title:"Taking Off",
 url:"Taking_Off.html",
+album:"Ambitions",
 lyrics:`Stuck in the same routine
 Living an empty dream
 When am I gonna wake up
@@ -2458,6 +3305,7 @@ Drag me all the way to hell
 {
 title:"We are",
 url:"We_are.html",
+album:"Ambitions",
 lyrics:`They think that we’re no one
 We’re nothing, not sorry
 They push us
@@ -2515,8 +3363,127 @@ The colors in the dark`
 },
 
 {
+title:"Always coming back",
+url:"Always_coming_back.html",
+album:"Ambitions",
+lyrics:`I’m always coming back to you
+
+Some nights we fight we scream
+We don’t know what to do
+But I guess it’s just the simple things
+That people they go through
+
+But on other nights I glimpse I see
+the real one that’s you
+And I know than nothing will stop me from standing
+I can’t
+
+I’m always coming back to you
+You got me till the end
+I’m always coming back to you
+You keep pulling me in
+I’m always coming back
+
+Oh Oh
+Time goes by
+Oh Oh
+Time goes by
+
+背を向ければ向ける程に愛しく
+向き合えば合うほど離れていきそうで
+形のない不確かなモノを探す
+
+And I know than nothing can stop me from standing I can’t
+
+I’m always coming back to you
+You got me till the end
+I’m always coming back to you
+You keep pulling me in
+I’m always coming back
+
+Oh Oh
+Time goes by
+Oh Oh
+Time goes by
+
+明日もしも君がそこにいなくても
+怖くないって言えるくらい強くなるよ
+I gotta find a way a place
+to keep you here with me
+
+Some nights we fight we scream
+We don’t know what to do
+But I guess it’s just the simple things
+That people they go through
+
+Oh Oh
+Time goes by
+Oh Oh
+Time goes by
+
+Time goes by…
+
+Some nights we fight we scream
+We don’t know what to do
+But I guess it’s just the normal things
+That people they go through`
+},
+
+{
+title:"Bedroom Warfare",
+url:"Bedroom_Warfare.html",
+album:"Ambitions",
+lyrics:`Keep your enemies close
+Your enemies close
+
+I cut you off but you’re still here
+You’re like a whisper in my ear
+
+You start soft but you’re getting louder
+Every hour I feel the power
+We go hard till the morning light
+We battle nightly
+“Keep your enemies…”
+
+Bedroom warfare in the middle of the night
+Out of nowhere you come back into my life
+And I know in the morning we’ll be
+Nothing more than each other’s enemy
+Bedroom warfare in the middle of the night
+
+Keep your enemies close
+Your enemies close
+
+はじめから分かっていて
+深入りはしない関係
+2人繋ぐ　糸を赤く見せる
+君のマジック　種明かし
+ウソにウソ重ね作られる
+笑う君
+“Keep your enemies…”
+
+Bedroom warfare in the middle of the night
+Out of nowhere you come back into my life
+And I know in the morning we’ll be
+Nothing more than each other’s enemy
+Bedroom warfare in the middle of the night
+
+Keep your enemies close
+Your enemies close
+
+I cut you off but you’re still here
+
+Bedroom warfare in the middle of the night
+Out of nowhere you come back into my life
+And I know in the morning we’ll be
+Nothing more than each other’s enemy
+Bedroom warfare in the middle of the night`
+},
+
+{
 title:"I was King",
 url:"I_was_King.html",
+album:"Ambitions",
 lyrics:`We said tonight
 No going back
 Nothing seems right
@@ -2572,6 +3539,7 @@ We had everything`
 {
 title:"One Way Ticket",
 url:"One_Way_Ticket.html",
+album:"Ambitions",
 lyrics:`Remember that night
 I had to leave you
 You said it's alright
@@ -2634,8 +3602,66 @@ Home`
 },
 
 {
+title:"Bon Voyage",
+url:"Bon_Voyage.html",
+album:"Ambitions",
+lyrics:`It took some time to realize
+That things are not getting better
+We should know, we should know
+It's over
+
+You're seeing the other side of me
+We tried to weather the weather
+We should know, we should know
+That night's gone
+
+熱が二つを引き合わせ
+冷めてしまえば
+Never getting better
+
+I know things won't change
+I'm saying bon voyage
+Down to the line
+Down to the line
+It's time to sail
+
+We're stuck on repeat
+I'm saying bon voyage
+Down to the line
+Down to the line
+I'm letting go
+
+I hope you find another life
+Maybe you'll start getting better
+We should know, we should know
+It's over
+
+I miss the days I spent alone
+Before we lived together
+We should know, we should know
+That time's gone
+
+熱が二つを引き合わせ
+冷めてしまえば
+Never getting better
+
+I know things won't change
+I'm saying bon voyage
+Down to the line
+Down to the line
+It's time to sail
+
+We're stuck on repeat
+I'm saying bon voyage
+Down to the line
+Down to the line
+I'm letting go`
+},
+
+{
 title:"Start Again",
 url:"Start_Again.html",
+album:"Ambitions",
 lyrics:`This is where I draw the line
 Seen this war a million times
 Looking for a peace of mind
@@ -2681,6 +3707,7 @@ Is the end a chance to start again？`
 {
 title:"Take what you want",
 url:"Take_what_you_want.html",
+album:"Ambitions",
 lyrics:`Take what you want
 Take what you want and go
 
@@ -2736,6 +3763,7 @@ Can you hear me?`
 {
 title:"Stand Out Fit In",
 url:"Stand_Out_Fit_In.html",
+album:"Eye of the Storm",
 lyrics:`I know they don't like me that much
 Guess that I don't dress how they want
 I just wanna be myself
@@ -2828,6 +3856,7 @@ Stand out fit in`
 {
 title:"Wasted Nights",
 url:"Wasted_Nights.html",
+album:"Eye of the Storm",
 lyrics:`Must be something in the water
 Feel like I can take the world
 Throw the weight up on my shoulders
@@ -2896,6 +3925,7 @@ No more wasted nights`
 {
 title:"Change",
 url:"Change.html",
+album:"Eye of the Storm",
 lyrics:`If we′re not moving forward
 What are we moving for?
 Feels like we're losing order
@@ -2950,6 +3980,7 @@ Stay, we′re looking out, looking out, stay, yeah`
 {
 title:"Push Back",
 url:"Push_Back.html",
+album:"Eye of the Storm",
 lyrics:`Gun to our heads
 They’re trying to tell us what to think
 We’re stuck on the edge
@@ -2998,6 +4029,7 @@ We’ll get up and push back`
 {
 title:"Save Yourself",
 url:"Save_Yourself.html",
+album:"Luxury Disease",
 lyrics:`Save yourself
 Love is pain I know too well
 You’ve never felt
@@ -3070,6 +4102,7 @@ Save yourself`
 {
 title:"Neon",
 url:"Neon.html",
+album:"Luxury Disease",
 lyrics:`Neon lights
 
 Woke up in hell for a day
@@ -3145,8 +4178,80 @@ Neon lights`
 },
 
 {
+title:"Vandalize",
+url:"Vandalize.html",
+album:"Luxury Disease",
+lyrics:`Sound the alarm
+Shatter me like glass
+Covered in scars
+But roses are coming through the cracks
+
+Time that you killed
+You promised to
+Help me rebuild
+You caught me off guard
+Sound the alarm
+
+Said you’d keep me safe
+Now you’re tearing me down
+Am I laid to waste
+Now that you’re not around
+Come and leave your mark
+Vandalize my heart
+Fuck the pain away
+My bed is in ruins
+Need you in my veins
+Don’t know how you do it
+Come and leave your mark
+Vandalize my heart
+
+描かれていたモナリザは君のようさ
+冷たくて後をひく微笑みがさ
+カラクリじかけの魔法で
+壊されて狂うように
+
+何回も Trip
+そして君に Add したいのに
+掴みようのない
+そうシルクのように
+
+Said you’d keep me safe
+Now you’re tearing me down
+Am I laid to waste
+Now that you’re not around
+Come and leave your mark
+Vandalize my heart
+Fuck the pain away
+My bed is in ruins
+Need you in my veins
+Don’t know how you do it
+Come and leave your mark
+Vandalize my heart
+
+Oh you’re fucking crazy
+Hate me love you
+Breaking bottles on the pavement
+Just to watch them crash
+
+全て失っても　君はまだ
+そこにいると信じたかった
+Come and leave your mark
+Vandalize my heart
+虚しくても終わらせれない
+諦めるほど強くはない
+Come and leave your mark
+Vandalize my heart
+
+何も無くなってから気付いた
+はじめから君はいなかった
+Come and leave your mark
+Vandalize my heart`
+},
+
+{
 title:"When They Turn the Lights On",
 url:"When_They_Turn_the_Lights_On.html",
+album:"Luxury Disease",
 lyrics:`I been climbing since I was young
 Never stopped to look down
 I lost track of the man I was
@@ -3201,6 +4306,7 @@ When they turn the lights on
 {
 title:"Let Me Let You Go",
 url:"Let_Me_Let_You_Go.html",
+album:"Luxury Disease",
 lyrics:`Bullets in the dark
 
 Shootin’ through my hesitating heart
@@ -3330,8 +4436,78 @@ Why’d you let me let you go?`
 },
 
 {
+title:"So Far Gone",
+url:"So_Far_Gone.html",
+album:"Luxury Disease",
+lyrics:`Broken
+When I thought that you were whole
+All the future memories
+That we’ll never get to know
+Explaining explaining
+The pain that I got
+When you left me in this life
+Tell me I can do this
+I can do this on my own
+
+We’re victims of love
+One after one
+Stuck on the dark side of the sun
+Battles we lost
+Battles we won
+I know
+
+So far gone
+The weight of your name
+Gonna keep me steady
+I’ll be strong tonight
+You’re never so far gone
+Pieces of you shining through the clouds
+You live on tonight
+
+Slowly
+Found the road to guide me home
+Even though you’re not here
+I know we are not alone
+Explaining explaining
+The pain that I got
+When you left me in this life
+Yeah it’s hard sometimes
+
+You’re never so far gone
+The weight of your name
+Gonna keep me steady
+I’ll be strong tonight
+You’re never so far gone
+Pieces of you
+Shining through the clouds
+You live on tonight
+
+I don’t know what life is without you
+Still I feel you with me every move
+So close, yet so far
+Like the moon and the stars
+
+You’re never so far gone
+The weight of your name
+Gonna keep me steady
+I’ll be strong tonight
+You’re never so far gone
+Pieces of you
+Shining through the clouds
+You live on tonight
+
+Na na na…
+
+So far gone
+The weight of your name
+Gonna keep me steady
+I’ll be strong tonight`
+},
+
+{
 title:"Mad World",
 url:"Mad_World.html",
+album:"Luxury Disease",
 lyrics:`世界中にこの声は届くと
 信じた日　それが僕のセカンドバースデー
 何を言おうが　今　嘘偽りのないものが
@@ -3379,6 +4555,7 @@ We living in a mad world
 {
 title:"Renegades",
 url:"Renegades.html",
+album:"Luxury Disease",
 lyrics:`Got a fire in my soul
 I’ve lost my faith in this broken system
 Got love for my home
@@ -3444,8 +4621,66 @@ We could be the renegades`
 },
 
 {
+title:"Your Tears are Mine",
+url:"Your_Tears_are_Mine.html",
+album:"Luxury Disease",
+lyrics:`It’s been a ride
+Fighting through life
+Hard to come by some kindness
+Trying to hide all that’s inside
+Making walls of your silence
+And I know there’s something going on
+Though you don’t ever let me in
+I’d give you all my soul
+Just for you to know
+
+Your tears are mine
+And it’s a new world tonight
+Say my name and I will fly
+Over to you
+Gunning for time
+I promise you that it will be all right
+Just please hold on
+
+I’d like to love you true
+With all of your scars
+Wish I could care for a little
+Piece of your heart
+If you’d like to tell me
+How your story began
+I’m sitting right here waiting
+And no you’re not alone anymore
+
+Your tears are mine
+And it’s a new world tonight
+Say my name and I will fly
+Over to you
+Gunning for time
+I promise you that it will be all right
+Just please hold on
+
+I’ll be right here and there’s nothing to hide
+Everyone needs understanding sometimes
+You’re beautiful even when you feel broken
+I’m right by you
+We’ll make it through
+I’ll stay with you till the dark fades
+
+Your tears are mine
+It’s a new world tonight
+Say my name and I will fly
+Over to you
+Gunning for time
+I promise you that I’ll be by your side
+Through the fight
+Everything’s gonna be fine
+Just please hold on tight`
+},
+
+{
 title:"Wonder",
 url:"Wonder.html",
+album:"Luxury Disease",
 lyrics:`Take take all the risk
 I don’t wanna play
 Safe safe
@@ -3515,6 +4750,7 @@ Don’t you ever wonder？`
 {
 title:"NASTY",
 url:"NASTY.html",
+album:"DETOX",
 lyrics:`Wanna scream
 Wanna scream like a banshee
 In the street
@@ -3583,6 +4819,7 @@ We too damn nasty`
 {
 title:"Dystopia",
 url:"Dystopia.html",
+album:"DETOX",
 lyrics:`Tryin’ to find some inner peace
 Apocalyptic tendencies
 We blame it on a whisper
@@ -3643,6 +4880,7 @@ Dystopia`
 {
 title:"Tropical Therapy",
 url:"Tropical_Therapy.html",
+album:"DETOX",
 lyrics:`Another day here in the system
 My soul is on a plane
 Take a shot of whiskey
@@ -3717,6 +4955,7 @@ Getaway
 {
 title:"Delusion:All",
 url:"Delusion_All.html",
+album:"DETOX",
 lyrics:`They’ll conquer us if we divide
 No one will listen to you
 We gotta stand up and draw a line
@@ -3771,6 +5010,7 @@ And we’re not exhausted`
 {
 title:"Party's Over",
 url:"Party's_Over.html",
+album:"DETOX",
 lyrics:`傘もささずにたたずむ君
 雨にうたれりゃ寒かろに
 Get you out of my head
@@ -3828,6 +5068,7 @@ The party’s over`
 {
 title:"Puppets Can't Control You",
 url:"Puppets_Can't_Control_You.html",
+album:"DETOX",
 lyrics:`先攻か後攻で決まるような
 馬鹿げたペテン師のゲームに
 実際踊らされて狂わされ
@@ -3879,6 +5120,7 @@ You’ll never be happy again`
 {
 title:"Tiny Pieces",
 url:"Tiny_Pieces.html",
+album:"DETOX",
 lyrics:`Wish I could forget how it felt
 When you said that it’s over
 Staring at your lipstick
@@ -3949,6 +5191,7 @@ Yea you broke me into tiny pieces`
 {
 title:"This Can't Be Us",
 url:"This_Can't_Be_Us.html",
+album:"DETOX",
 lyrics:`I hear your voice just like a song
 And your melody
 It tells me somethings wrong
@@ -4024,6 +5267,7 @@ I won’t forget your love`
 {
 title:"+Matter",
 url:"+Matter.html",
+album:"DETOX",
 lyrics:`Life can be heavy
 Time can be scary
 Days around the sun
@@ -4080,6 +5324,7 @@ You matter to me`
 {
 title:"C.U.R.I.O.S.I.T.Y",
 url:"CURIOSITY.html",
+album:"DETOX",
 lyrics:`Time to wake up
 There’s a war inside
 Bless the marauders
@@ -4171,6 +5416,7 @@ my CURIOSITY`
 {
 title:"The Pilot",
 url:"The_Pilot.html",
+album:"DETOX",
 lyrics:`Fifteen and crazy
 No one to save me
 You were the pilot when my world came crashing down
@@ -4239,6 +5485,7 @@ After we've loved and learned`
 {
 title:"カラス",
 url:"karasu.html",
+album:"その他",
 lyrics:`早朝のゴミ捨て場所には
 しのぎ合って生きる黒い鳥達
 それと僕らダブらせてみて
@@ -4277,8 +5524,52 @@ I won’t stop the fight
 },
 
 {
+title:"The Way Back",
+url:"The_Way_Back.html",
+album:"その他",
+lyrics:`I am still broken in two parts
+There is my mind, there is my heart
+No way for me to run and hide
+うまく転がされて
+そいつの手のひらで
+価値観や理念などはない
+
+You know the way back
+You just crash right into me
+But it’s not so easy now
+Oh way back when
+
+二つの顔をもち　使い分けるうちに
+三つ目が顔を出す
+やつれてきた頬が醜さを物語る
+Don’t even think that you know me
+
+You know the way back
+You just crash right into me
+But it’s not so easy now
+Oh way back
+You only had one face
+Saving grace now
+You know the way back
+
+I am still broken in two parts
+There is my mind, there is my heart
+No way for me to run and hide
+
+You know the way back
+You just crash right into me
+But it’s not so easy now
+Oh way back
+You only had one face
+Saving grace now
+You know the way back`
+},
+
+
+{
 title:"Make It Out Alive",
 url:"Make_It_Out_Alive.html",
+album:"その他",
 lyrics:`Run away run away run away
 You don’t know who to run from
 Nowhere to go nowhere to go nowhere to go
@@ -4336,6 +5627,7 @@ We’re gonna make it out alive`
 {
 title:"777",
 url:"777.html",
+album:"その他",
 lyrics:`7 We can't stop
 7 On a mission
 7 Hit the jackpot
@@ -4424,6 +5716,16 @@ Flip the table upside…. 7777
 7 It's a movie
 7 Don't give up
 7 Get ya ass up`
+},
+
+{
+title:"",
+url:".html",
+lyrics:``
 }
 
+
+
+
 ];
+
