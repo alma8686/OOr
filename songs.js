@@ -1551,6 +1551,57 @@ Nobody’s home yeah
 // 以下も同じ形で変更
 
 {
+title:"LOST AND FOUND",
+url:"LOST_AND_FOUND.html",
+album:"残響リファレンス",
+lyrics:`More expectation
+Instead of singing in the blue sky
+I was like a bird captured in a dungeon cage
+Spread my confession
+All of the good and bad deeds I have done
+There was just too much I lost
+
+Break the cage
+Though I'm still bare I'll fly for the new true
+When the beat beats my heartbeat
+
+I know that I am dead still standing
+Though my body's shaking sweating like Wooo
+I can almost taste the hate the rage the morn the longer
+I stare into the eyes of my own
+And feel my bloodstream gushing vividly inside
+
+Too many questions
+The paper thin relationship can be torn with a stroke
+Wanna trust no more
+Just wanna let you know
+Seems like yesterday
+When I was a little boy gazing in the sky
+
+But wake up game is up
+I am back for revenge
+When the beat beats my heartbeat
+
+I know that I am dead still standing
+Though my body's shaking sweating like Wooo
+I can almost taste the hate the rage the morn the longer
+I stare into the eyes of my own
+And feel my bloodstream gushing vividly inside
+
+I come to you again
+Here I got something new but I can't reach for your touch
+You must think you're losing all your mind
+Sometimes you're lost
+But you will be found
+
+I know that I am dead still standing
+Though my body's shaking sweating like Wooo
+I can almost taste the hate the rage the mourn the longer
+I stare into the eyes of my own
+And feel my bloodstream gushing vividly inside`
+},
+
+{
 title:"アンサイズニア",
 url:"ansize.html",
 album:"残響リファレンス",
@@ -1743,6 +1794,89 @@ And live as if you’ll die today
 So終わらない歌　今歌うよ
 Dream as if you will live forever
 And live as if you’ll die today`
+},
+
+{
+title:"Mr.現代Speaker",
+url:"speaker.html",
+album:"残響リファレンス",
+lyrics:`ねぇMr. 現代スピーカー　今の実状は?
+I don’t understand this
+連鎖するサイレンサー　もはやシュミレーター
+No one gives me an answer
+
+もう制御不能・非常事態　まるで心あらずみたい
+気持はどっか遠くの方へ　Can you reach me?!
+
+Nobody can find me here
+This is my secret place
+No one knows and no one will know
+But I feel like losing senses
+I am in this corner here alone
+
+冷めたNewリアリズム掲げた君の好物はきっと
+アゲもアシもとられた　何とも無様で哀れな人の表情!!
+
+もう制御不能・異常事態　まるで心あらずみたい
+気持はもはや見当たんない　Can you hear me?!
+
+Nobody can find me here
+This is my secret place
+No one knows and no one will know
+But I feel like losing senses
+I am in this corner here alone
+
+もう僕が伝えたい事なんて
+日々の暮らしの中に詰まっていて
+だけど見つけられず　そうスルーして
+また一日が終わっていくの…
+
+Nobody can find me here
+This is my secret place
+No one knows and no one will know
+But I feel like losing senses
+I am in this corner here alone`
+},
+
+{
+title:"世間知らずの宇宙飛行士",
+url:"seken.html",
+album:"残響リファレンス",
+lyrics:`Got to the sun and pass all the stars
+Down to the moon and heading to Mars
+
+Smells like burning
+Now I’m out of orbit
+Watch the turning
+In my head you’re saying good-bye…
+
+I can’t just stay
+Take a breath and you can see it’s so real
+I can’t just stay
+Take a breath and you can see it’s so real
+
+Up to Cygnus
+It looks smaller than I thought
+See that signal
+The fuel is running out
+Good night…
+
+I can’t just stay
+Take a breath and you can see it’s so real
+I can’t just stay
+Take a breath and you can see it’s so real
+
+I can’t just stay
+Take a breath and you can see it’s so real
+I can’t just stay
+Take a breath and you can see it’s so real
+
+How are you doing today?
+I am calling NA
+What are you up to today?
+I am running away
+
+Take a breath and you can see it’s so real`
 },
 
 {
@@ -3761,6 +3895,68 @@ Can you hear me?`
 },
 
 {
+title:"Eye of the Storm",
+url:"Eye_of_the_Storm.html",
+album:"Eye of the Storm",
+lyrics:`It’s harder to see
+With my head in the clouds
+But my feet on the floor
+I can’t seem to keep
+Any wolves from my door
+
+The funny thing is
+You wait for a sign
+And then 10 come along
+A swing and a miss
+It never rains
+But it pours
+
+Drowning in the water
+Against the current
+I can barely hold on
+But one thing that I remember
+It’s always darkest before the dawn
+
+In the eye of the storm
+In the eye of the storm
+
+One thing that
+Keeps me going
+More than you’ll ever know
+In the eye of the storm
+
+暗がりにまとわりつく光の尾
+向こう岸にはまだ見えぬ未知の陽
+
+But one thing that I remember
+It’s always darkest before the dawn
+
+In the eye of the storm
+In the eye of the storm
+
+One thing that
+Keeps me going
+More than you’ll ever know
+In the eye of the storm
+
+I remember
+I remember
+It’s always darkest before the dawn
+And that one thing will keep me going
+More than you will ever ever know
+
+In the eye of the storm
+In the eye of the storm
+In the eye of the storm
+
+It’s the one thing that
+Keeps me going
+More than you’ll ever know
+
+In the eye of the storm`
+},
+
+{
 title:"Stand Out Fit In",
 url:"Stand_Out_Fit_In.html",
 album:"Eye of the Storm",
@@ -3851,6 +4047,107 @@ Stand out fit in
 Stand out fit in
 Stand out fit in
 Stand out fit in`
+},
+
+{
+title:"Head High",
+url:"Head_High.html",
+album:"Eye of the Storm",
+lyrics:`Yeah they tried to stop me
+But it was too late
+Oh there’s no interfering my fate
+They was trying to hold me
+In every way
+Thinking I’ve taken everything I could take
+
+Everybody’s challenge turning into mine
+And overcame adversity
+
+With my head high
+My
+Make a stand with my head high
+My
+I’m not afraid to love
+I’m not afraid to try
+I’m not afraid to fly
+With my head high
+My
+
+No it wasn’t easy
+But everyday
+Oh I took one step closer to change
+They didn’t wanna see me
+Break these chains
+Being more than just a name and a face
+
+昨日も明日も越えて
+更にそのもっと先へ
+
+With my head high
+My
+Make a stand with my head high
+My
+I’m not afraid to love
+I’m not afraid to try
+I’m not afraid to fly
+With my head high
+My
+
+With my head high
+My
+Make a stand with my head high
+My
+
+With my head high
+My
+Make a stand with my head high
+My
+I’m not afraid to love
+I’m not afraid to try
+I’m not afraid to fly
+With my head high
+My`
+},
+
+{
+title:"Grow OldDie Young",
+url:"Grow_Old_Die_Young.html",
+album:"Eye of the Storm",
+lyrics:`I wanna dance till my legs break
+I wanna love till my heart aches
+I want the cause of my death
+To be amazing sex
+And I’ll laugh with my last breath
+
+Let’s grow old and die young
+Let’s grow old and die young
+We ain’t done the best is yet to come
+Let’s grow old and die young
+
+愛すほどに壊して
+君は僕を試してる
+そんな君を許して
+そして僕を許して
+その答えを探して
+まわって
+
+Let’s grow old and die young
+Let’s grow old and die young
+We ain’t done the best is yet to come
+Let’s grow old and die young
+
+So, they say our days
+Are numbers on the page
+Can’t take our youth away
+
+Let’s grow old and die young
+Let’s grow old and die young
+We ain’t done the best is yet to come
+Let’s grow old and die young
+
+Let’s grow old and die young
+We ain’t done the best is yet to come
+Let’s grow old and die young`
 },
 
 {
@@ -4024,6 +4321,371 @@ They’re trying to tell us what to think
 We’re stuck on the edge
 So go ahead and push us
 We’ll get up and push back`
+},
+
+{
+title:"Letting Go",
+url:"Letting_Go.html",
+album:"Eye of the Storm",
+lyrics:`I remember getting fucked up on the long nights
+I remember how we made up after long fights
+I remember when we stayed up till the daylight
+I remember when you told me you were all mine
+
+Let the past be the past
+‘cause I know nothing lasts
+Yeah we had what we had
+But I’m moving on
+
+I hope you know
+That it wasn’t easy
+Letting go
+Of the life I knew
+
+I just had to get it out
+Move to the city
+Didn’t feel right
+Taking you with me
+Hope you know
+That it wasn’t easy
+Letting go
+
+I tell myself that I don’t need you, that I’m okay
+Tell myself I’m on my own now, go my own way
+I see your pictures of your new life, you look happy
+Tell myself moving on should be easy
+
+Let the past be the past
+‘cause I know nothing lasts
+Yeah we had what we had
+But I’m moving on
+
+I hope you know
+That it wasn’t easy
+Letting go
+Of the life I knew
+
+I just had to get it out
+Move to the city
+Didn’t feel right
+Taking you with me
+Hope you know
+That it wasn’t easy
+Letting go
+
+激しくぶつかり合う恋
+優しくて深い愛
+その二つを持ち合わすも
+若すぎた僕ら
+
+I remember when we stayed up till the daylight
+I remember when you told me you were all mine
+
+I hope you know
+That it wasn’t easy
+Letting go
+Of the life I knew
+
+I just had to get it out
+Move to the city
+Didn’t feel right
+Taking you with me
+Hope you know
+That it wasn’t easy
+Letting go
+
+Letting go
+Letting go
+Letting go`
+},
+
+{
+title:"Worst in Me",
+url:"Worst_in_Me.html",
+album:"Eye of the Storm",
+lyrics:`I used to think that you were mine mine
+Now I know it’s just a lie lie
+Guess I should’ve seen the signs signs
+Used to think that you were mine mine
+
+All you do is take take take
+But you’re giving me nothing giving me nothing
+Why you such a fake fake fake
+Always asking for something asking for something
+
+Beautiful smile but you lie through your teeth
+Bright on the surface, dark underneath
+I try not to look but it’s easy to see
+You are the worst in me
+You are the worst in me
+
+I always felt like something’s wrong wrong
+I let this go on way too long long
+I won’t miss you when you’re gone gone
+Always felt like something’s wrong wrong
+
+All you do is take take take
+But you’re giving me nothing giving me nothing
+Why you such a fake fake fake
+Always asking for something asking for something
+
+Beautiful smile but you lie through your teeth
+Bright on the surface, dark underneath
+I try not to look but it’s easy to see
+You are the worst in me
+
+Gotta let you know
+Gotta let you go for good
+You thought I never would
+But that’s the old me
+Gotta let you go for good for good for good
+
+奪われてtake take take
+見返りは無し　なんの話？
+嘘つきの fake fake fake
+ほらこのパターンで　求めてばっか
+
+引きつる頬が物語る
+裏表の神業に
+見えないように　けどバレバレ
+You are the worst in me
+You are the worst in me
+You are the worst in me`
+},
+
+{
+title:"In the Stars",
+url:"In_the_Stars.html",
+album:"Eye of the Storm",
+lyrics:`Sick and tired of waiting
+So we learned to fly
+What a wild ride
+Brave enough to make it
+And we're here to stay
+Yeah we found a way
+If you ever feel lost with nowhere to go
+We can make a new world where nobody knows
+Our place, our space, call it home
+We're all the way up up up
+Never look down down down
+Breaking the ceiling (Breaking the ceiling)
+'Cause I believe the world is ours
+We're all the way up up up
+We'll never look down down down
+I got a feeling (I got a feeling)
+That it was written in the stars
+Whoah-oh-oh-oh
+Whoah-oh-oh-oh
+Whoah-oh-oh-oh
+Written in the stars
+I wasn't born to follow
+So I took the lead
+I didn't lose the dream
+Forget about tomorrow
+Bring it on tonight
+The sky's burning bright
+We're all the way up up up
+Never look down down down
+Breaking the ceiling (Breaking the ceiling)
+'Cause I believe the world is ours
+We're all the way up up up
+Never look down down down
+I got a feeling that it was written in the stars
+Whoah-oh-oh-oh
+Whoah-oh-oh-oh
+Whoah-oh-oh-oh
+Written in the stars
+If you ever get stuck with nowhere to run
+When you're covered in clouds, I'll show you the sun
+Our time to shine, we've just begun
+We're all the way up up up
+Never look down, down, down
+Breaking the ceiling (Breaking the ceiling)
+'Cause I believe the world is ours
+We're all the way up up up
+We never look down, down, down
+I got a feeling (I got a feeling)
+That it was written in the stars
+Whoah-oh-oh-oh
+Whoah-oh-oh-oh
+Whoah-oh-oh-oh
+That it was written in the stars, yeah
+Whoah-oh-oh-oh
+Whoah-oh-oh-oh (Written in the stars)
+Whoah-oh-oh-oh
+Written in the stars`
+},
+
+{
+title:"Giants",
+url:"Giatnts.html",
+album:"Eye of the Storm",
+lyrics:`Through silence
+Hear the thunder in you
+I know you’re mind is
+Looking for a truce
+
+Don’t need reminding
+We’re living proof
+So walk with me and I’ll walk with you
+
+So now we’re standing on the edge
+Our backs against the wall
+A penthouse view
+On our own two
+And now we’re standing tall
+
+We can be giants giants
+We can be giants giants
+光り輝く
+栄光の場所
+We can be giants giants
+
+In the chaos
+Our kingdom fell
+Stole heaven
+So we gave’em hell
+In the pieces
+We found ourselves
+So fight for me
+I’ll fight as well
+
+So now we’re standing on the edge
+Our backs against the wall
+A penthouse view
+On our own two
+And now we’re standing tall
+
+We can be giants giants
+We can be giants giants
+光り輝く
+栄光の場所
+We can be giants giants
+
+We can be giants giants
+We can be giants giants
+‘cause every one of us
+Has always been enough
+We can be
+We can be giants
+
+We can be giants giants
+We can be giants giants
+光り輝く
+栄光の場所
+We can be giants giants`
+},
+
+{
+title:"Can't Wait",
+url:"Can't Wait.html",
+album:"Eye of the Storm",
+lyrics:`They say what doesn't kill you
+Will just make you tougher
+But I've had enough
+I can't wait
+I can't wait
+Now my backs on the ropes
+Got nowhere to go
+I'm ending this fight
+I can't wait
+You say it's forever
+I'm sorry I
+I'm sorry I
+Gotta let go
+You say now or never
+I'm sorry I
+I'm sorry I
+Gotta let go
+You wanna pull me in closer
+I know I'm better alone
+Don't make me say that it's over
+I'm sorry, I'm sorry
+You say it's forever
+I'm sorry I
+I'm sorry I
+Gotta let go
+Gotta let go, gotta let go
+Gotta let go, gotta let go
+狂う歯車になすすべなく
+空回り
+I can't wait
+I can't wait
+深い霧がかかり目の前も白く濁る
+I can't wait
+You say it's forever
+I'm sorry I
+I'm sorry I
+Gotta let go
+You say now or never
+I'm sorry I
+I'm sorry I
+Gotta let go
+You wanna pull me in closer
+I know I'm better alone
+Don't make me say that it's over
+I'm sorry, I'm sorry
+You say it's forever
+I'm sorry I
+I'm sorry I
+Gotta let go
+Gotta let go, gotta let go
+Gotta let go, gotta let go
+You were always there on my mind
+Now it doesn't seem right
+Doesn't feel right
+I was turning into someone
+I don't wanna be
+I just wanna leave
+You say it's forever
+I'm sorry I
+I'm sorry I
+Gotta let go
+You say now or never
+I'm sorry I
+I'm sorry I
+Gotta let go
+Gotta let go, gotta let go
+Gotta let go, gotta let go`
+},
+
+{
+title:"The Last Time",
+url:"The_Last_Time.html",
+album:"Eye of the Storm",
+lyrics:`You almost forgot how it made you feel
+Your feet on the edge, you knew it was real
+It faded away yeah
+At the starting gun
+No one ever told you
+That it's time to run
+Some hell to go through
+But it's not enough
+Watching from the sidelines now
+When was the last time you felt
+Your heart race
+Your heart race
+When was the last time you left
+Your safe place
+Your safe place
+Just let it go
+When was the last time, the last time
+When was the last time, the last time
+合図を待つ君には
+掴もうとしても掴めない
+It faded away, yeah
+始まりを知らせる声が
+どこからかそっと聞こえる
+その声は自分自身だった
+When was the last time you felt
+Your heart race
+Your heart race
+When was the last time you left
+Your safe place
+Your safe place
+Just let it go
+When was the last time, the last time
+When was the last time, the last time`
 },
 
 {
@@ -5721,6 +6383,7 @@ Flip the table upside…. 7777
 {
 title:"",
 url:".html",
+album:"",
 lyrics:``
 }
 
