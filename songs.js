@@ -2538,6 +2538,85 @@ The story goes`
 },
 
 {
+title:"Juvenile",
+url:"Juvenile.html",
+album:"人生×僕=",
+lyrics:`On one lonely night
+Drenched in rain
+Oh what can I see?
+And you wander about
+Feel the pain
+You know how far we came from home?
+
+Who’ll let you know
+If I’m safe
+It’s not what I see
+I have never heard life’s always hard
+Go wrong, it’s alright
+
+Don’t be shy whenever you want something
+What you waiting for?
+Find your door
+Gotta hold your own and stay don’t run away
+When you show (will to live there’s no way you)
+Will lose it after finding that“anything”
+Cuz life is full of points you score
+You’ll see, brighter days coming
+All the nights becoming day
+On your mark!!
+
+One place to be?
+Where are we?
+Not what it seems for sure
+Coming up, bring it up
+Let your mind set you free
+
+Hold up! hear that noise?
+Watch out! someone annoys?
+You know, they are breaking
+What we built
+I’ve never seen I’ve never thought it would come
+It’s alright
+
+Don’t be shy whenever you want something
+What you waiting for?
+Find your door
+Gotta hold your own and stay don’t run away
+When you show (will to live there’s no way you)
+Will lose it after finding that“anything”
+Cuz life is full of points you score
+You’ll see, brighter days coming
+All the nights becoming day
+On your mark!!
+
+Gosh!
+Pushing too rough!
+Packing to punch!
+It’s just too much!
+Heading to ditch!
+Ignoring your wish!
+Much time to miss!
+But I can’t reach!!!
+
+No matter how much you try to live good
+No matter what you get for the answer
+No matter where you roam for the reason
+Your elation is high
+
+Don’t be shy whenever you want something
+What you waiting for?
+Find your door
+Gotta hold your own and stay don’t run away
+When you show (will to live there’s no way you)
+Will lose it after finding that“anything”
+Cuz life is full of points you score
+You’ll see, brighter days coming
+All the nights becoming day
+On your mark!!`
+},
+
+
+{
 title:"All Mine",
 url:"All_Mine.html",
 album:"人生×僕=",
@@ -2586,6 +2665,62 @@ You’re so beautiful to
 me It’s true
 Amazed by you
 I know I’m falling`
+},
+
+{
+title:"Smiling down",
+url:"Smiling_down.html",
+album:"人生×僕=",
+lyrics:`You flew away
+Before I could say
+Taken away before your time
+Up into the clouds
+ここからじゃ見えない　見えるはずもない
+いくつの夜を越えても　もう君には会えない
+
+Now you’re gone
+You left your song
+What can I do with this pain
+どんな歌を口ずさむ?
+I hope you’re smiling down
+Now you’re gone
+You’re really gone
+歩むべき道は
+もう互いに違うから
+Face the truth
+I will just Sing for you
+
+いつだってそう　何の前触れもなく
+不意に僕らから全て奪った後
+悲しみで涙が溢れる
+Time just left you behind
+And I don’t know why
+How can I accept
+Something I don’t understand
+
+Now you’re gone
+You left your song
+What can I do with this pain
+どんな歌を口ずさむ?
+I hope you’re smiling down
+Now you’re gone
+You’re really gone
+歩むべき道は
+もう互いに違うから
+Face the truth
+I will just Sing for you
+
+Now you’re gone
+You left your song
+What can I do with this pain
+どんな歌を口ずさむ?
+I hope you’re smiling down
+Now you’re gone
+You’re really gone
+歩むべき道は
+もう互いに違うから
+Face the truth
+I will just Sing for you`
 },
 
 {
@@ -2766,6 +2901,26 @@ I wanna take you away from here
 温かな　ぬくもり
 and we hold every moment
 ‘cause that’s what family is for`
+},
+
+{
+title:"3xxxv5",
+url:"3xxxv5.html",
+album:"35xxxv",
+lyrics:`今、その気持ちに嘘をついた (To tell the truth, I guess I lied)
+その心はひどく苦しんでいる (But in the end, at least I tried)
+僕の体の中にはもう一匹いる (There’s something inside of me without a name)
+そう、それは形を変えて外に出ようとする (That's about to break free (free))
+心の奥にひそむ暗闇や過去を餌に (It feeds the darkness and the past as a bait)
+到底僕には抑えきれないほど生き延びてしまう (And it talks like it'll turn into something I cannot control)
+でもそれを抑えてまで、手に入れたいものが今はある (Put suppressed it if only I reach for something to wish for)
+
+And I can’t even speak
+
+So I scream
+So I scream
+So I scream
+So I scream`
 },
 
 {
@@ -3215,6 +3370,40 @@ I'm gonna take you out`
 },
 
 {
+title:"Good Goddbye",
+url:"Good_Goodbye.html",
+album:"35xxxv",
+lyrics:`You’re the light I’m the shadow on the wall when you sleep
+Everything that I need is right here with me
+
+Come to me
+All that I can say’s already said
+I come to you
+There is one word that I can’t forget
+
+Goodbye
+Good Goodbye
+Goodbye
+Good Goodbye
+
+Little time not a moment wasted with you
+I realized to stay
+We had to break away
+
+Come to me
+All that I can say's already said
+I come to you
+There is one word that I can’t forget
+
+Goodbye
+Good Goodbye
+Goodbye
+Good Goodbye
+
+Little time not a moment wasted with you`
+},
+
+{
 title:"One by One",
 url:"One_by_One.html",
 album:"35xxxv",
@@ -3313,6 +3502,103 @@ One by one they fall down
  
  One by one they fall down
 `
+},
+
+{
+title:"Stuck in the middle",
+url:"Stuck_in_the_middle.html",
+album:"35xxxv",
+lyrics:`What we finally found wasn’t what we wanted
+Wish I could have gone to where we started
+
+Back to black I can’t see what’s around me
+Back to black hope to gain some control
+
+I gave up everything
+
+I tried to have it all
+And I’m stuck in the middle
+I couldn’t have it all now I’m alone
+And I’ve been down and out
+Now I’m stuck in the middle
+I’ll never get to say this is enough
+
+Now I’m left with nothing
+Now I’m left with nothing
+Now I’m left with nothing
+Now
+
+手に入れたモノで壊して虚しくなって
+手放してみたらみたでまた欲しくなって
+の繰り返しでハマって抜けられなくて気づくと
+時すでに遅し　切られた切符に振り出しの文字
+
+I tried to have it all
+And I’m stuck in the middle
+I couldn’t have it all now I’m alone
+And I’ve been down and out
+Now I’m stuck in the middle
+I’ll never get to say this is enough
+
+Now I’m left with nothing now
+
+Now I’m left with nothing
+
+I gave up everything
+
+I tried to have it all
+And I’m stuck in the middle
+I couldn’t have it all now I’m alone
+And I’ve been down and out
+Now I’m stuck in the middle
+I’ll never get to say this is enough
+
+Now I’m left with nothing
+Now I’m left with nothing
+Now I’m left with nothing
+Now
+
+Now I’m left with nothing`
+},
+
+{
+title:"Fight the night",
+url:"Fight_the_night.html",
+album:"35xxxv",
+lyrics:`Here comes the rain
+So many scars never fade
+This is the price of war
+And we’ve paid with time
+
+We’ll fight fight till there’s nothing left to say
+(Whatever it takes)
+Fight fight till your fears they go away
+The light is gone and we know once more
+We’ll fight fight till we see another day
+
+Let’s move along, it’s late
+The sun will rise once again
+This field is lined with the brave
+Souls in relief
+
+We’ll fight fight till there’s nothing left to say
+(Whatever it takes)
+Fight fight till your fears they go away
+The light is gone and we know once more
+We’ll fight ight till we see another day
+
+Whatever it takes…
+
+Here comes the rain
+So many scars never fade
+This is the price of war
+And we’ve paid with time
+
+We’ll fight fight till there’s nothing left to say
+(Whatever it takes)
+Fight fight till your fears they go away
+The light is gone and we know once more
+We’ll fight fight till we see another day`
 },
 
 {
@@ -3497,6 +3783,45 @@ The colors in the dark`
 },
 
 {
+title:"20/20",
+url:"2020.html",
+album:"Ambitions",
+lyrics:`Back then always thought that you had my back
+You were just there to stab it
+Hindsights 20/20 should've seen it then
+Maybe I should get glasses
+Screw me over like you didn't know my name
+Oh I was so convenient
+I don't know why you wanna play me like a game
+True colors show
+Now I can see
+Exactly who you are pretending
+We used to be alright don't lie
+'cause now I can see
+That you were never honest with me
+I will never let you back into my life
+さっきまでここにいたはずのあなたはどこへ？
+一切見返りを求めないなんて嘘ならべ
+何かが壊れる音がしてもなお絶妙なバランスで
+首の皮一枚つながったお前さ
+Now I can see
+Exactly who you are pretending
+We used to be alright don't lie
+'cause now I can see
+That you were never honest with me
+I will never let you back into my life
+Now I can see
+Exactly who you are pretending
+We used to be alright
+Now I can see
+Exactly who you are pretending
+We used to be alright don't lie
+'cause now I can see
+That you were never honest with me
+I will never let you back into my life`
+},
+
+{
 title:"Always coming back",
 url:"Always_coming_back.html",
 album:"Ambitions",
@@ -3615,6 +3940,63 @@ Bedroom warfare in the middle of the night`
 },
 
 {
+title:"Lost in Tonight",
+url:"Lost_in_Tonight.html",
+album:"Ambitions",
+lyrics:`Perfect timing
+It could be the start of anything
+It’s our dream
+We’re writing
+
+Paint the town red
+We’ll do what we want
+It’s our life
+It should be exciting
+
+Let’s get lost in tonight
+(Forget about today)
+Let’s get lost in tonight
+(No there’s no other way)
+The night is young and we’ve
+Got everything that we could ever need
+Don’t give up on tonight
+
+溶けていった
+あの蒼い日々の
+しなやかな
+曲線をなぞっていった
+
+砕け散った
+その奥に見えた
+光が暗闇を
+殺していった
+
+Let’s get lost in tonight
+(Forget about today)
+Let’s get lost in tonight
+(No there’s no other way)
+The night is young and we’ve
+Got everything that we could ever need
+Don’t give up on tonight
+
+You’ll never hear me say
+It’s too late
+Do you feel the same？
+I won’t say goodnight
+
+Let’s get lost in tonight
+Don’t give up on tonight
+
+Let’s get lost in tonight
+(Forget about today)
+Let’s get lost in tonight
+(No there’s no other way)
+The night is young and we’ve
+Got everything that we could ever need
+Don’t give up on tonight`
+},
+
+{
 title:"I was King",
 url:"I_was_King.html",
 album:"Ambitions",
@@ -3668,6 +4050,58 @@ Gonna stop this dreaming?
 When I was king
 I was king
 We had everything`
+},
+
+{
+title:"Listen",
+url:"Listen.html",
+album:"Ambitions",
+lyrics:`You always call me full of regret
+You want me to save you again
+
+After all these years, the days go by
+I’ve seen you fall a million times
+Everybody makes mistakes
+
+It feels so hard to watch you hurt
+From that pain a lesson learned
+This is how you find your way
+
+You feel so lost I’ve been there too
+Skies so dark no way through
+Stories only scars can tell
+
+I’ve got so much love for you my friend
+Ride or die until the end
+But only you can save yourself
+
+You just have to
+
+Listen, listen
+I hope that you know
+Listen, listen
+I won’t let you go
+I wish I could save you from the pain you’ve been through
+And all I can tell you is the best thing to do
+(You gotta)
+Listen, listen
+To your heart
+
+Listen, listen
+Listen, listen
+
+Listen, listen　一つだけ
+Listen, listen　信じよう
+降り止まない雨などない
+And all I can tell you is the best thing to do
+(You gotta)
+Listen, listen
+Listen, listen
+Listen, listen
+To your heart
+
+Listen, listen
+To your heart`
 },
 
 {
@@ -5167,6 +5601,80 @@ I’ll be strong tonight`
 },
 
 {
+title:"Prove",
+url:"Prove.html",
+album:"Luxury Disease",
+lyrics:`One step at a time
+No matter how long it takes
+I will make the climb
+Learn from the mistakes I’ve made
+
+When times are looking tough
+I will be looking up to you
+I found a better life
+That’ll be the one that I choose
+
+I need answers
+Nobody ever
+Nobody seems to know
+Sticks and stones will never
+Break these bones
+
+One step at a time
+No matter how long it takes
+I will make the climb
+Learn from the mistakes I’ve made
+And I’ll prove it to you prove it to you prove it to you
+Prove it to you prove it to you prove without a doubt
+Give me the one chance the one chance
+So I can so I can prove to you
+
+心を開いて
+見出す新しい世界を
+連れてく　必ず
+行き止まりはない もう
+
+ああ言えばこう言う
+どうしようもない
+答えはない時代に
+君は何を思う？
+Sticks and stones will never
+Break these bones
+
+One step at a time
+No matter how long it takes
+I will make the climb
+Learn from the mistakes I’ve made
+And I’ll prove it to you prove it to you prove it to you
+Prove it to you prove it to you prove without a doubt
+Give me the one chance the one chance
+So I can so I can prove to you
+
+I might bend but I’m not gonna break no more
+Might be tired but I’m not bout to give up no
+I might bend but I’m not gonna break no more
+No sticks and no stones
+
+And I’ll prove it to you prove it to you prove it to you
+Prove it to you prove it to you prove without a doubt
+Give me the one chance the one chance
+So I can so I can prove to you
+So I can prove to you
+
+No matter how long it takes
+One step at a time
+I will make the climb
+Learn from the mistakes I’ve made
+
+And I’ll prove it to you prove it to you prove it to you
+Prove it to you prove it to you prove without a doubt
+Give me the one chance the one chance
+So I can so I can prove to you
+So I can prove to you
+So I can prove to you`
+},
+
+{
 title:"Mad World",
 url:"Mad_World.html",
 album:"Luxury Disease",
@@ -5212,6 +5720,63 @@ We living in a mad world
 
 世界中に散らばっている「愛」を
 見つけた日　それが君のセカンドバースデー`
+},
+
+{
+title:"Free Them",
+url:"Free_Them.html",
+album:"Luxury Disease",
+lyrics:`They were laughing at me
+All the songs that I sing
+Saying they don’t believe me
+And I don’t mean anything
+There is something inside me
+That has never been said
+Since this crowd of emotions
+Came to live in my head
+There’s a crowd of emotions
+Can’t get out of my head
+
+And I’ve been waiting for a chance to
+Free them free them
+Let them fly
+I just want a chance to
+Free them
+Let them out of my mind
+Let them out of my mind
+
+Always going full speed
+I was running so hard
+Couldn’t hear myself breathing
+Just the drums in my heart
+I can tell that you notice
+All the things I keep down
+Can I leave myself open
+And let them all out
+
+And I’ve been waiting for a chance to
+Free them free them
+Let them fly
+I just want a chance to
+Free them
+Let them out of my mind
+Let them out of my mind
+
+Let them out of mind
+
+Take this crowd of emotions
+Let them out of my head
+
+And I’ve been waiting for this chance to
+Free them free them
+Let them fly
+I just want a chance to
+Free them
+Let them out of my mind
+Let them out of my mind
+
+Let them out of my mind
+Let them out of my mind`
 },
 
 {
@@ -5280,6 +5845,73 @@ Let’s start again
 We could be the renegades
 
 We could be the renegades`
+},
+
+{
+title:"Outta Sight",
+url:"Outta_Sight.html",
+album:"Luxury Disease",
+lyrics:`Take me home
+Don’t know where to go
+Don’t know how to feel
+When I’m all alone
+I’m invisible
+You don’t care at all
+Don’t blink, don’t stare
+When I’m here, you’re there
+Take me home
+Can we just pretend
+It’ll never end
+
+For you I don’t wanna be just another lover
+You don’t know how to give your heart back
+
+I’m giving up on all my demons
+Can’t keep up with all their feelings
+They string me along and I don’t belong
+Out of sight
+Out of mind
+I’m giving up on all my demons
+Can’t keep up with all their feelings
+They string me along and I don’t belong
+Out of sight
+Out of mind
+
+Used to give me everything I needed
+Till I needed something to believe in
+When you said forever guess you didn’t mean it
+Lying to my face and now I see it (yea)
+Don’t blink don’t stare
+When you’re standing here, are you really there？
+When the rain is gone, are you moving on？
+Cause I’m holding on to you
+Don’t know how to give your heart back
+
+I’m giving up on all my demons
+Can’t keep up with all their feelings
+They string me along and I don’t belong
+Out of sight
+Out of mind
+I’m giving up on all my demons
+Can’t keep up with all their feelings
+They string me along and I don’t belong
+Out of sight
+Out of mind
+
+(Don’t know how to give your heart back)
+
+I’m giving up on all my demons
+Can’t keep up with all their feelings
+They string me along and I don’t belong
+Out of sight
+Out of mind
+I’m giving up on all my demons
+Can’t keep up with all their feelings
+They string me along and I don’t belong
+Out of sight
+Out of mind
+
+I’m giving up`
 },
 
 {
@@ -5407,6 +6039,117 @@ If you only had one breath
 Tell me would your one love
 Pull you out the deep end
 Don’t you ever wonder？`
+},
+
+{
+title:"Broken Heart of Gold",
+url:"Broken_Heart_of_Gold.html",
+album:"Luxury Disease",
+lyrics:`I move along
+Something’s wrong
+I guess a part of me is gone
+Skies are gray
+Start to fade
+I guess I threw it all away
+
+Sometimes I just wanna quit
+Tell my life I’m done with it
+When it feels too painful
+Sometimes I just wanna say
+I love myself but not today
+When it feels too painful
+I smash my broken heart of gold
+I smash my broken heart of gold
+
+Tired soul
+Dying hope
+I guess I’m running out of road
+I guess I’ve got nowhere
+
+Sometimes I just wanna quit
+Tell my life I’m done with it
+When it feels too painful
+Sometimes I just wanna say
+I love myself but not today
+When it feels too painful
+I smash my broken heart of gold
+I smash my broken heart of gold
+I smash my broken heart of gold
+
+もう消えそうで
+弱り切った声で
+また振り払って
+でも feels like I’m in hell
+I’m in hell
+
+Sometimes I just wanna quit
+Tell my life I’m done with it
+When it feels too painful
+Sometimes I just wanna say
+I love myself but not today
+When it feels too painful
+I smash my broken heart of gold
+I smash my broken heart of gold
+I smash my broken heart of gold`
+},
+
+{
+title:"Gravity",
+url:"Gravity.html",
+album:"Luxury Disease",
+lyrics:`Hey you let me down
+But it's the last time
+Cause I don't
+Don't want you here no more
+Hey you had me running
+and I've been around the block
+But I learned a thing or two before
+
+今までずっと
+傷ついて止まって
+泣いては誤魔化してた日々はもういらない
+私は臆病者
+1人がただ怖くて
+でも決めた　進むって
+I'm holding on tight
+
+I'm not falling
+I'm not falling for it no more
+My feet won't touch the ground
+Your gravity will not keep me down
+I'm not falling for it
+No I'm not falling for you anymore
+
+Ah　君の帰りを待つ私は
+本当は何を待ってたんだろう？
+もう少しだけここにいて　いさせて
+と願う私はもうここにいない
+
+I'm not falling
+I'm not falling for it no more
+My feet won't touch the ground
+Your gravity will not keep me down
+I'm not falling for it
+No I'm not falling for you anymore
+
+いつだって　2人だって
+信じた私は馬鹿だったって
+今は分かるよ もう後悔はないよ
+You're a drug but I'm sober
+Wiser and I'm older
+So I'm holding, never held on so tight
+
+I'm not falling for it no more
+My feet won't touch the ground
+Your gravity will not keep me down
+I'm not falling
+No I'm not falling for you anymore
+
+I'm not falling for it no more
+My feet won't touch the ground
+Your gravity will not keep me down
+(Keep me down)
+No I'm not falling for you anymore`
 },
 
 {

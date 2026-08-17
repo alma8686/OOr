@@ -229,7 +229,7 @@ function showSongs(){
 
     results.innerHTML = "";
 
-    // タグもお気に入りも選ばれていない
+    // タグもお気に入りも選択されていない
     if(selectedTags.length === 0 && !favoriteOnly){
         return;
     }
@@ -237,51 +237,137 @@ function showSongs(){
     let list = songs;
 
 
+    // ======================
+    // タグで絞り込み
+    // ======================
+
     if(selectedTags.length > 0){
 
-    list = list.filter(song =>
-        selectedTags.every(tag =>
-            song.tags.includes(tag)
-        )
-    );
+        list = list.filter(song =>
+            selectedTags.every(tag =>
+                song.tags.includes(tag)
+            )
+        );
 
-}
-
-if(favoriteOnly){
-
-    const favorites =
-        JSON.parse(localStorage.getItem("favorites")) || [];
-
-    list = list.filter(song =>
-        favorites.includes(song.url)
-    );
-
-}
+    }
 
 
+    // ======================
+    // お気に入りで絞り込み
+    // ======================
 
-    list.forEach(song=>{
+    if(favoriteOnly){
 
-        results.innerHTML += `
+        const favorites =
+            JSON.parse(localStorage.getItem("favorites")) || [];
 
-        <div class="search-item">
-    <div class="song-row">
+        list = list.filter(song =>
+            favorites.includes(song.url)
+        );
 
-        <a href="${song.url}">
-            ${song.title}
-        </a>
+    }
 
-        <span class="favorite"
-              data-id="${song.url}">
-            ☆
-        </span>
 
-    </div>
-</div>
+    // ======================
+    // お気に入りの場合
+    // アルバムごとに表示
+    // ======================
 
-        `;
+    if(favoriteOnly){
 
-    });
+        const albums = {};
+
+
+        list.forEach(song => {
+
+            const albumName = song.album || "その他";
+
+            if(!albums[albumName]){
+                albums[albumName] = [];
+            }
+
+            albums[albumName].push(song);
+
+        });
+
+
+        // アルバムごとに表示
+
+        for(const album in albums){
+
+            results.innerHTML += `
+                <h2 class="album-title">
+                    ${album}
+                </h2>
+            `;
+
+
+            albums[album].forEach(song => {
+
+                results.innerHTML += `
+
+                    <div class="search-item">
+
+                        <div class="song-row">
+
+                            <a href="${song.url}">
+                                ${song.title}
+                            </a>
+
+                            <span
+                                class="favorite"
+                                data-id="${song.url}">
+                                ☆
+                            </span>
+
+                        </div>
+
+                    </div>
+
+                `;
+
+            });
+
+        }
+
+    }
+
+
+    // ======================
+    // 通常のタグ検索
+    // ======================
+
+    else{
+
+        list.forEach(song => {
+
+            results.innerHTML += `
+
+                <div class="search-item">
+
+                    <div class="song-row">
+
+                        <a href="${song.url}">
+                            ${song.title}
+                        </a>
+
+                        <span
+                            class="favorite"
+                            data-id="${song.url}">
+                            ☆
+                        </span>
+
+                    </div>
+
+                </div>
+
+            `;
+
+        });
+
+    }
+
+
     setupFavorites();
 
 }
