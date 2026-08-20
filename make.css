@@ -131,3 +131,44 @@ mark{
         width:200px;
     }
 }
+
+/* =========================
+   収録DVD
+========================= */
+
+.dvd-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0 25px;
+}
+
+.dvd-list li {
+    margin: 8px 0;
+}
+
+.dvd-link {
+    display: inline-block;
+
+    color: #ffffff !important;
+    text-decoration: none;
+
+    padding: 8px 12px;
+
+    border-left: 3px solid #ff4040;
+
+    background: rgba(0, 0, 0, 0.25);
+
+    border-radius: 4px;
+
+    transition: all 0.25s ease;
+}
+
+.dvd-link:hover {
+    color: #ffffff !important;
+
+    background: rgba(255, 64, 64, 0.25);
+
+    border-left-color: #ff7070;
+
+    padding-left: 18px;
+}

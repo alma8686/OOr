@@ -5,6 +5,10 @@ title:"内秘心書",
 url:"naihi.html",
 album:"ゼイタクビョウ",
 tags:["ロック","日本語曲"],
+dvd:["世の中シュレッダー",
+    "THIS IS MY BUDOKAN?! 2010.11.28",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"
+],
 lyrics:`犯した罪の数が 寂しさを物語ってんだよ
 そしたら大人はソレ見て 全てを悪く言うんだろ?
 言えない見えない見たくもなくない? だから飛べるはずない
@@ -43,8 +47,9 @@ I got something to hide, but never put it aside
 
 {
 title:"Borderline",
-url:"Boderline.html",
+url:"Borderline.html",
 album:"ゼイタクビョウ",
+dvd:["世の中シュレッダー"],
 lyrics:`どこで生まれて　僕はどこで育ったの?
 誰かに愛された記憶はない
 I can’t load my secret code 分からないまま
@@ -136,6 +141,9 @@ title:"夜にしか咲かない満月",
 url:"yoru.html",
 album:"ゼイタクビョウ",
 tags:["ロック","日本語曲","失恋"],
+dvd:["世の中シュレッダー",
+    "THIS IS MY BUDOKAN?! 2010.11.28"
+],
 lyrics:`正しい事なんて何もないこの世界で
 正そうとしているヤツは知る限りでは偽善者で
 こんな僕らでも分かるアンタらのその行動は
@@ -185,6 +193,7 @@ title:"努努-ゆめゆめ-",
 url:"yumeyume.html",
 album:"ゼイタクビョウ",
 tags:["ロック","日本語曲","応援ソング"],
+dvd:["世の中シュレッダー"],
 lyrics:`Your life is automatic　Believe a little magic
 Your future may be tragic　For a toxic animatic
 
@@ -238,6 +247,13 @@ title:"カゲロウ",
 url:"kagerou.html",
 album:"ゼイタクビョウ",
 tags:["バラード","ラブソング","日本語曲"],
+dvd:["世の中シュレッダー",
+    "THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"
+],
 lyrics:`君を想う気持はカゲロウ
 伝えられず僕は漂う…
 
@@ -300,6 +316,7 @@ title:"ケムリ",
 url:"kemu.html",
 album:"ゼイタクビョウ",
 tags:["ロック","日本語曲"],
+dvd:["世の中シュレッダー"],
 lyrics:`このままだと自分だけじゃなくてこの世界壊れるだろう
 信頼できないデカい未来　夢はあるけど…
 
@@ -346,6 +363,11 @@ title:"欲望に満ちた青年団",
 url:"yokubou.html",
 album:"ゼイタクビョウ",
 tags:["ロック","日本語曲","人気曲","ライブ定番"],
+dvd:["世の中シュレッダー",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium"
+],
 lyrics:`一度はあの光を見たんだよ　とてもキレイで
 でも今思えば汚かった　あれはいわゆるBad Day Dreams
 光が眩し過ぎて周りが見えず　ただただ日々を
@@ -380,6 +402,9 @@ title:"エトセトラ",
 url:"eto.html",
 album:"ゼイタクビョウ",
 tags:["ロック","日本語曲"],
+dvd:["世の中シュレッダー",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA"
+],
 lyrics:`全てが終わるような恐怖に背中を押され
 涙腺が嫌う「別れよう」の5文字にロックをかける
 
@@ -448,6 +473,10 @@ title:"恋ノアイボウ心ノクピド",
 url:"koi.html",
 album:"感情エフェクト",
 tags:["ロック","ラブソング","日本語曲"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”"
+],
 lyrics:`第三次私事大戦　始まろうと今幕開けた
 真の理解者　自分の甘え受け入れる
 世界でひとつの肝細胞　見つけた矛盾ない運命
@@ -524,6 +553,10 @@ title:"皆無",
 url:"kaimu.html",
 album:"感情エフェクト",
 tags:["ロック","日本語曲"],
+dvd:["世の中シュレッダー",
+    "THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA"
+],
 lyrics:`この地球(ほし)がもしも明日　全てを終わらそうとすれば
 どれだけの怒り・悲しみを残していくだろう？
 それ聞いてこの星で　自分の命と引き換えに
@@ -565,6 +598,7 @@ lyrics:`この地球(ほし)がもしも明日　全てを終わらそうとす�
 title:"20 years old",
 url:"20_years_old.html",
 album:"感情エフェクト",
+dvd:["ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN"],
 lyrics:`Hey brother I got something to say
 その手上げ　Every body right now!
 Hey sister are you looking my way yeah
@@ -617,6 +651,10 @@ title:"Living Dolls",
 url:"Living_Dolls.html",
 album:"感情エフェクト",
 tags:["ロック"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`We are living in the same world?
 僕と君　答えはないけど
 運命の出会いさえ　誰かの決めごとで…
@@ -875,6 +913,7 @@ We had enough, we can take it over`
 title:"Viva Violent Fellow~美しきモッシュピット",
 url:"Viva.html",
 album:"感情エフェクト",
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28"],
 lyrics:`一音下げのギターの音が心地良く
 鼓膜から心臓へと響き足に伝わる
 
@@ -969,6 +1008,7 @@ Scream!!`
 title:"Never Let This Go",
 url:"Never_Let_This_Go.html",
 album:"Nicheシンドローム",
+dvd : ["THIS IS MY BUDOKAN?! 2010.11.28"],
 lyrics:`We have to carry on
 We have to make it for us
 But then never gonna make it
@@ -1031,6 +1071,18 @@ title:"完全感覚Dreamer",
 url:"Dreamer.html",
 album:"Nicheシンドローム",
 tags:["ロック","日本語曲","人気曲","ライブ定番"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"
+],
 lyrics:`So now my time is up
 Your game starts, my heart moving?
 Past time has no meaning for us, it’s not enough!
@@ -1142,6 +1194,9 @@ title:"Yes I am",
 url:"Yes_I_am.html",
 album:"Nicheシンドローム",
 tags:["ロック","英語曲"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "ONE OK ROCK with Orchestra Japan Tour 2018"
+],
 lyrics:`世界の誰よりも輝ける
 そう信じて生きてきたのは確かなんだ
 でも世界の誰もがそう輝ける
@@ -1186,6 +1241,7 @@ So keep on walking, go out through the door
 title:"Shake it down",
 url:"Shake_it_down.html",
 album:"Nicheシンドローム",
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28"],
 lyrics:`Life is full of up and down
 I keep on searching for permanent security and satisfaction
 We sometimes get great achievement and encounter disappointment
@@ -1241,6 +1297,13 @@ title:"じぶんROCK",
 url:"ROCK.html",
 album:"Nicheシンドローム",
 tags:["ロック","日本語曲","人気曲","ライブ定番"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`今日も君は信じること
 忘れずに目覚められていますか?
 時が経つと自分さえも信じれなくなる時代のようです
@@ -1280,6 +1343,11 @@ title:"Lair",
 url:"Lair.html",
 album:"Nicheシンドローム",
 tags:["ロック","英語曲"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"
+],
 lyrics:`What do you want from me? Just let me breathe a little
 What do you want to see? 目に見えるモノ?
 What do you want to believe? Still nothing can settled
@@ -1321,6 +1389,16 @@ title:"Wherever you are",
 url:"wherever_you_are.html",
 album:"Nicheシンドローム",
 tags:["バラード","ラブソング","英語曲","人気曲","ライブ定番"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`I’m telling you
 I softly whisper
 Tonight tonight
@@ -1419,6 +1497,7 @@ Everybody moving`
 title:"アダルトスーツ",
 url:"adult.html",
 album:"Nicheシンドローム",
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28"],
 lyrics:`Can you hear me when I cry in desperation?
 Nothing comes along with my expectation
 How much pain and ache you’re feeling?
@@ -1465,6 +1544,13 @@ title:"未完成交響曲",
 url:"mikansei.html",
 album:"Nicheシンドローム",
 tags:["ロック","日本語曲","人気曲"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium"
+],
 lyrics:`未完成さ!! そう僕は!!
 未完成なんだみんな!!
 生きる限り日々努力してその度に学んで七転び八起き
@@ -1506,6 +1592,11 @@ title:"Nobody's Home",
 url:"Nobody's_Home.html",
 album:"Nicheシンドローム",
 tags:["バラード","日本語曲","人気曲","ライブ定番"],
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
+  "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+  "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+  "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"
+],
 lyrics:`How are you doing?
 そんなふうに言えるのにも時間がかかったね…
 いつだってここだけは温もりややさしさが
@@ -1554,6 +1645,7 @@ Nobody’s home yeah
 title:"LOST AND FOUND",
 url:"LOST_AND_FOUND.html",
 album:"残響リファレンス",
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA"],
 lyrics:`More expectation
 Instead of singing in the blue sky
 I was like a bird captured in a dungeon cage
@@ -1606,6 +1698,14 @@ title:"アンサイズニア",
 url:"ansize.html",
 album:"残響リファレンス",
 tags:["ロック","日本語曲","人気曲","ライブ定番"],
+dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"
+],
 lyrics:`I think this way
 いく通りもある その問いの答えはもうただ…
 原理や理論に従って導き出す
@@ -1661,6 +1761,9 @@ title:"NO SCARED",
 url:"NO_SCARED.html",
 album:"残響リファレンス",
 tags:["ロック","英語曲","人気曲"],
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”"
+],
 lyrics:`I wanna bring it back, We never carry on
 I wanna bring it back, We never carry on
 Seize it somehow seize it somehow
@@ -1727,6 +1830,12 @@ title:"C.h.a.o.s.m.y.t.h",
 url:"Chaosmyth.html",
 album:"残響リファレンス",
 tags:["ロック","日本語曲","人気曲"],
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium"
+],
 lyrics:`相変わらずあの頃に話した
 夢を僕は追い続けてるよ
 
@@ -1800,6 +1909,7 @@ And live as if you’ll die today`
 title:"Mr.現代Speaker",
 url:"speaker.html",
 album:"残響リファレンス",
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA"],
 lyrics:`ねぇMr. 現代スピーカー　今の実状は?
 I don’t understand this
 連鎖するサイレンサー　もはやシュミレーター
@@ -1842,6 +1952,7 @@ I am in this corner here alone`
 title:"世間知らずの宇宙飛行士",
 url:"seken.html",
 album:"残響リファレンス",
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA"],
 lyrics:`Got to the sun and pass all the stars
 Down to the moon and heading to Mars
 
@@ -1884,6 +1995,13 @@ title:"Re:make",
 url:"Re_make.html",
 album:"残響リファレンス",
 tags:["ロック","人気曲","ライブ定番"],
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`You take me back and show me you’re
 the only one
 Reveal the way you got me, I’ve got to run
@@ -1943,6 +2061,9 @@ title:"Pierce",
 url:"Pierce.html",
 album:"残響リファレンス",
 tags:["バラード","ラブソング"],
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK with Orchestra Japan Tour 2018"
+],
 lyrics:`Here with you now I’m good, still miss you
 I don’t know what I can do, we can’t be true
 
@@ -1982,6 +2103,12 @@ title:"Let's take it someday",
 url:"Let's_take_it_someday.html",
 album:"残響リファレンス",
 tags:["ロック","英語曲"],
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`いつだっていつの時代だって
 何が真実で　どれがニセモノなんて
 分かりゃしないから僕は音楽で大事な何かを
@@ -2040,6 +2167,15 @@ title:"キミシダイ列車",
 url:"kimi.html",
 album:"残響リファレンス",
 tags:["ロック","人気曲","ライブ定番"],
+dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`Can’t take a time
 What are you waiting for?
 大事なコト忘れてないかい?
@@ -2099,6 +2235,9 @@ Are you ready now?　We are ready now for tonight`
 title:"Ending Story??",
 url:"Ending_Story.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK with Orchestra Japan Tour 2018"
+],
 lyrics:`You’ve got me trapped in corners
 Think I have nowhere to go
 But I’ll show you, first thing I do
@@ -2190,6 +2329,9 @@ A thousand words for every tear of mine`
 title:"ONION!",
 url:"ONION.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR"
+],
 lyrics:`Wow what is life? tell me it’s like
 本質もとめる日々
 Peel it over and over again
@@ -2247,6 +2389,20 @@ Crying you don’t even know what for
 title:"The Beginning",
 url:"the_beginning.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`Just give me a reason
 to keep my heart beating
 Don’t worry it’s safe right here in my arms
@@ -2324,6 +2480,16 @@ It finally begins`
 title:"Clock Strike",
 url:"Clock_Strike.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"
+],
 lyrics:`What waits for you?
 What’s breaking through?
 Nothing for good
@@ -2372,6 +2538,11 @@ You can keep it till the end`
 title:"Be the light",
 url:"Be_the_light.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"
+],
 lyrics:`Just the thought of another day
 How did we end up this way
 What did we do wrong?
@@ -2458,6 +2629,9 @@ Let’s make tomorrow a brighter and better day`
 title:"Nothing Helps",
 url:"Nothing_Helps.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”"
+],
 lyrics:`No nothing helps
 We won’t stop right now
 We did it on our own
@@ -2541,6 +2715,7 @@ The story goes`
 title:"Juvenile",
 url:"Juvenile.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM"],
 lyrics:`On one lonely night
 Drenched in rain
 Oh what can I see?
@@ -2620,6 +2795,9 @@ On your mark!!`
 title:"All Mine",
 url:"All_Mine.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`All my problems they will run away from you and I see
 All the angels sit and stare at you
 You are everything but not today
@@ -2671,6 +2849,7 @@ I know I’m falling`
 title:"Smiling down",
 url:"Smiling_down.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
 lyrics:`You flew away
 Before I could say
 Taken away before your time
@@ -2727,6 +2906,15 @@ I will just Sing for you`
 title:"Deeper Deeper",
 url:"Deeper_Deeper.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"
+],
 lyrics:`Another step up
 It’s takin’ takin’ takin’ takin’ long
 Always digging
@@ -2787,6 +2975,10 @@ Do what you do gotta get through
 title:"69",
 url:"69.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR"
+],
 lyrics:`このあまりにも短すぎる人生の中で何かを変える事は
 そんな簡単なことじゃないけどでもこの時代に生まれる事が出来たからこそ
 何かをぶっ壊す必要があって新しい何かを築いて
@@ -2835,6 +3027,10 @@ That’s the 69
 title:"the same as...",
 url:"the_same_as.html",
 album:"人生×僕=",
+dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"
+],
 lyrics:`何気ない日々Just the same old thing
 何が欠けて足りないか….
 気付かないフリしててもI can’t run away from myself
@@ -2907,6 +3103,7 @@ and we hold every moment
 title:"3xxxv5",
 url:"3xxxv5.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
 lyrics:`今、その気持ちに嘘をついた (To tell the truth, I guess I lied)
 その心はひどく苦しんでいる (But in the end, at least I tried)
 僕の体の中にはもう一匹いる (There’s something inside of me without a name)
@@ -2927,6 +3124,10 @@ So I scream`
 title:"Take me to the top",
 url:"Take_me_to_the_top.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"
+],
 lyrics:`Take me to the top Take me to the top
 Take me to the top Take it
 Take me to the top Take me to the top
@@ -2983,6 +3184,13 @@ I wonder why`
 title:"Cry Out",
 url:"Cry_out.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`Switch the light off
 Welcome to the night
 What's the problem
@@ -3046,6 +3254,7 @@ Can't you hear the sound?`
 title:"Suddenly",
 url:"Suddenly.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
 lyrics:`Spitting gas on the fire
 That’s burning this town
 Pieces really conspire
@@ -3090,6 +3299,16 @@ Suddenly`
 title:"Mighty Long Fall",
 url:"Mighty_Long_Fall.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+  "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+  "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+  "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+  "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+  "ONE OK ROCK with Orchestra Japan Tour 2018",
+  "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+  "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+  "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`When we met the pain stood still
 It was us
 
@@ -3141,6 +3360,11 @@ When you know time is up`
 title:"Heartache",
 url:"Heartache.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+  "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+  "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+  "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"
+],
 lyrics:`So they say that time
 Takes away the pain
 But I’m still the same
@@ -3196,6 +3420,7 @@ I miss you`
 title:"Memories",
 url:"Memories.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
 lyrics:`Watch'n outer space I see them shine
 Crazy stuff like this it blows my mind
 So many times, waking up to the radio
@@ -3246,6 +3471,11 @@ Go on and fuck yourself`
 title:"Decision",
 url:"Decision.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
+    "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`Another day
 Another life
 I wanna live it to the fullest
@@ -3299,6 +3529,7 @@ It’s my decision`
 title:"Paper Planes",
 url:"Paper_Planes.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
 lyrics:`From paper planes, to hand grenades
 I'm gonna take you out
 From paper planes, to hand grenades
@@ -3373,6 +3604,7 @@ I'm gonna take you out`
 title:"Good Goddbye",
 url:"Good_Goodbye.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
 lyrics:`You’re the light I’m the shadow on the wall when you sleep
 Everything that I need is right here with me
 
@@ -3407,6 +3639,9 @@ Little time not a moment wasted with you`
 title:"One by One",
 url:"One_by_One.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`
  Come on!!
 
@@ -3508,6 +3743,7 @@ One by one they fall down
 title:"Stuck in the middle",
 url:"Stuck_in_the_middle.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
 lyrics:`What we finally found wasn’t what we wanted
 Wish I could have gone to where we started
 
@@ -3565,6 +3801,9 @@ Now I’m left with nothing`
 title:"Fight the night",
 url:"Fight_the_night.html",
 album:"35xxxv",
+dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+    "ONE OK ROCK with Orchestra Japan Tour 2018"
+],
 lyrics:`Here comes the rain
 So many scars never fade
 This is the price of war
@@ -3605,6 +3844,9 @@ We’ll fight fight till we see another day`
 title:"Bombs away",
 url:"Bombs_away.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions"
+],
 lyrics:`This is the end of you and me
 And I’m never going back
 Before my broken soulbegins
@@ -3668,6 +3910,13 @@ Tick tick tock and it’s bombs away
 title:"Taking Off",
 url:"Taking_Off.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions"
+],
 lyrics:`Stuck in the same routine
 Living an empty dream
 When am I gonna wake up
@@ -3726,6 +3975,16 @@ Drag me all the way to hell
 title:"We are",
 url:"We_are.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`They think that we’re no one
 We’re nothing, not sorry
 They push us
@@ -3786,6 +4045,7 @@ The colors in the dark`
 title:"20/20",
 url:"2020.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR"],
 lyrics:`Back then always thought that you had my back
 You were just there to stab it
 Hindsights 20/20 should've seen it then
@@ -3825,6 +4085,9 @@ I will never let you back into my life`
 title:"Always coming back",
 url:"Always_coming_back.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
+    "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR"
+],
 lyrics:`I’m always coming back to you
 
 Some nights we fight we scream
@@ -3892,6 +4155,9 @@ That people they go through`
 title:"Bedroom Warfare",
 url:"Bedroom_Warfare.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"
+],
 lyrics:`Keep your enemies close
 Your enemies close
 
@@ -4000,6 +4266,11 @@ Don’t give up on tonight`
 title:"I was King",
 url:"I_was_King.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium"
+],
 lyrics:`We said tonight
 No going back
 Nothing seems right
@@ -4056,6 +4327,7 @@ We had everything`
 title:"Listen",
 url:"Listen.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR"],
 lyrics:`You always call me full of regret
 You want me to save you again
 
@@ -4108,6 +4380,11 @@ To your heart`
 title:"One Way Ticket",
 url:"One_Way_Ticket.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium"
+],
 lyrics:`Remember that night
 I had to leave you
 You said it's alright
@@ -4173,6 +4450,7 @@ Home`
 title:"Bon Voyage",
 url:"Bon_Voyage.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR"],
 lyrics:`It took some time to realize
 That things are not getting better
 We should know, we should know
@@ -4230,6 +4508,9 @@ I'm letting go`
 title:"Start Again",
 url:"Start_Again.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium"
+],
 lyrics:`This is where I draw the line
 Seen this war a million times
 Looking for a peace of mind
@@ -4276,6 +4557,10 @@ Is the end a chance to start again？`
 title:"Take what you want",
 url:"Take_what_you_want.html",
 album:"Ambitions",
+dvd:["ONE OK ROCK 2017 “Ambitions” JAPAN TOUR",
+    "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`Take what you want
 Take what you want and go
 
@@ -4332,6 +4617,7 @@ Can you hear me?`
 title:"Eye of the Storm",
 url:"Eye_of_the_Storm.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`It’s harder to see
 With my head in the clouds
 But my feet on the floor
@@ -4394,6 +4680,14 @@ In the eye of the storm`
 title:"Stand Out Fit In",
 url:"Stand_Out_Fit_In.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`I know they don't like me that much
 Guess that I don't dress how they want
 I just wanna be myself
@@ -4487,6 +4781,7 @@ Stand out fit in`
 title:"Head High",
 url:"Head_High.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`Yeah they tried to stop me
 But it was too late
 Oh there’s no interfering my fate
@@ -4547,6 +4842,7 @@ My`
 title:"Grow OldDie Young",
 url:"Grow_Old_Die_Young.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`I wanna dance till my legs break
 I wanna love till my heart aches
 I want the cause of my death
@@ -4588,6 +4884,12 @@ Let’s grow old and die young`
 title:"Wasted Nights",
 url:"Wasted_Nights.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`Must be something in the water
 Feel like I can take the world
 Throw the weight up on my shoulders
@@ -4657,6 +4959,11 @@ No more wasted nights`
 title:"Change",
 url:"Change.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR",
+    "ONE OK ROCK with Orchestra Japan Tour 2018",
+    "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR",
+    "ONE OK ROCK 2020 Field of Wonder at Stadium"
+],
 lyrics:`If we′re not moving forward
 What are we moving for?
 Feels like we're losing order
@@ -4712,6 +5019,7 @@ Stay, we′re looking out, looking out, stay, yeah`
 title:"Push Back",
 url:"Push_Back.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`Gun to our heads
 They’re trying to tell us what to think
 We’re stuck on the edge
@@ -4837,6 +5145,7 @@ Letting go`
 title:"Worst in Me",
 url:"Worst_in_Me.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`I used to think that you were mine mine
 Now I know it’s just a lie lie
 Guess I should’ve seen the signs signs
@@ -4891,6 +5200,7 @@ You are the worst in me`
 title:"In the Stars",
 url:"In_the_Stars.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`Sick and tired of waiting
 So we learned to fly
 What a wild ride
@@ -4954,6 +5264,7 @@ Written in the stars`
 title:"Giants",
 url:"Giatnts.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`Through silence
 Hear the thunder in you
 I know you’re mind is
@@ -5014,6 +5325,7 @@ We can be giants giants`
 title:"Can't Wait",
 url:"Can't Wait.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`They say what doesn't kill you
 Will just make you tougher
 But I've had enough
@@ -5087,6 +5399,7 @@ Gotta let go, gotta let go`
 title:"The Last Time",
 url:"The_Last_Time.html",
 album:"Eye of the Storm",
+dvd:["ONE OK ROCK 2020 Field of Wonder at Stadium"],
 lyrics:`You almost forgot how it made you feel
 Your feet on the edge, you knew it was real
 It faded away yeah
@@ -5126,6 +5439,10 @@ When was the last time, the last time`
 title:"Save Yourself",
 url:"Save_Yourself.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`Save yourself
 Love is pain I know too well
 You’ve never felt
@@ -5199,6 +5516,9 @@ Save yourself`
 title:"Neon",
 url:"Neon.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`Neon lights
 
 Woke up in hell for a day
@@ -5277,6 +5597,7 @@ Neon lights`
 title:"Vandalize",
 url:"Vandalize.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"],
 lyrics:`Sound the alarm
 Shatter me like glass
 Covered in scars
@@ -5348,6 +5669,7 @@ Vandalize my heart`
 title:"When They Turn the Lights On",
 url:"When_They_Turn_the_Lights_On.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"],
 lyrics:`I been climbing since I was young
 Never stopped to look down
 I lost track of the man I was
@@ -5403,6 +5725,7 @@ When they turn the lights on
 title:"Let Me Let You Go",
 url:"Let_Me_Let_You_Go.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"],
 lyrics:`Bullets in the dark
 
 Shootin’ through my hesitating heart
@@ -5535,6 +5858,7 @@ Why’d you let me let you go?`
 title:"So Far Gone",
 url:"So_Far_Gone.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"],
 lyrics:`Broken
 When I thought that you were whole
 All the future memories
@@ -5678,6 +6002,7 @@ So I can prove to you`
 title:"Mad World",
 url:"Mad_World.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"],
 lyrics:`世界中にこの声は届くと
 信じた日　それが僕のセカンドバースデー
 何を言おうが　今　嘘偽りのないものが
@@ -5783,6 +6108,11 @@ Let them out of my mind`
 title:"Renegades",
 url:"Renegades.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`Got a fire in my soul
 I’ve lost my faith in this broken system
 Got love for my home
@@ -5918,6 +6248,7 @@ I’m giving up`
 title:"Your Tears are Mine",
 url:"Your_Tears_are_Mine.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"],
 lyrics:`It’s been a ride
 Fighting through life
 Hard to come by some kindness
@@ -5975,6 +6306,10 @@ Just please hold on tight`
 title:"Wonder",
 url:"Wonder.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2020 Field of Wonder at Stadium",
+    "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`Take take all the risk
 I don’t wanna play
 Safe safe
@@ -6045,6 +6380,7 @@ Don’t you ever wonder？`
 title:"Broken Heart of Gold",
 url:"Broken_Heart_of_Gold.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2021 Day to Night Acoustic Sessions"],
 lyrics:`I move along
 Something’s wrong
 I guess a part of me is gone
@@ -6097,6 +6433,7 @@ I smash my broken heart of gold`
 title:"Gravity",
 url:"Gravity.html",
 album:"Luxury Disease",
+dvd:["ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR"],
 lyrics:`Hey you let me down
 But it's the last time
 Cause I don't
@@ -6156,6 +6493,7 @@ No I'm not falling for you anymore`
 title:"NASTY",
 url:"NASTY.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`Wanna scream
 Wanna scream like a banshee
 In the street
@@ -6225,6 +6563,7 @@ We too damn nasty`
 title:"Dystopia",
 url:"Dystopia.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`Tryin’ to find some inner peace
 Apocalyptic tendencies
 We blame it on a whisper
@@ -6286,6 +6625,7 @@ Dystopia`
 title:"Tropical Therapy",
 url:"Tropical_Therapy.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`Another day here in the system
 My soul is on a plane
 Take a shot of whiskey
@@ -6361,6 +6701,9 @@ Getaway
 title:"Delusion:All",
 url:"Delusion_All.html",
 album:"DETOX",
+dvd:["ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`They’ll conquer us if we divide
 No one will listen to you
 We gotta stand up and draw a line
@@ -6416,6 +6759,7 @@ And we’re not exhausted`
 title:"Party's Over",
 url:"Party's_Over.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`傘もささずにたたずむ君
 雨にうたれりゃ寒かろに
 Get you out of my head
@@ -6474,6 +6818,7 @@ The party’s over`
 title:"Puppets Can't Control You",
 url:"Puppets_Can't_Control_You.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`先攻か後攻で決まるような
 馬鹿げたペテン師のゲームに
 実際踊らされて狂わされ
@@ -6526,6 +6871,7 @@ You’ll never be happy again`
 title:"Tiny Pieces",
 url:"Tiny_Pieces.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`Wish I could forget how it felt
 When you said that it’s over
 Staring at your lipstick
@@ -6597,6 +6943,7 @@ Yea you broke me into tiny pieces`
 title:"This Can't Be Us",
 url:"This_Can't_Be_Us.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`I hear your voice just like a song
 And your melody
 It tells me somethings wrong
@@ -6673,6 +7020,9 @@ I won’t forget your love`
 title:"+Matter",
 url:"+Matter.html",
 album:"DETOX",
+dvd:["ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`Life can be heavy
 Time can be scary
 Days around the sun
@@ -6730,6 +7080,7 @@ You matter to me`
 title:"C.U.R.I.O.S.I.T.Y",
 url:"CURIOSITY.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`Time to wake up
 There’s a war inside
 Bless the marauders
@@ -6822,6 +7173,7 @@ my CURIOSITY`
 title:"The Pilot",
 url:"The_Pilot.html",
 album:"DETOX",
+dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
 lyrics:`Fifteen and crazy
 No one to save me
 You were the pilot when my world came crashing down
@@ -6891,6 +7243,13 @@ After we've loved and learned`
 title:"カラス",
 url:"karasu.html",
 album:"その他",
+dvd:["世の中シュレッダー",
+    "THIS IS MY BUDOKAN?! 2010.11.28",
+    "“残響リファレンス” TOUR in YOKOHAMA ARENA",
+    "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
+    "ONE OK ROCK 2021 Day to Night Acoustic Sessions",
+    "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"
+],
 lyrics:`早朝のゴミ捨て場所には
 しのぎ合って生きる黒い鳥達
 それと僕らダブらせてみて
@@ -6932,6 +7291,7 @@ I won’t stop the fight
 title:"The Way Back",
 url:"The_Way_Back.html",
 album:"その他",
+dvd:["ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"],
 lyrics:`I am still broken in two parts
 There is my mind, there is my heart
 No way for me to run and hide
@@ -6975,6 +7335,9 @@ You know the way back`
 title:"Make It Out Alive",
 url:"Make_It_Out_Alive.html",
 album:"その他",
+dvd:["ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM",
+    "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
+],
 lyrics:`Run away run away run away
 You don’t know who to run from
 Nowhere to go nowhere to go nowhere to go
