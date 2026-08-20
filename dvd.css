@@ -1,0 +1,299 @@
+/* =========================
+   DVDページ
+========================= */
+
+body {
+    margin: 0;
+    padding: 60px 20px;
+
+    color: white;
+
+    font-family:
+        Arial,
+        "Noto Sans JP",
+        sans-serif;
+
+    background-color: #111;
+
+    /* 背景画像 */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    text-shadow: 0 2px 8px #000;
+}
+
+
+/* =========================
+   タイトル
+========================= */
+
+h1 {
+    max-width: 950px;
+
+    margin: 0 auto 45px;
+
+    font-size: 38px;
+
+    text-align: center;
+
+    letter-spacing: 2px;
+
+    text-shadow:
+        0 3px 15px #000,
+        0 0 25px rgba(0,0,0,0.8);
+}
+
+
+/* =========================
+   DVD情報
+========================= */
+
+.dvd-info {
+
+    max-width: 850px;
+
+    margin: 0 auto 50px;
+
+    padding: 5px 0 20px;
+
+    border-left: 4px solid #e00000;
+
+    padding-left: 25px;
+
+    text-shadow:
+        0 2px 8px #000;
+}
+
+
+.dvd-info h2 {
+
+    margin: 5px 0 15px;
+
+    font-size: 26px;
+
+}
+
+
+.dvd-info p {
+
+    line-height: 1.8;
+
+    font-size: 16px;
+
+}
+
+
+.year {
+
+    color: #ff3333;
+
+    font-size: 15px !important;
+
+    font-weight: bold;
+
+    letter-spacing: 2px;
+
+}
+
+
+/* =========================
+   収録曲タイトル
+========================= */
+
+.song-title {
+
+    max-width: 850px;
+
+    margin: 0 auto 20px;
+
+    padding-bottom: 12px;
+
+    border-bottom:
+        2px solid rgba(255,255,255,0.7);
+
+    font-size: 25px;
+
+    text-shadow:
+        0 2px 8px #000;
+}
+
+
+/* =========================
+   曲一覧
+========================= */
+
+#song-list {
+
+    max-width: 850px;
+
+    margin: 0 auto;
+
+}
+
+
+/* =========================
+   1曲
+========================= */
+
+.dvd-song {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 18px;
+
+    padding: 13px 18px;
+
+    margin-bottom: 3px;
+
+    border-radius: 6px;
+
+    background:
+        rgba(0,0,0,0.25);
+
+    transition:
+        background 0.2s,
+        transform 0.2s;
+}
+
+
+.dvd-song:hover {
+
+    background:
+        rgba(255,255,255,0.12);
+
+    transform:
+        translateX(5px);
+}
+
+
+/* =========================
+   曲番号
+========================= */
+
+.number {
+
+    min-width: 30px;
+
+    color: #999;
+
+    font-size: 14px;
+
+    text-align: right;
+}
+
+
+/* =========================
+   曲名
+========================= */
+
+.dvd-song a {
+
+    color: white;
+
+    font-size: 17px;
+
+    text-decoration: none;
+
+    text-shadow:
+        0 2px 7px #000;
+
+    transition:
+        color 0.2s;
+}
+
+
+.dvd-song a:hover {
+
+    color: #ff3333;
+
+}
+
+
+/* =========================
+   戻る
+========================= */
+
+.back {
+
+    display: block;
+
+    max-width: 850px;
+
+    margin: 45px auto 0;
+
+    color: rgba(255,255,255,0.8);
+
+    text-align: center;
+
+    text-decoration: none;
+
+    text-shadow:
+        0 2px 8px #000;
+
+    transition:
+        color 0.2s;
+}
+
+
+.back:hover {
+
+    color: #ff3333;
+
+}
+
+
+/* =========================
+   スマホ
+========================= */
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 35px 15px;
+    }
+
+
+    h1 {
+        font-size: 27px;
+
+        line-height: 1.4;
+
+        margin-bottom: 35px;
+    }
+
+
+    .dvd-info {
+        padding-left: 18px;
+    }
+
+
+    .dvd-info h2 {
+        font-size: 21px;
+    }
+
+
+    .song-title {
+        font-size: 21px;
+    }
+
+
+    .dvd-song {
+        padding: 12px 8px;
+        gap: 12px;
+    }
+
+
+    .dvd-song a {
+        font-size: 15px;
+    }
+
+
+    .number {
+        min-width: 22px;
+    }
+
+}
