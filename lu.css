@@ -269,3 +269,138 @@ mark{
     }
 
 }
+
+/* =========================
+   DVD曲順ナビゲーション
+   スマホ対応
+========================= */
+
+.dvd-navigation {
+    max-width: 850px;
+    margin: 50px auto 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 15px;
+}
+
+.dvd-navigation a,
+.dvd-disabled {
+    display: block;
+
+    color: white;
+    text-decoration: none;
+
+    font-size: 14px;
+    letter-spacing: 1px;
+
+    padding: 12px 18px;
+
+    text-align: center;
+
+    white-space: nowrap;
+}
+
+.dvd-navigation a {
+    border-bottom: 1px solid rgba(255,255,255,.45);
+}
+
+.dvd-navigation a:hover {
+    color: #ff3030;
+    border-color: #ff3030;
+}
+
+.dvd-home {
+    opacity: .75;
+}
+
+.dvd-disabled {
+    color: rgba(255,255,255,.25);
+}
+
+
+/* =========================
+   スマホ
+========================= */
+
+@media (max-width: 768px) {
+
+    .dvd-navigation {
+
+        display: grid;
+
+        grid-template-columns:
+            1fr 1fr;
+
+        grid-template-areas:
+
+            "dvd dvd"
+            "prev next";
+
+        gap: 12px;
+
+        margin:
+            40px 10px 25px;
+
+    }
+
+
+    /* DVD名 */
+
+    .dvd-home {
+
+        grid-area: dvd;
+
+        width: 100%;
+
+        padding:
+            12px 8px;
+
+        font-size: 12px;
+
+        line-height: 1.5;
+
+        white-space: normal;
+
+        border-bottom:
+            1px solid
+            rgba(255,255,255,.35);
+
+    }
+
+
+    /* 前の曲 */
+
+    .dvd-navigation a:first-child,
+    .dvd-navigation .dvd-disabled:first-child {
+
+        grid-area: prev;
+
+    }
+
+
+    /* 次の曲 */
+
+    .dvd-navigation a:last-child,
+    .dvd-navigation .dvd-disabled:last-child {
+
+        grid-area: next;
+
+    }
+
+
+    .dvd-navigation a,
+    .dvd-disabled {
+
+        font-size: 12px;
+
+        padding:
+            11px 5px;
+
+        white-space: nowrap;
+
+    }
+
+}
