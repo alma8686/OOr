@@ -4839,7 +4839,7 @@ My`
 },
 
 {
-title:"Grow OldDie Young",
+title:"Grow Old Die Young",
 url:"Grow_Old_Die_Young.html",
 album:"Eye of the Storm",
 dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
@@ -5323,7 +5323,7 @@ We can be giants giants`
 
 {
 title:"Can't Wait",
-url:"Can't Wait.html",
+url:"Can't_Wait.html",
 album:"Eye of the Storm",
 dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`They say what doesn't kill you
@@ -7286,6 +7286,52 @@ I won’t stop the fight
 この翼いつの日か　黒でも白でもなくなってって
 形すら見えなくなって　また新たな形(なにか)作り出すのさ`
 },
+
+{
+title:"欠落オートメーション",
+url:"keturaku.html",
+album:"その他",
+dvd:[ "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
+      "ONE OK ROCK with Orchestra Japan Tour 2018",
+      "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM"  
+],
+lyrics:`いつ　どんな時　どんなタイミングで
+僕はそれを失ってしまったんでしょう?
+深層心理を探ったところで　何の意味も無くて
+
+腐って落ちた果実　狂って実った現実
+月が照らしだした方角　時に忘れそうな感覚
+
+みんな全部しょい込んで　気づきゃもう今日が終わっていて
+求めてた日々はこんなモンだっけ?
+
+With my speechless calm eyes
+Nothing is coming to rise
+道しるべにと落とした小さい石
+暗くて辺りが見えなくなりそうなとき　迷った僕を軌道修正さ!
+リセットなんてしなくたってリスタート
+
+ここはどこで僕はさぁ誰だ?
+たまに分かんなくなんだ!だってさ
+周りが思うよりもずっともっと凄いスピードで
+物事は動いているんだ　そうだ!これは罠だ!思わぬ落とし穴だ!
+自分の夢探しのために掘り進んできた穴はもはや
+
+光すらささなくなって　落ちたら最後
+生ける屍
+
+何気なくつけたテレビに映る愛想笑いしたその小さい子に
+僕は実際一切癒やされることなく
+自分を重ね合わせてみたりなんかしちゃったりして
+Ah
+
+With my speechless calm eyes
+Nothing is coming to rise
+道しるべにと落とした小さい石
+暗くて辺りが見えなくなりそうなとき　迷った僕を軌道修正さ!
+リセットなんてしなくたってリスタート`
+},
+
 
 {
 title:"The Way Back",

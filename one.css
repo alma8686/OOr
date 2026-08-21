@@ -491,3 +491,25 @@ li a{
     }
 
 }
+
+/* =========================
+   アルバム折りたたみ
+========================= */
+
+.album-title {
+    cursor: pointer;
+    user-select: none;
+    transition: .2s;
+}
+
+.album-title:hover {
+    color: #ff7070;
+}
+
+.album-songs {
+    display: block;
+}
+
+.album-songs.hidden {
+    display: none;
+}
