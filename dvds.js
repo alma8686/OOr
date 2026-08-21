@@ -24,6 +24,7 @@ const dvds = {
     "THIS IS MY BUDOKAN?! 2010.11.28": {
         url: "dvds/this_is_my_budokan.html",
         year: "2011",
+        background: "images/dvd/budokan.jpg",
         songs: [
             "Never Let This Go",
             "夜にしか咲かない満月",
@@ -51,85 +52,397 @@ const dvds = {
     "“残響リファレンス” TOUR in YOKOHAMA ARENA": {
         url: "dvds/zankyo_reference.html",
         year: "2012",
-        songs: []
+        background: "images/dvd/zan.jpg",
+        songs: [ 
+        "LOST AND FOUND",
+        "皆無",
+        "未完成交響曲",
+        "じぶんROCK",
+        "Re:make",
+        "世間知らずの宇宙飛行士",
+        "Mr.現代Speaker",
+        "アンサイズニア",
+        "カゲロウ",
+        "Wherever you are",
+        "エトセトラ",
+        "カラス",
+        "Pierce",
+        "C.h.a.o.s.m.y.t.h.",
+        "Liar",
+        "Let's take it someday",
+        "Rock, Scissors, Paper",
+        "NO SCARED",
+        "恋ノアイボウ心ノクピド",
+        "完全感覚Dreamer",
+        "Nobody's Home",
+        "キミシダイ列車"]
     },
 
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM": {
         url: "dvds/jinsei_kimi.html",
         year: "2013",
-        songs: []
+        background: "images/dvd/jin.jpg",
+        songs: [  
+        "Ending Story??",
+        "Deeper Deeper",
+        "Nothing Helps",
+        "カラス",
+        "アンサイズニア",
+        "C.h.a.o.s.m.y.t.h.",
+        "Let's take it someday",
+        "未完成交響曲",
+        "じぶんROCK",
+        "Clock Strikes",
+        "Wherever you are",
+        "All Mine",
+        "Liar",
+        "Be the light",
+        "ONION!",
+        "69",
+        "Juvenile",
+        "Re:make",
+        "完全感覚Dreamer",
+        "The Beginning",
+        "Nobody's Home",
+        "the same as..."]
     },
 
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”": {
         url: "dvds/mighty_long_fall.html",
         year: "2015",
-        songs: []
+        background: "images/dvd/mighty.jpg",
+        songs: [
+         "アンサイズニア",
+        "Deeper Deeper",
+        "Nothing Helps",
+        "Let's take it someday",
+        "C.h.a.o.s.m.y.t.h.",
+        "Clock Strikes",
+        "69",
+        "未完成交響曲",
+        "Mighty Long Fall",
+        "Living Dolls",
+        "Be the light",
+        "A Thousand Miles",
+        "欲望に満ちた青年団",
+        "Heartache",
+        "Decision",
+        "Re:make",
+        "恋ノアイボウ心ノクピド",
+        "NO SCARED",
+        "完全感覚Dreamer",
+        "Wherever you are",
+        "キミシダイ列車",
+        "The Beginning"
+        ]
     },
 
     "ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY": {
         url: "dvds/35xxxv_japan_tour.html",
         year: "2016",
-        songs: []
+        background: "images/dvd/35.jpg",
+        songs: [
+        "Fight the night",
+        "The Beginning",
+        "Memories",
+        "欠落オートメーション",
+        "Deeper Deeper",
+        "Stuck in the middle",
+        "Clock Strikes",
+        "Smiling down",
+        "Liar",
+        "Cry out",
+        "Good Goodbye",
+        "Heartache",
+        "Paper Planes",
+        "3xxxv5",
+        "Take me to the top",
+        "Suddenly",
+        "完全感覚Dreamer",
+        "Mighty Long Fall",
+        "アンサイズニア",
+        "One by One",
+        "Decision"
+        ]
     },
 
     "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN": {
         url: "dvds/nagisaen.html",
         year: "2018",
-        songs: []
+        background: "images/dvd/nagisa.jpg",
+        songs: [
+        "Re:make",
+        "じぶんROCK",
+        "Cry out",
+        "Clock Strikes",
+        "20 years old",
+        "Deeper Deeper",
+        "Let's take it someday",
+        "カゲロウ",
+        "Always coming back",
+        "the same as...",
+        "Be the light",
+        "C.h.a.o.s.m.y.t.h.",
+        "Take me to the top",
+        "アンサイズニア",
+        "Taking Off",
+        "The Beginning",
+        "Mighty Long Fall",
+        "Nobody's Home",
+        "Wherever you are",
+        "キミシダイ列車",
+        "完全感覚Dreamer"]
     },
 
     "ONE OK ROCK 2017 “Ambitions” JAPAN TOUR": {
         url: "dvds/ambitions_japan_tour.html",
         year: "2018",
-        songs: []
+        background: "images/dvd/am.jpg",
+        songs: [
+        "Bombs away",
+        "ONION!",
+        "Deeper Deeper",
+        "Taking Off",
+        "20/20",
+        "Cry out",
+        "Clock Strikes",
+        "Bedroom Warfare",
+        "69",
+        "Always coming back",
+        "Wherever you are",
+        "Listen",
+        "Instrumental",
+        "Bon Voyage",
+        "Start Again",
+        "I was King",
+        "Take what you want",
+        "The Beginning",
+        "Mighty Long Fall",
+        "We are",
+        "One Way Ticket",
+        "完全感覚Dreamer"]
     },
 
     "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR": {
         url: "dvds/ambitions_dome_tour.html",
         year: "2019",
-        songs: []
+        background: "images/dvd/amb.jpg",
+        songs: [
+        "Taking Off",
+        "未完成交響曲",
+        "キミシダイ列車",
+        "Cry out",
+        "The Way Back",
+        "Bedroom Warfare",
+        "Clock Strikes",
+        "One Way Ticket",
+        "内秘心書",
+        "Wherever you are",
+        "Last Dance",
+        "Instrumental",
+        "Deeper Deeper",
+        "I was King",
+        "Take what you want",
+        "The Beginning",
+        "Skyfall",
+        "Mighty Long Fall",
+        "Nobody's Home",
+        "Change",
+        "完全感覚Dreamer",
+        "We are"]
     },
 
     "ONE OK ROCK with Orchestra Japan Tour 2018": {
         url: "dvds/with_orchestra_2018.html",
         year: "2019",
-        songs: []
+        background: "images/dvd/orc.jpg",
+        songs: [
+        "Change",
+        "Ending Story??",
+        "欠落オートメーション",
+        "Cry out",
+        "Decision",
+        "アンサイズクリア",
+        "欲望に満ちた青年団",
+        "カゲロウ",
+        "Yes I am",
+        "One Way Ticket",
+        "Pierce",
+        "Instrumental",
+        "Stand Out Fit In",
+        "I was King",
+        "The Beginning",
+        "Mighty Long Fall",
+        "Fight the night",
+        "We are",
+        "完全感覚Dreamer"]
     },
 
     "ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR": {
         url: "dvds/eye_of_the_storm_japan_tour.html",
         year: "2020",
-        songs: []
+        background: "images/dvd/eye.jpg",
+        songs: [
+        "Eye of the Storm",
+        "Take me to the top",
+        "We are",
+        "Taking Off",
+        "Re:make",
+        "Can't Wait",
+        "Clock Strikes",
+        "Head High",
+        "Grow Old Die Young",
+        "Change",
+        "Worst in Me",
+        "Be the light",
+        "In the Stars",
+        "Instrumental",
+        "Push Back",
+        "キミシダイ列車",
+        "じぶんROCK",
+        "Giants",
+        "The Beginning",
+        "Mighty Long Fall",
+        "Wasted Nights",
+        "Stand Out Fit In",
+        "完全感覚Dreamer"]
     },
 
     "ONE OK ROCK 2020 Field of Wonder at Stadium": {
         url: "dvds/field_of_wonder.html",
         year: "2020",
-        songs: []
+        background: "images/dvd/wonder.jpg",
+        songs: [ 
+        "The Beginning",
+        "Taking Off",
+        "Change",
+
+        "I was King",
+        "未完成交響曲",
+        "キミシダイ列車",
+        "One Way Ticket",
+        "Clock Strikes",
+        "The Last Time",
+        "Start Again",
+
+        "欲望に満ちた青年団",
+        "C.h.a.o.s.m.y.t.h.",
+        "Wherever you are",
+        "Wonder",
+        "Stand Out Fit In",
+        "We are",
+        "Wasted Nights"
+        ]
     },
 
     "ONE OK ROCK 2021 Day to Night Acoustic Sessions": {
         url: "dvds/day_to_night_acoustic.html",
         year: "2021",
-        songs: []
+        background: "images/dvd/day.jpg",
+        songs: [
+        "We are",
+        "Bombs away",
+        "カラス",
+        "The Beginning",
+        "Deeper Deeper",
+        "Heartache",
+        "Broken Heart of Gold",
+        "Mighty Long Fall",
+        "First Love",
+        "Taking Off",
+        "Renegades",
+        "Stand Out Fit In",
+        "Wasted Nights"
+]
     },
 
     "ONE OK ROCK 2023 LUXURY DISEASE JAPAN TOUR": {
         url: "dvds/luxury_disease_japan_tour.html",
         year: "2023",
-        songs: []
+        background: "images/dvd/lu.jpg",
+        songs: [
+        "Wonder",
+        "Save Yourself",
+        "アンサイズニア",
+        "Let Me Let You Go",
+        "Clock Strikes",
+        "カゲロウ",
+        "Mad World",
+        "Vandalize",
+        "So Far Gone",
+        "Heartache",
+        "Gravity",
+        "Neon",
+        "Deeper Deeper",
+        "Renegades",
+        "Your Tears are Mine",
+        "The Beginning",
+        "キミシダイ列車",
+        "the same as...",
+        "We are",
+        "Wasted Nights",
+        "When They Turn the Lights On",
+        "Stand Out Fit In",
+        "完全感覚Dreamer"
+]
     },
 
     "ONE OK ROCK 2024 PREMONITION WORLD TOUR at AJINOMOTO STADIUM": {
         url: "dvds/premonition_world_tour.html",
         year: "2024",
-        songs: []
+        background: "images/dvd/pre.jpg",
+        songs: [
+        "Delusion:All",
+        "欠落オートメーション",
+        "Re:make",
+        "じぶんROCK",
+        "Save Yourself",
+        "Decision",
+        "Renegades",
+        "Wonder",
+        "キミシダイ列車",
+        "Make It Out Alive",
+        "Wherever you are",
+        "Take what you want",
+        "カラス",
+        "Neon",
+        "The Beginning",
+        "We are",
+        "Mighty Long Fall",
+        "Stand Out Fit In",
+        "+Matter",
+        "Let's take it someday",
+        "Wasted Nights"
+]
     },
 
     "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM": {
         url: "dvds/detox_japan_tour_2025.html",
         year: "2025",
-        songs: []
+        background: "images/dvd/de.jpg",
+        songs: [
+        "Puppets Can’t Control You",
+        "Save Yourself",
+        "Make It Out Alive",
+        "Cry out",
+        "NASTY",
+        "Living Dolls",
+        "Party’s Over",
+        "Tiny Pieces",
+        "This Can’t Be Us",
+        "All Mine",
+        "Renegades",
+        "Instrumental",
+        "C.U.R.I.O.S.I.T.Y.",
+        "One by One",
+        "The Beginning",
+        "Delusion:All",
+        "Dystopia",
+        "Tropical Therapy",
+        "The Pilot </3",
+        "Stand Out Fit In",
+        "+Matter",
+        "We are"]
     }
 
 };

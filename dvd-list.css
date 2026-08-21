@@ -1,0 +1,422 @@
+/* ========================================
+   ONE OK ROCK DVD ARCHIVE
+======================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+    min-height: 100vh;
+
+    font-family:
+        "Yu Gothic",
+        "Meiryo",
+        sans-serif;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            rgba(0,0,0,.45),
+            rgba(0,0,0,.65)
+        ),
+        url("images/one.jpg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    padding: 50px 20px;
+}
+
+
+/* ========================================
+   メイン
+======================================== */
+
+.container {
+
+    width: 100%;
+
+    max-width: 1050px;
+
+    margin: auto;
+
+}
+
+
+/* ========================================
+   ページタイトル
+======================================== */
+
+h1 {
+
+    font-family:
+        "Arial",
+        "Helvetica Neue",
+        sans-serif;
+
+    text-align: center;
+
+    font-size: 48px;
+
+    font-weight: 300;
+
+    letter-spacing: 5px;
+
+    line-height: 1.25;
+
+    margin-bottom: 12px;
+
+    text-shadow:
+        0 4px 25px rgba(0,0,0,.9);
+
+}
+
+
+.description {
+
+    font-family:
+        "Yu Gothic",
+        "Meiryo",
+        sans-serif;
+
+    text-align: center;
+
+    font-size: 14px;
+
+    font-weight: 300;
+
+    letter-spacing: 2px;
+
+    color:
+        rgba(255,255,255,.7);
+
+    margin-bottom: 45px;
+
+}
+
+
+/* ========================================
+   DVD一覧
+======================================== */
+
+#dvd-list {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 18px;
+
+}
+
+
+/* ========================================
+   DVDカード
+======================================== */
+
+.dvd-card {
+
+    position: relative;
+
+    display: flex;
+
+    align-items: flex-end;
+
+    min-height: 150px;
+
+    padding:
+        28px 35px;
+
+    color: white;
+
+    text-decoration: none;
+
+    overflow: hidden;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(0,0,0,.82),
+            rgba(0,0,0,.40),
+            rgba(0,0,0,.12)
+        );
+
+    border-radius: 2px;
+
+    transition:
+        transform .35s ease,
+        filter .35s ease;
+
+}
+
+
+/* ========================================
+   下の赤ライン
+======================================== */
+
+.dvd-card::after {
+
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+    height: 2px;
+
+    background:
+        linear-gradient(
+            90deg,
+            #e60012,
+            transparent
+        );
+
+    opacity: .85;
+
+}
+
+
+/* ========================================
+   ホバー
+======================================== */
+
+.dvd-card:hover {
+
+    transform:
+        scale(1.015);
+
+    filter:
+        brightness(1.15);
+
+}
+
+
+/* ========================================
+   年
+======================================== */
+
+.dvd-year {
+
+    position: absolute;
+
+    top: 22px;
+
+    left: 30px;
+
+    font-family:
+        "Arial",
+        "Helvetica Neue",
+        sans-serif;
+
+    font-size: 12px;
+
+    font-weight: 400;
+
+    letter-spacing: 3px;
+
+    color:
+        rgba(255,255,255,.65);
+}
+
+
+/* ========================================
+   DVDタイトル
+======================================== */
+
+.dvd-name {
+
+    position: relative;
+
+    z-index: 2;
+
+    max-width: 850px;
+
+    font-family:
+        "Arial",
+        "Helvetica Neue",
+        "Yu Gothic",
+        "Meiryo",
+        sans-serif;
+
+    font-size: 22px;
+
+    font-weight: 400;
+
+    letter-spacing: 1.5px;
+
+    line-height: 1.5;
+
+    text-shadow:
+        0 3px 15px rgba(0,0,0,.95);
+
+}
+
+
+/* ========================================
+   絵文字
+======================================== */
+
+.dvd-name::first-letter {
+
+    font-size: 20px;
+
+}
+
+
+/* ========================================
+   戻るボタン
+======================================== */
+
+.back {
+
+    display: block;
+
+    width: 210px;
+
+    margin:
+        55px auto 10px;
+
+    padding: 13px;
+
+    text-align: center;
+
+    color: white;
+
+    text-decoration: none;
+
+    font-family:
+        "Arial",
+        "Helvetica Neue",
+        "Yu Gothic",
+        sans-serif;
+
+    font-size: 13px;
+
+    font-weight: 400;
+
+    letter-spacing: 2px;
+
+    border-bottom:
+        1px solid
+        rgba(255,255,255,.5);
+
+    transition:
+        .25s;
+
+}
+
+
+.back:hover {
+
+    color:
+        #ff3030;
+
+    border-color:
+        #ff3030;
+
+}
+
+
+/* ========================================
+   スマホ
+======================================== */
+
+@media (max-width: 768px) {
+
+    body {
+
+        padding:
+            30px 12px;
+
+        background-attachment:
+            scroll;
+
+    }
+
+
+    h1 {
+
+        font-size: 31px;
+
+        letter-spacing: 2px;
+
+        line-height: 1.35;
+
+    }
+
+
+    .description {
+
+        font-size: 12px;
+
+        letter-spacing: 1px;
+
+        margin-bottom: 30px;
+
+    }
+
+
+    #dvd-list {
+
+        gap: 12px;
+
+    }
+
+
+    .dvd-card {
+
+        min-height: 125px;
+
+        padding:
+            25px 20px;
+
+    }
+
+
+    .dvd-name {
+
+        font-size: 16px;
+
+        letter-spacing: 1px;
+
+        line-height: 1.5;
+
+    }
+
+
+    .dvd-year {
+
+    top: 15px;
+
+    left: 20px;
+
+    font-size: 10px;
+
+    letter-spacing: 2px;
+}
+
+
+    .back {
+
+        width: 200px;
+
+        margin-top: 45px;
+
+    }
+
+}

@@ -131,3 +131,141 @@ mark{
         width:200px;
     }
 }
+
+/* =========================
+   収録DVD
+========================= */
+
+.dvd-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0 25px;
+}
+
+.dvd-list li {
+    margin: 8px 0;
+}
+
+.dvd-link {
+    display: inline-block;
+
+    color: #ffffff !important;
+    text-decoration: none;
+
+    padding: 8px 12px;
+
+    border-left: 3px solid #ff4040;
+
+    background: rgba(0, 0, 0, 0.25);
+
+    border-radius: 4px;
+
+    transition: all 0.25s ease;
+}
+
+.dvd-link:hover {
+    color: #ffffff !important;
+
+    background: rgba(255, 64, 64, 0.25);
+
+    border-left-color: #ff7070;
+
+    padding-left: 18px;
+}
+
+/* =========================
+   DVD曲順ナビゲーション
+========================= */
+
+.dvd-navigation {
+
+    max-width: 850px;
+
+    margin: 50px auto 30px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 15px;
+
+}
+
+
+.dvd-navigation a {
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 14px;
+
+    letter-spacing: 1px;
+
+    padding: 12px 18px;
+
+    border-bottom:
+        1px solid
+        rgba(255,255,255,.45);
+
+    transition: .25s;
+
+}
+
+
+.dvd-navigation a:hover {
+
+    color: #ff3030;
+
+    border-color: #ff3030;
+
+}
+
+
+.dvd-home {
+
+    opacity: .75;
+
+}
+
+
+.dvd-disabled {
+
+    color:
+        rgba(255,255,255,.25);
+
+    font-size: 14px;
+
+    padding: 12px 18px;
+
+}
+
+
+@media (max-width:768px) {
+
+    .dvd-navigation {
+
+        margin:
+            40px 10px 25px;
+
+        gap: 5px;
+
+    }
+
+
+    .dvd-navigation a,
+    .dvd-disabled {
+
+        font-size: 12px;
+
+        padding:
+            10px 7px;
+
+        white-space:
+            nowrap;
+
+    }
+
+}

@@ -21,44 +21,63 @@ if (currentDvd && currentDvd.background) {
 
 }
 
-const songList = document.getElementById("song-list");
+
+// =========================
+// DVD収録曲一覧
+// =========================
+
+const songList =
+    document.getElementById("song-list");
 
 if (songList) {
 
     const fileName =
         location.pathname.split("/").pop();
 
-    const dvd = Object.values(dvds).find(
-        dvd => dvd.url.split("/").pop() === fileName
-    );
+    const dvd =
+        Object.values(dvds).find(
+            dvd => dvd.url.split("/").pop() === fileName
+        );
 
     if (dvd) {
 
         songList.innerHTML = "";
 
-        dvd.songs.forEach((songTitle, index) => {
+        dvd.songs.forEach(
+            (songTitle, index) => {
 
-            const song = songs.find(
-                song => song.title === songTitle
-            );
+                const song =
+                    songs.find(
+                        song => song.title === songTitle
+                    );
 
-            if (song) {
+                if (song) {
 
-                songList.innerHTML += `
-                    <div class="dvd-song">
-                        <span class="number">
-                            ${index + 1}
-                        </span>
+                    const dvdName =
+                        encodeURIComponent(
+                            dvd.url.split("/").pop()
+                        );
 
-                        <a href="../${song.url}">
-                            ${song.title}
-                        </a>
-                    </div>
-                `;
+                    songList.innerHTML += `
+                        <div class="dvd-song">
+
+                            <span class="number">
+                                ${String(index + 1).padStart(2, "0")}
+                            </span>
+
+                            <a
+                                href="../${song.url}?dvd=${dvdName}&index=${index}"
+                            >
+                                ${song.title}
+                            </a>
+
+                        </div>
+                    `;
+
+                }
 
             }
-
-        });
+        );
 
     }
 
