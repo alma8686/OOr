@@ -317,32 +317,111 @@ li a{
 }
 
 /* =========================
-   トップページ スマホ対応
+   スマホ：トップページ
+   曲一覧を押しやすくする
 ========================= */
 
 @media (max-width: 768px) {
 
-    /* アルバム・曲の一覧 */
-    .song-list a,
-    .album-list a,
-    .song-item a {
-        font-size: 16px;
-        line-height: 1.6;
-        padding: 12px 10px;
+    body {
+        padding: 20px 12px;
     }
 
-    /* 一覧の各項目 */
-    .song-list li,
-    .album-list li,
-    .song-item {
-        margin-bottom: 8px;
+    h1 {
+        font-size: 30px;
+        line-height: 1.4;
     }
 
-    /* ボタン */
-    button {
+    /* 検索欄 */
+    .search-box {
+        display: flex;
+        gap: 8px;
+    }
+
+    .search-box input {
         font-size: 16px;
-        padding: 12px 16px;
+        padding: 12px;
         min-height: 46px;
+    }
+
+    .search-box button {
+        font-size: 16px;
+        padding: 10px 16px;
+        min-height: 46px;
+    }
+
+    /* タグ */
+    #tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    #tags button {
+        font-size: 14px;
+        padding: 10px 13px;
+        min-height: 42px;
+    }
+
+    /* DVDボタン */
+    .dvd-button {
+        display: block;
+        text-align: center;
+        font-size: 16px;
+        padding: 14px 12px;
+        margin: 20px 0;
+    }
+
+    /* 曲一覧 */
+    ul {
+        padding-left: 20px;
+    }
+
+    li {
+        margin-bottom: 4px;
+        line-height: 1.5;
+    }
+
+    li a {
+        display: inline-block;
+
+        font-size: 16px;
+
+        padding:
+            9px 4px;
+
+        line-height: 1.5;
+
+        /* スマホで押しやすい */
+        min-height: 40px;
+    }
+
+    /* お気に入り */
+    .favorite {
+        display: inline-block;
+
+        font-size: 22px;
+
+        padding:
+            6px 8px;
+
+        margin-left: 4px;
+
+        min-width: 38px;
+
+        text-align: center;
+
+        cursor: pointer;
+    }
+
+    /* アルバム名 */
+    strong {
+        display: block;
+
+        font-size: 18px;
+
+        margin-top: 18px;
+        margin-bottom: 8px;
     }
 
 }
