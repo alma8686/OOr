@@ -910,7 +910,7 @@ We had enough, we can take it over`
 },
 
 {
-title:"Viva Violent Fellow~美しきモッシュピット",
+title:"Viva Violent Fellow～美しきモッシュピット～",
 url:"Viva.html",
 album:"感情エフェクト",
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28"],
@@ -1339,7 +1339,7 @@ WOW!!何回ダメダメと言われようが
 },
 
 {
-title:"Lair",
+title:"Liar",
 url:"Lair.html",
 album:"Nicheシンドローム",
 tags:["ロック","英語曲"],
@@ -1826,7 +1826,7 @@ flame we are`
 },
 
 {
-title:"C.h.a.o.s.m.y.t.h",
+title:"C.h.a.o.s.m.y.t.h.",
 url:"Chaosmyth.html",
 album:"残響リファレンス",
 tags:["ロック","日本語曲","人気曲"],
@@ -2477,7 +2477,7 @@ It finally begins`
 },
 
 {
-title:"Clock Strike",
+title:"Clock Strikes",
 url:"Clock_Strike.html",
 album:"人生×僕=",
 dvd:["ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
@@ -3181,7 +3181,7 @@ I wonder why`
 },
 
 {
-title:"Cry Out",
+title:"Cry out",
 url:"Cry_out.html",
 album:"35xxxv",
 dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY",
@@ -3601,7 +3601,7 @@ I'm gonna take you out`
 },
 
 {
-title:"Good Goddbye",
+title:"Good Goodbye",
 url:"Good_Goodbye.html",
 album:"35xxxv",
 dvd:["ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY"],
@@ -6815,7 +6815,7 @@ The party’s over`
 },
 
 {
-title:"Puppets Can't Control You",
+title:"Puppets Can’t Control You",
 url:"Puppets_Can't_Control_You.html",
 album:"DETOX",
 dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
@@ -7077,7 +7077,7 @@ You matter to me`
 },
 
 {
-title:"C.U.R.I.O.S.I.T.Y",
+title:"C.U.R.I.O.S.I.T.Y.",
 url:"CURIOSITY.html",
 album:"DETOX",
 dvd:["ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"],
