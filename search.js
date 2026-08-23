@@ -372,58 +372,7 @@ function showSongs(){
 
 }
 
-function setupFavorites(){
 
-    document.querySelectorAll(".favorite").forEach(star=>{
-
-        const id = star.dataset.id;
-
-        let favorites =
-            JSON.parse(localStorage.getItem("favorites")) || [];
-
-        if(favorites.includes(id)){
-            star.textContent="★";
-            star.classList.add("active");
-        }
-
-        star.onclick=(e)=>{
-
-            e.preventDefault();
-            e.stopPropagation();
-
-            let favorites =
-                JSON.parse(localStorage.getItem("favorites")) || [];
-
-if(favorites.includes(id)){
-    favorites = favorites.filter(f => f !== id);
-}else{
-    favorites.push(id);
-}
-
-localStorage.setItem(
-    "favorites",
-    JSON.stringify(favorites)
-);
-
-// 同じ曲の星を全部更新
-document
-.querySelectorAll(`.favorite[data-id="${id}"]`)
-.forEach(s => {
-
-    if(favorites.includes(id)){
-        s.textContent = "★";
-        s.classList.add("active");
-    }else{
-        s.textContent = "☆";
-        s.classList.remove("active");
-    }
-
-});
-        };
-
-    });
-
-}
 
 const favoriteButton = document.getElementById("favoriteTag");
 
