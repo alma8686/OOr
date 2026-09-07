@@ -69,3 +69,7 @@ function setupFavorites() {
     });
 
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+    setupFavorites();
+});
