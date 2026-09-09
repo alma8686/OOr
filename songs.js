@@ -7439,9 +7439,72 @@ We’re gonna make it out alive`
 },
 
 {
+title:"Skyfall",
+url:"Skyfall.html",
+album:"コラボ曲",
+lyrics:`Look at all this shame
+Not gonna make it alright
+Just a little insane
+
+Embrace the rage
+We’re gonna make it our fight
+Watch it go in flames
+
+And I’m thinking of the promises we made
+
+Look at the sky fall fall
+Look at the sky fall fall
+行き着くとこまで行き着いたら
+(Ikitsuku toko made ikitsuitara)
+Nothing left for me to find
+All gone gone gone
+The sky fall
+
+You know I never say die
+I’m gonna bring you down
+See past the lies
+
+You’re gonna lose this time
+Fucking end your pain
+I’m gonna kill the lights
+
+And I’m thinking of the promises we made
+
+Look at the sky fall fall
+Look at the sky fall fall
+行き着くとこまで行き着いたら
+(Ikitsuku toko made ikitsuitara)
+Nothing left for me to find
+All gone gone gone
+
+This is your last time
+Knock you out
+I know you’ve done the crime
+You are my enemy
+
+The last nail in the coffin
+Like a cold calling
+You know why the sky started falling
+Ooh lala
+I know what’s my role
+Oh are you ready to sell your soul?
+
+And I’m thinking of the promises we made
+
+Look at the sky fall fall
+Look at the sky fall fall
+行き着くとこまで行き着いたら
+(Ikitsuku toko made ikitsuitara)
+Nothing left for me to find
+All gone gone gone
+The sky fall`
+},
+
+
+{
 title:"777",
 url:"777.html",
-album:"その他",
+album:"コラボ曲",
 lyrics:`7 We can't stop
 7 On a mission
 7 Hit the jackpot
@@ -7530,6 +7593,66 @@ Flip the table upside…. 7777
 7 It's a movie
 7 Don't give up
 7 Get ya ass up`
+},
+
+{
+title:"ありふれた世界の果てに",
+url:"arihureta.html",
+album:"コラボ曲",
+lyrics:`ほらありふれた世界の果てに
+大事なことは一つだけ
+あぁ生きゆく中で見つけたもの
+ずっとそこにあった
+絶え間なく輝く
+光
+ 
+
+例えば俺の側に一緒に生きるフレンズやファミリー
+一人一人先祖代々受け継ぐ灯火
+瞼の裏に笑顔悲しみ Sunday morning
+身体に流れてる血皆んな同じ Do you feel me?
+雨の日には濡れて
+晴れた日に乾いて
+寒い日には震えているの当たり前だろ？
+ってわかってるぜHOMIE
+マイカフォン用意　墓場までの道のり
+散らばった望み拾い向かうあなたの場所に
+俺たちのこの目に見えるのは何？
+ 
+
+ほらありふれた世界の果てに
+大事なことは一つだけ
+あぁ生きゆく中で見つけたもの
+ずっとそこにあった
+絶え間なく輝く
+光
+
+
+伝わる自信とかなくて
+君が遠くなる夢を見て
+どんなに走ってもたどりつける気がしない
+To the light
+飛べない羽を抱え
+大空を夢見てた
+あの日君の涙を
+忘れない No no no no
+正しさだけじゃもう
+傷つけあうだけだよ
+Yea I know
+You know
+You know
+平和叫び合うほどに喧嘩
+振り翳す勝手な善悪
+右とか左うっせーな
+消えた自然は戻らない So wake up
+ 
+
+ほらありふれた世界の果てに
+大事なことは一つだけ
+あぁ生きゆく中で見つけたもの
+ずっとそこにあった
+絶え間なく輝く
+光`
 },
 
 {
