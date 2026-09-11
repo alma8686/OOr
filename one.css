@@ -554,3 +554,415 @@ li a{
 .album-songs.hidden {
     display: none;
 }
+
+/* ========================================
+   タグ設定画面
+======================================== */
+
+.tag-manager {
+    width: min(900px, 92%);
+    margin: 40px auto;
+    padding-bottom: 60px;
+}
+
+
+/* 戻るボタン */
+
+.back-button {
+    display: inline-block;
+    margin-bottom: 25px;
+
+    color: white;
+    text-decoration: none;
+
+    background: rgba(255, 255, 255, 0.08);
+
+    padding: 10px 16px;
+
+    border-radius: 10px;
+
+    transition: 0.2s;
+}
+
+.back-button:hover {
+    background: rgba(255, 255, 255, 0.16);
+}
+
+
+/* タイトル */
+
+.tag-manager h1 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.tag-description {
+    opacity: 0.7;
+    margin-bottom: 25px;
+}
+
+
+/* 検索エリア */
+
+.tag-search-box {
+    display: flex;
+    gap: 10px;
+
+    margin-bottom: 30px;
+}
+
+
+.tag-search-box input,
+.tag-search-box select {
+
+    flex: 1;
+
+    box-sizing: border-box;
+
+    padding: 14px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: rgba(0, 0, 0, 0.65);
+
+    color: white;
+
+    font-size: 16px;
+
+    outline: none;
+}
+
+
+.tag-search-box input::placeholder {
+    color: rgba(255, 255, 255, 0.55);
+}
+
+
+.tag-search-box select option {
+    background: #222;
+    color: white;
+}
+
+
+/* 曲一覧 */
+
+.song-results {
+
+    background: rgba(0, 0, 0, 0.45);
+
+    border-radius: 16px;
+
+    padding: 20px;
+
+    margin-bottom: 25px;
+}
+
+
+.song-results h2 {
+    margin-top: 0;
+}
+
+
+#resultCount {
+    opacity: 0.6;
+    font-size: 14px;
+}
+
+
+/* 曲ボタン */
+
+.song-result-button {
+
+    width: 100%;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 15px;
+
+    padding: 14px 16px;
+
+    margin-top: 8px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    background: rgba(255, 255, 255, 0.07);
+
+    color: white;
+
+    cursor: pointer;
+
+    text-align: left;
+
+    transition: 0.2s;
+}
+
+
+.song-result-button:hover {
+
+    background: rgba(255, 255, 255, 0.15);
+
+    transform: translateX(3px);
+}
+
+
+.song-result-title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.song-result-album {
+
+    font-size: 13px;
+
+    opacity: 0.55;
+
+    white-space: nowrap;
+}
+
+
+/* 選択中 */
+
+.selected-song {
+
+    background: rgba(0, 0, 0, 0.6);
+
+    border-radius: 16px;
+
+    padding: 25px;
+
+    margin-top: 25px;
+
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+
+.selected-song h2 {
+    margin-top: 0;
+}
+
+
+.selected-song-info {
+
+    padding: 15px;
+
+    background: rgba(255, 255, 255, 0.06);
+
+    border-radius: 10px;
+
+    margin-bottom: 25px;
+}
+
+
+#selectedTitle {
+
+    font-size: 22px;
+
+    font-weight: bold;
+
+    margin-bottom: 7px;
+}
+
+
+#selectedAlbum {
+
+    opacity: 0.6;
+
+    font-size: 14px;
+}
+
+
+/* タグ */
+
+.tag-setting h2 {
+    font-size: 20px;
+}
+
+
+#tagButtons {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 10px;
+}
+
+
+.tag-select-button {
+
+    padding: 10px 16px;
+
+    border-radius: 20px;
+
+    border: 1px solid rgba(255, 255, 255, 0.25);
+
+    background: rgba(255, 255, 255, 0.05);
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 14px;
+
+    transition: 0.2s;
+}
+
+
+.tag-select-button:hover {
+
+    background: rgba(255, 255, 255, 0.15);
+}
+
+
+/* 選択中のタグ */
+
+.tag-select-button.active {
+
+    background: #e50914;
+
+    border-color: #e50914;
+
+    box-shadow: 0 0 10px rgba(229, 9, 20, 0.35);
+}
+
+
+/* 保存ボタン */
+
+.tag-actions {
+
+    display: flex;
+
+    gap: 10px;
+
+    margin-top: 25px;
+}
+
+
+.save-tag-button,
+.reset-tag-button {
+
+    border: none;
+
+    border-radius: 10px;
+
+    padding: 13px 20px;
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 15px;
+
+    transition: 0.2s;
+}
+
+
+.save-tag-button {
+
+    background: #e50914;
+
+    flex: 1;
+}
+
+
+.save-tag-button:hover {
+
+    background: #ff1a25;
+}
+
+
+.reset-tag-button {
+
+    background: rgba(255, 255, 255, 0.1);
+}
+
+
+.reset-tag-button:hover {
+
+    background: rgba(255, 255, 255, 0.18);
+}
+
+
+/* 保存メッセージ */
+
+.save-success {
+
+    margin-top: 15px;
+
+    color: #7cff9b;
+
+    font-weight: bold;
+}
+
+
+/* ========================================
+   スマホ対応
+======================================== */
+
+@media (max-width: 600px) {
+
+    .tag-manager {
+        width: 92%;
+        margin-top: 25px;
+    }
+
+
+    .tag-manager h1 {
+        font-size: 26px;
+    }
+
+
+    .tag-search-box {
+
+        flex-direction: column;
+
+    }
+
+
+    .song-result-button {
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        gap: 5px;
+
+    }
+
+
+    .selected-song {
+
+        padding: 18px;
+
+    }
+
+
+    #selectedTitle {
+
+        font-size: 20px;
+
+    }
+
+
+    .tag-actions {
+
+        flex-direction: column;
+
+    }
+
+
+    .save-tag-button,
+    .reset-tag-button {
+
+        width: 100%;
+
+    }
+
+}

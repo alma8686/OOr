@@ -4,7 +4,7 @@ const songs = [
 title:"内秘心書",
 url:"naihi.html",
 album:"ゼイタクビョウ",
-tags:["ロック","日本語曲"],
+tags:[],
 dvd:["世の中シュレッダー",
     "THIS IS MY BUDOKAN?! 2010.11.28",
     "ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"
@@ -140,7 +140,7 @@ My singing is everything`
 title:"夜にしか咲かない満月",
 url:"yoru.html",
 album:"ゼイタクビョウ",
-tags:["ロック","日本語曲","失恋"],
+tags:[],
 dvd:["世の中シュレッダー",
     "THIS IS MY BUDOKAN?! 2010.11.28"
 ],
@@ -192,7 +192,7 @@ Hey, Mr. Crazy, don't you think?
 title:"努努-ゆめゆめ-",
 url:"yumeyume.html",
 album:"ゼイタクビョウ",
-tags:["ロック","日本語曲","応援ソング"],
+tags:[],
 dvd:["世の中シュレッダー"],
 lyrics:`Your life is automatic　Believe a little magic
 Your future may be tragic　For a toxic animatic
@@ -246,7 +246,7 @@ Compassが指す方へ　Go for a sail!!
 title:"カゲロウ",
 url:"kagerou.html",
 album:"ゼイタクビョウ",
-tags:["バラード","ラブソング","日本語曲"],
+tags:[],
 dvd:["世の中シュレッダー",
     "THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
@@ -315,7 +315,7 @@ Fly快感と好奇心My Past’s gone, Memory’s gone
 title:"ケムリ",
 url:"kemu.html",
 album:"ゼイタクビョウ",
-tags:["ロック","日本語曲"],
+tags:[],
 dvd:["世の中シュレッダー"],
 lyrics:`このままだと自分だけじゃなくてこの世界壊れるだろう
 信頼できないデカい未来　夢はあるけど…
@@ -362,7 +362,7 @@ Such a smoky world
 title:"欲望に満ちた青年団",
 url:"yokubou.html",
 album:"ゼイタクビョウ",
-tags:["ロック","日本語曲","人気曲","ライブ定番"],
+tags:[],
 dvd:["世の中シュレッダー",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
     "ONE OK ROCK with Orchestra Japan Tour 2018",
@@ -401,7 +401,7 @@ We have, We have, We have grown
 title:"エトセトラ",
 url:"eto.html",
 album:"ゼイタクビョウ",
-tags:["ロック","日本語曲"],
+tags:[],
 dvd:["世の中シュレッダー",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA"
 ],
@@ -467,12 +467,319 @@ You will be waiting for us there?
 近くにいると信じているから`
 },
 
+{
+title:"必然メーカー",
+url:"hituzen.html",
+album:"BEAM OF LIGHT",
+lyrics:`What am I gonna do?
+If my last heartbeat’s going to come in a few minutes
+How do I live my last?
+
+許せない人を少し許して　嫌いな人を少し好きになり
+そして最後に自分のコト愛することはできるのかな
+
+Try to make it now
+I don’t want anymore regret
+‘cause time’s never back
+ほどけないように　靴ヒモ結び
+止まることのないようにと再び走る
+
+生きてる感じが少しでもしてますか　自問自答に迷って
+左胸にこの手当ててみた
+1つ目の鼓動が泣き叫ぶ　余韻を残し2つ目が鳴る
+それを最後に次に鳴るはずの音は息をひそめた
+
+Try to make it now
+I don’t want anymore regret
+‘cause time’s never back
+ほどけないように　靴ヒモ結び
+止まることのないようにと再び走る
+
+All you want to do is not always what you have in your mind
+Can’t you see something new coming on your way?
+
+Try to teach you how
+I don’t want anymore hatred
+‘cause no one ever sucks!
+君が僕に教えてくれた
+今日という日に誰かを好きになること
+
+当たり前にしてたはずの呼吸がもしも
+残りわずか数分だとしたら僕ははたして…`
+},
+
+{
+title:"Melody Lineの死亡率",
+url:"Melody.html",
+album:"BEAM OF LIGHT",
+lyrics:`幼い頃に気づいていたけれど
+無我夢中に　可能性を信じて走り続けた
+苦しんで悩んでも今更後悔はしないのさ
+生まれるカタチ　真似はできない
+
+We got lots of melodies　They have no more boundaries
+And nobody means to hurt any one
+気付いてるでしょ?戸惑いもしない
+目の前の君はなぜなの?
+残り少ない現実で　自発音(オリジナル)を
+言葉に魂込めれば　それはこの世でひとつだけのもの
+
+雲っていたバスルームの鏡に
+指先でその瞬間(とき)の感情を訴え続けた
+歌ってる時だけがありのままの姿を映し出す
+僕の人生　音楽(これ)に託した
+
+We got lots of melodies　They have no more boundaries
+And nobody means to hurt any one
+気付いてるでしょ?戸惑いもしない
+目の前の君はなぜなの?
+残り少ない現実で　自発音(オリジナル)を
+言葉に魂込めれば　それはこの世でひとつだけのもの
+
+We made this song for you all　Hitting like a fireball
+That's why here we are and we can move on
+全ての道に挫折と希望　刺激され明日越えていく
+言霊が将来のカギを握っている
+無限大の力発揮して　人々の夢広げる
+だからこそこの先もずっと
+愛する音と僕達は未来を創り上げていく
+Two words become one!!`
+},
+
+{
+title:"100%",
+url:"100.html",
+album:"BEAM OF LIGHT",
+lyrics:`I heard that you would
+Understand someday
+But I don't live like you any way
+Do I have to understand
+Things I don't even want to know?
+Maybe I'm just a kid now
+Maybe it's just a quibble
+But this is all what I want to say
+Listen up
+You got to hear this
+I'm gonna lose, yeah
+I'm gonna lose
+If you bring me your own theory
+Alright, alright
+Make it innocent
+Don't take me over
+You are gonna lose, yeah
+You are gonna lose
+If I bring you my hundred percent hope
+Alright, alright
+Listen up
+You got to hear this
+Can you feel it?
+Can you feel it?
+This song and this voice, yeah
+Maybe I'm just a kid now
+Maybe it's just a quibble
+But this is all what I want to say
+Listen up
+You got to hear this
+I'm gonna lose, yeah
+I'm gonna lose
+If you bring me your own theory
+Alright, alright
+Make it innocent
+Don't take me over
+You are gonna lose, yeah
+You are gonna lose
+If I bring you my hundred percent hope
+Alright, alright
+Listen up
+You got to hear this
+I'm gonna lose, yeah
+I'm gonna lose
+If you bring me your own theory
+Alright, alright
+Make it innocent
+Don't take me over
+You are gonna lose, yeah
+You are gonna lose
+If I bring you my hundred percent hope
+Alright, alright
+Listen up
+You got to hear this`
+},
+
+{
+title:"燦さん星",
+url:"sansan.html",
+album:"BEAM OF LIGHT",
+lyrics:`We're born as a white ball
+Not polluted by anyone, anything
+But it changes if time passes
+Turning into every color we have
+
+Even if you get so dirty
+Even someone bring you down
+You don't give up, keep on searching
+There is chance to become winning ball, Yeah
+
+時に悔しすぎて流した涙はさぁ
+一つ一つが今後の君の宝物になるはずさ!!
+
+Just search it, don't wait for the lay
+Don't give in, keep trying to look for the light
+If I can make my step, shine will come
+It's like a spotlight on the stage
+At last, chance will come for everyone
+Please don't think you are lost and you're alone
+There is somebody watching you
+Don't be afraid to overcome yourself, Yeah
+
+Everyone is not perfect
+People always try to be perfect
+Getting dirty or getting colored
+Never means to become imperfect
+
+Even if you're in frustration
+Even you're out of desperation
+When you're feeling an isolation
+They will come back to you as a function
+
+何かを突き付けられてる毎日なら
+日々の努力で何か突き付ける毎日に変えりゃいい
+
+Just search it, don't wait for the lay
+Don't give in, keep trying to look for the light
+If I can make my step, shine will come
+It's like a spotlight on the stage
+At last, chance will come for everyone
+Please don't think you are lost and you're alone
+There is somebody watching you
+Don't be afraid to overcome yourself, Yeah`
+},
+
+{
+title:"光芒",
+url:"koubou.html",
+album:"BEAM OF LIGHT",
+lyrics:`ただただ進む　進む以外にない
+後ろを見ればもう戻れそうもない
+引き返す理由(ワケ)いくつか探し
+捨てた制服(もの)にまた袖を通す気も無い
+
+I said “no one'll make it what I'm going to do
+Don't call me crazy, nothing bothers you”
+I was breathing heavy to break away
+“Don't tear me up any more”
+
+日々誰かのネタのタネにされ自分すら嫌いになりそうで
+でも仲間・家族・歌に心救われ!!
+もう一度やろうと立ち上がれば
+そこには少なからず自分を認めてくれる人がいた
+
+I saw the light
+The beam of light
+It took me here…
+
+I said “no one'll make it what I'm going to do
+Don't call me crazy, nothing bothers you”
+I was breathing heavy to break away
+“Don't tear me up any more”
+
+たとえこの世の終わりが来ても自分信ずる気持ちは
+どうか僕の胸ポケットの一番端にあってよ!!
+いつか今日という日が誰かの羨むその日に変われるように
+今日も僕は夢を見る
+
+No more crying
+泣く必要はない…
+
+枯れた花に水を注(さ)したのは他でもなく目の前の君で
+その一滴一滴(ひとしずくひとしずく)はまるで愛で
+気づいたよ!!僕らには君らが!!
+同じように君らには僕ら!!
+そんな気持ちで今日も過ごすの!`
+},
+
+{
+title:"Crazy Botch",
+url:"Crazy.html",
+album:"BEAM OF LIGHT",
+lyrics:`空いてる空　混む街　抜け出せない迷宮路
+この街とあの空　点と点で垂直に
+結んだ距離はこの星何周分になるんだろう?
+その距離今の科学で行き来が可能なら
+彼方空いてる空まで一気にドンブラコッコ
+
+Don’t be late!
+ダラダラしていたらまた何十万光年と
+離れて…しまいにはまたホラ!!
+1人ぼっち?2人ぼっち??
+いや　3か4か5ぼっちかは分からないけれど
+どちらにしろBotch
+6か7か8か9ぼっちかになる前に
+僕らの思想　いっそMake it grow!
+
+息苦しいこの街　空を眺めていると
+どれだけ僕が生きている地球が退屈か…
+それと同時にここがどれだけ窮屈か…
+今の今まで我慢できたのはなんだったんだろう?
+そんな風にして思える今日は素晴らしいの??
+
+Don’t be late!
+ダラダラしていたらまた何十万光年と
+離れて…しまいにはまたホラ!!
+1人ぼっち?2人ぼっち??
+いや　3か4か5ぼっちかは分からないけれど
+どちらにしろBotch
+6か7か8か9ぼっちかになる前に
+僕らの思想　いっそMake it grow!
+
+Don’t you know?
+ほらほら周りがそわそわしてきたろ?
+我先と皆人の波を掻き分け
+これまでしてきた善と悪を棚に上げる
+多くの偽善者達が今日も
+とんだ災難のこの状況にもかかわらず
+我もの顔のCrazy Botch`
+},
+
+{
+title:"Yap",
+url:"Yap.html",
+album:"BEAM OF LIGHT",
+lyrics:`泣く事も笑う事もできなくなって
+どれくらい経つだろう?
+ウソを言ってさらにウソ重ねるのは
+何回目だろう?
+
+この退屈で窮屈な
+場所のドコを僕は誇ればいい?
+強いて言うならば僕が僕のままで
+いつづけられる事!!それぐらいかな?!
+
+テレビで見るののしり合いながらのトークは
+まるで子供みたいで
+認め合って次に進む事の方が大事な気もするけど…
+
+平然と人に向けた言葉という名の機関銃を
+撃ちまくるあなたを見て　そこで傷つく人がいようとも
+
+I never want to try to stop it!
+There is no one to try to stop it!!
+Let it go!!!
+
+真実の代わりにウソで人が幸せになるなら
+どれだけの正義がこの世で悪へと変わるのかな?
+La La La La La …
+
+Should I take it to be happy?
+Do you think that it is better way?`
+},
+
 
 {
 title:"恋ノアイボウ心ノクピド",
 url:"koi.html",
 album:"感情エフェクト",
-tags:["ロック","ラブソング","日本語曲"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”"
@@ -552,7 +859,7 @@ Can’t you see that?`
 title:"皆無",
 url:"kaimu.html",
 album:"感情エフェクト",
-tags:["ロック","日本語曲"],
+tags:[],
 dvd:["世の中シュレッダー",
     "THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA"
@@ -650,7 +957,7 @@ Somebody I would never want to be
 title:"Living Dolls",
 url:"Living_Dolls.html",
 album:"感情エフェクト",
-tags:["ロック"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
     "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM"
@@ -694,7 +1001,7 @@ First love that you brought me…
 title:"Break My Strings",
 url:"Break_My_Strings.html",
 album:"感情エフェクト",
-tags:["ロック","英語曲"],
+tags:[],
 lyrics:`僕の手足から延びた曲線
 今日もいつの間にか遊離して
 ふりきる余力さえ　もう僕の中にゃ
@@ -1070,7 +1377,7 @@ Let this go`
 title:"完全感覚Dreamer",
 url:"Dreamer.html",
 album:"Nicheシンドローム",
-tags:["ロック","日本語曲","人気曲","ライブ定番"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
@@ -1193,7 +1500,7 @@ You’re thinking the same way
 title:"Yes I am",
 url:"Yes_I_am.html",
 album:"Nicheシンドローム",
-tags:["ロック","英語曲"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "ONE OK ROCK with Orchestra Japan Tour 2018"
 ],
@@ -1296,7 +1603,7 @@ Get on up!
 title:"じぶんROCK",
 url:"ROCK.html",
 album:"Nicheシンドローム",
-tags:["ロック","日本語曲","人気曲","ライブ定番"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
@@ -1342,7 +1649,7 @@ WOW!!何回ダメダメと言われようが
 title:"Liar",
 url:"Lair.html",
 album:"Nicheシンドローム",
-tags:["ロック","英語曲"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
@@ -1388,7 +1695,7 @@ What do you think of living without me?
 title:"Wherever you are",
 url:"wherever_you_are.html",
 album:"Nicheシンドローム",
-tags:["バラード","ラブソング","英語曲","人気曲","ライブ定番"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
@@ -1543,7 +1850,7 @@ No one can take it
 title:"未完成交響曲",
 url:"mikansei.html",
 album:"Nicheシンドローム",
-tags:["ロック","日本語曲","人気曲"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
@@ -1591,7 +1898,7 @@ We are alive We are alive
 title:"Nobody's Home",
 url:"Nobody's_Home.html",
 album:"Nicheシンドローム",
-tags:["バラード","日本語曲","人気曲","ライブ定番"],
+tags:[],
 dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
   "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
   "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
@@ -1697,7 +2004,7 @@ And feel my bloodstream gushing vividly inside`
 title:"アンサイズニア",
 url:"ansize.html",
 album:"残響リファレンス",
-tags:["ロック","日本語曲","人気曲","ライブ定番"],
+tags:[],
 dvd:["THIS IS MY BUDOKAN?! 2010.11.28",
     "“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
@@ -1760,7 +2067,7 @@ You know, the answer is inside of me`
 title:"NO SCARED",
 url:"NO_SCARED.html",
 album:"残響リファレンス",
-tags:["ロック","英語曲","人気曲"],
+tags:[],
 dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”"
 ],
@@ -1829,7 +2136,7 @@ flame we are`
 title:"C.h.a.o.s.m.y.t.h.",
 url:"Chaosmyth.html",
 album:"残響リファレンス",
-tags:["ロック","日本語曲","人気曲"],
+tags:[],
 dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
@@ -1994,7 +2301,7 @@ Take a breath and you can see it’s so real`
 title:"Re:make",
 url:"Re_make.html",
 album:"残響リファレンス",
-tags:["ロック","人気曲","ライブ定番"],
+tags:[],
 dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
@@ -2060,7 +2367,7 @@ I can’t believe in you
 title:"Pierce",
 url:"Pierce.html",
 album:"残響リファレンス",
-tags:["バラード","ラブソング"],
+tags:[],
 dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK with Orchestra Japan Tour 2018"
 ],
@@ -2102,7 +2409,7 @@ I can be your side`
 title:"Let's take it someday",
 url:"Let's_take_it_someday.html",
 album:"残響リファレンス",
-tags:["ロック","英語曲"],
+tags:[],
 dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2013 “人生×君＝” TOUR LIVE&FILM",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
@@ -2166,7 +2473,7 @@ Let’s take it someday`
 title:"キミシダイ列車",
 url:"kimi.html",
 album:"残響リファレンス",
-tags:["ロック","人気曲","ライブ定番"],
+tags:[],
 dvd:["“残響リファレンス” TOUR in YOKOHAMA ARENA",
     "ONE OK ROCK 2014 “Mighty Long Fall at Yokohama Stadium”",
     "ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN",
@@ -5262,7 +5569,7 @@ Written in the stars`
 
 {
 title:"Giants",
-url:"Giatnts.html",
+url:"Giants.html",
 album:"Eye of the Storm",
 dvd:["ONE OK ROCK “EYE OF THE STORM” JAPAN TOUR"],
 lyrics:`Through silence
@@ -7442,6 +7749,7 @@ We’re gonna make it out alive`
 title:"Skyfall",
 url:"Skyfall.html",
 album:"コラボ曲",
+dvd:["ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"],
 lyrics:`Look at all this shame
 Not gonna make it alright
 Just a little insane

@@ -1,6 +1,27 @@
 const search = document.getElementById("search");
 const result = document.getElementById("result");
 
+function getEffectiveTags(song) {
+
+    const savedTags =
+        JSON.parse(
+            localStorage.getItem("songTags") || "{}"
+        );
+
+    if (
+        Object.prototype.hasOwnProperty.call(
+            savedTags,
+            song.url
+        )
+    ) {
+
+        return savedTags[song.url];
+
+    }
+
+    return song.tags || [];
+
+}
 
 // 検索文字を黄色表示
 function highlight(text, word){
@@ -245,7 +266,7 @@ function showSongs(){
 
         list = list.filter(song =>
             selectedTags.every(tag =>
-                song.tags.includes(tag)
+                getEffectiveTags(song).includes(tag)
             )
         );
 

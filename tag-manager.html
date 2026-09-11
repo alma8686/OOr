@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>タグ設定 | ONE OK ROCK 和訳一覧</title>
+
+    <link rel="stylesheet" href="one.css">
+</head>
+
+<body>
+
+    <main class="tag-manager">
+
+        <a href="oor.html" class="back-button">
+            ← 曲一覧に戻る
+        </a>
+
+        <h1>🏷️ タグ設定</h1>
+
+        <p class="tag-description">
+            曲を選んで、好きなタグを設定できます。
+        </p>
+
+        <!-- 検索 -->
+        <div class="tag-search-box">
+
+            <input
+                type="text"
+                id="songSearch"
+                placeholder="🔍 曲名を検索..."
+            >
+
+            <select id="albumFilter">
+                <option value="">💿 すべてのアルバム</option>
+            </select>
+
+        </div>
+
+
+        <!-- 検索結果 -->
+        <section class="song-results">
+
+            <h2>🎵 曲を選択</h2>
+
+            <p id="resultCount">
+                曲を検索してください
+            </p>
+
+            <div id="songList"></div>
+
+        </section>
+
+
+        <!-- 選択中の曲 -->
+        <section
+            id="selectedSong"
+            class="selected-song"
+            style="display: none;"
+        >
+
+            <h2>🎵 選択中の曲</h2>
+
+            <div class="selected-song-info">
+
+                <div id="selectedTitle"></div>
+
+                <div id="selectedAlbum"></div>
+
+            </div>
+
+
+            <!-- タグ -->
+            <div class="tag-setting">
+
+                <h2>🏷️ タグ</h2>
+
+                <div id="tagButtons"></div>
+
+            </div>
+
+
+            <!-- ボタン -->
+            <div class="tag-actions">
+
+                <button
+                    id="saveTags"
+                    class="save-tag-button"
+                >
+                    💾 タグを保存
+                </button>
+
+                <button
+                    id="resetTags"
+                    class="reset-tag-button"
+                >
+                    🔄 初期タグに戻す
+                </button>
+
+            </div>
+
+            <p id="saveMessage"></p>
+
+        </section>
+
+    </main>
+
+
+    <script src="songs.js"></script>
+    <script src="tag-manager.js"></script>
+
+</body>
+
+</html>
