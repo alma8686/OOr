@@ -250,7 +250,6 @@ function updateTagButtons() {
 // ======================
 // タグボタン
 // ======================
-
 document.querySelectorAll("#tags button").forEach(button => {
 
     button.addEventListener("click", function(event) {
@@ -258,55 +257,45 @@ document.querySelectorAll("#tags button").forEach(button => {
         event.preventDefault();
         event.stopPropagation();
 
-
-        const tag = this.textContent.trim();
-
-
-        // ======================
         // お気に入り
-        // ======================
-
         if (this.id === "favoriteTag") {
 
             favoriteOnly = !favoriteOnly;
 
+            // 見た目を直接変更
+            this.classList.toggle("active", favoriteOnly);
+
         }
 
-
-        // ======================
         // 通常タグ
-        // ======================
-
         else {
 
-            const index =
-                selectedTags.indexOf(tag);
+            const tag = this.textContent.trim();
 
+            // 見た目を直接ON/OFF
+            this.classList.toggle("active");
 
-            if (index !== -1) {
+            if (this.classList.contains("active")) {
 
-                // すでに選択中 → 解除
-
-                selectedTags.splice(index, 1);
+                // タグを追加
+                if (!selectedTags.includes(tag)) {
+                    selectedTags.push(tag);
+                }
 
             } else {
 
-                // 未選択 → 選択
-
-                selectedTags.push(tag);
+                // タグを削除
+                selectedTags =
+                    selectedTags.filter(t => t !== tag);
 
             }
-
         }
 
+        // スマホでタップ後に残るフォーカスを解除
+        this.blur();
 
-        // 状態からボタン表示を作り直す
-        updateTagButtons();
-
-
-        // 曲一覧更新
+        // 曲を更新
         showSongs();
-
     });
 
 });
