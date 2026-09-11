@@ -1130,3 +1130,549 @@ li a{
     outline: none;
 }
 
+
+/* =========================
+   タグ検索 状態表示
+========================= */
+
+#tag-status {
+    width: 80%;
+    max-width: 900px;
+    margin: 15px auto;
+}
+
+.tag-status-box {
+    display: inline-block;
+
+    padding: 10px 16px;
+
+    background: rgba(255, 64, 64, 0.15);
+
+    border: 1px solid rgba(255, 64, 64, 0.5);
+
+    border-radius: 20px;
+
+    color: white;
+
+    font-size: 15px;
+
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+
+    #tag-status {
+        width: 100%;
+        margin: 12px 0;
+    }
+
+    .tag-status-box {
+        font-size: 14px;
+        padding: 9px 14px;
+    }
+
+}
+
+
+.tag-count {
+    margin-left: 10px;
+    opacity: 0.8;
+    font-weight: normal;
+}
+
+@media (max-width: 768px) {
+    .tag-count {
+        display: inline-block;
+        margin-left: 6px;
+        margin-top: 4px;
+    }
+}
+
+
+/* =========================
+   タグ全解除ボタン
+========================= */
+
+#clearTagsButton {
+    display: block;
+
+    margin: 10px 0 20px;
+
+    padding: 9px 16px;
+
+    border: 1px solid rgba(255, 255, 255, 0.25);
+
+    border-radius: 20px;
+
+    background: rgba(255, 255, 255, 0.08);
+
+    color: white;
+
+    font-size: 14px;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+
+    -webkit-tap-highlight-color: transparent;
+}
+
+#clearTagsButton:hover {
+    background: rgba(255, 64, 64, 0.25);
+
+    border-color: #ff4040;
+}
+
+#clearTagsButton:active {
+    transform: scale(0.96);
+}
+
+@media (max-width: 768px) {
+
+    #clearTagsButton {
+        font-size: 15px;
+
+        padding: 11px 16px;
+
+        margin-bottom: 20px;
+    }
+
+}
+
+
+/* ========================================
+   トップページ デザイン強化
+======================================== */
+
+/* 背景を少し見せる */
+body::before {
+    background: rgba(0, 0, 0, 0.62);
+    backdrop-filter: blur(3px);
+}
+
+
+/* ========================================
+   タイトル
+======================================== */
+
+h1 {
+    position: relative;
+
+    font-size: clamp(36px, 6vw, 58px);
+
+    letter-spacing: 3px;
+
+    text-shadow:
+        0 0 10px rgba(255, 64, 64, 0.5),
+        0 4px 20px rgba(0, 0, 0, 0.8);
+
+    margin: 45px 0 35px;
+}
+
+
+/* タイトルの下線 */
+h1::after {
+    content: "";
+
+    display: block;
+
+    width: 70px;
+    height: 3px;
+
+    margin: 15px auto 0;
+
+    background: #ff4040;
+
+    border-radius: 10px;
+
+    box-shadow:
+        0 0 12px rgba(255, 64, 64, 0.7);
+}
+
+
+/* ========================================
+   検索ボックス
+======================================== */
+
+.search-box {
+    position: relative;
+
+    padding: 5px;
+
+    background: rgba(0, 0, 0, 0.45);
+
+    border: 1px solid rgba(255, 255, 255, 0.12);
+
+    border-radius: 14px;
+
+    box-shadow:
+        0 10px 35px rgba(0, 0, 0, 0.35);
+
+    backdrop-filter: blur(8px);
+}
+
+
+/* 検索入力 */
+#search {
+    background: rgba(255, 255, 255, 0.95);
+
+    color: #222;
+
+    outline: none;
+
+    transition: 0.2s;
+}
+
+
+#search:focus {
+    box-shadow:
+        0 0 0 2px rgba(255, 64, 64, 0.5);
+}
+
+
+/* 検索ボタン */
+#searchButton {
+    background: #e50914;
+
+    transition:
+        background 0.2s,
+        transform 0.2s;
+}
+
+
+#searchButton:hover {
+    background: #ff3030;
+
+    transform: scale(1.02);
+}
+
+
+/* ========================================
+   タグエリア
+======================================== */
+
+#tags {
+    width: 80%;
+    max-width: 900px;
+
+    margin: 25px auto;
+
+    padding: 18px;
+
+    background: rgba(0, 0, 0, 0.35);
+
+    border: 1px solid rgba(255, 255, 255, 0.08);
+
+    border-radius: 18px;
+
+    backdrop-filter: blur(8px);
+
+    box-sizing: border-box;
+}
+
+
+/* ========================================
+   曲一覧
+======================================== */
+
+ul {
+    box-sizing: border-box;
+
+    border: 1px solid rgba(255, 255, 255, 0.08);
+
+    box-shadow:
+        0 15px 40px rgba(0, 0, 0, 0.35);
+
+    backdrop-filter: blur(5px);
+}
+
+
+/* ========================================
+   タグ検索結果
+======================================== */
+
+#results {
+    width: 80%;
+    max-width: 900px;
+
+    margin: 25px auto;
+}
+
+
+#results .album-title {
+    margin-top: 30px;
+
+    padding: 12px 16px;
+
+    background: rgba(0, 0, 0, 0.45);
+
+    border-left: 4px solid #ff4040;
+
+    border-radius: 8px;
+
+    transition: 0.2s;
+}
+
+
+#results .album-title:hover {
+    background: rgba(255, 64, 64, 0.15);
+
+    color: #ff7070;
+}
+
+
+/* ========================================
+   タグ検索ステータス
+======================================== */
+
+#tag-status {
+    width: 80%;
+    max-width: 900px;
+
+    margin: 15px auto;
+}
+
+
+.tag-status-box {
+    background: rgba(0, 0, 0, 0.45);
+
+    border: 1px solid rgba(255, 64, 64, 0.35);
+
+    box-shadow:
+        0 5px 20px rgba(0, 0, 0, 0.25);
+
+    backdrop-filter: blur(8px);
+}
+
+
+/* ========================================
+   スマホ
+======================================== */
+
+@media (max-width: 768px) {
+
+    h1 {
+        margin-top: 25px;
+        margin-bottom: 30px;
+
+        letter-spacing: 2px;
+    }
+
+
+    .search-box {
+        border-radius: 12px;
+    }
+
+
+    #tags {
+        width: 100%;
+
+        padding: 14px;
+
+        border-radius: 16px;
+    }
+
+
+    #results,
+    #tag-status {
+        width: 100%;
+    }
+
+}
+
+
+/* ========================================
+   曲一覧 カードデザイン
+======================================== */
+
+ul {
+    background: rgba(10, 10, 10, 0.55);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(8px);
+}
+
+
+/* アルバム名 */
+ul strong {
+    position: relative;
+
+    display: block;
+
+    margin: 35px 0 15px;
+
+    padding: 12px 16px;
+
+    background: rgba(255, 64, 64, 0.08);
+
+    border-left: 4px solid #ff4040;
+
+    border-radius: 8px;
+
+    color: white;
+
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+
+    transition: 0.2s;
+}
+
+
+ul strong:hover {
+    background: rgba(255, 64, 64, 0.16);
+}
+
+
+/* 曲1行 */
+ul li {
+    margin: 5px 0;
+
+    padding: 2px;
+
+    border-radius: 10px;
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+}
+
+
+/* 曲にマウスを乗せた時 */
+@media (hover: hover) and (pointer: fine) {
+
+    ul li:hover {
+        background: rgba(255, 255, 255, 0.06);
+
+        transform: translateX(5px);
+    }
+
+}
+
+
+/* 曲名リンク */
+ul li a {
+    flex: 1;
+
+    background: transparent;
+
+    border-radius: 8px;
+
+    transition:
+        color 0.2s ease,
+        padding-left 0.2s ease;
+}
+
+
+ul li a:hover {
+    background: transparent;
+
+    color: #ff7070;
+
+    padding-left: 16px;
+}
+
+
+/* ========================================
+   スマホ
+======================================== */
+
+@media (max-width: 768px) {
+
+    ul {
+        padding: 18px 12px;
+
+        border-radius: 18px;
+    }
+
+
+    ul strong {
+        font-size: 24px;
+
+        margin-top: 28px;
+
+        padding: 11px 13px;
+    }
+
+
+    ul li {
+        margin: 4px 0;
+
+        min-height: 54px;
+
+        border-radius: 10px;
+    }
+
+
+    ul li a {
+        padding: 11px 8px;
+
+        font-size: 19px;
+    }
+
+
+    @media (hover: none) {
+
+        ul li:hover {
+            transform: none;
+            background: transparent;
+        }
+
+    }
+
+}
+
+/* =========================
+   スマホ用：タップしやすくする
+========================= */
+
+@media (max-width: 768px) {
+
+    /* タグボタン */
+    #tags button {
+        min-height: 48px;
+        padding: 12px 18px;
+        font-size: 16px;
+        margin: 5px 3px;
+    }
+
+    /* タグを設定するボタン */
+    .tag-manager-button {
+        display: inline-block;
+        min-height: 48px;
+        padding: 13px 20px;
+        box-sizing: border-box;
+
+        font-size: 16px;
+    }
+
+    /* タグ解除ボタン */
+    #clearTagsButton {
+        min-height: 48px;
+        padding: 12px 18px;
+        font-size: 16px;
+    }
+
+    /* 曲一覧の曲名 */
+    ul li a {
+        display: flex;
+        align-items: center;
+
+        min-height: 52px;
+        padding: 14px 12px;
+
+        box-sizing: border-box;
+        font-size: 18px;
+    }
+
+    /* お気に入り☆ */
+    ul li .favorite {
+        min-width: 48px;
+        min-height: 48px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 24px;
+    }
+
+}

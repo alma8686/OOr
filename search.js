@@ -302,147 +302,167 @@ document.querySelectorAll("#tags button").forEach(button => {
 
 
 // ======================
+// タグをすべて解除
+// ======================
+
+const clearTagsButton =
+    document.getElementById("clearTagsButton");
+
+if (clearTagsButton) {
+
+    clearTagsButton.addEventListener("click", function() {
+
+        // 選択中のタグを全部解除
+        selectedTags = [];
+
+        // お気に入りも解除
+        favoriteOnly = false;
+
+        // ボタンの見た目を全部リセット
+        document
+            .querySelectorAll("#tags button")
+            .forEach(button => {
+
+                button.classList.remove("active");
+
+            });
+
+        // 状態表示と検索結果をリセット
+        showSongs();
+
+        // タップ後のフォーカスを解除
+        this.blur();
+    });
+
+}
+
+
+// ======================
 // 曲を表示
 // ======================
 
-function showSongs() {
 
+function showSongs() {
     results.innerHTML = "";
 
+    const tagStatus =
+        document.getElementById("tag-status");
 
     // タグもお気に入りも選択されていない
     if (
         selectedTags.length === 0 &&
         !favoriteOnly
     ) {
-
+        if (tagStatus) {
+            tagStatus.innerHTML = "";
+        }
         return;
-
     }
 
-
     let list = songs;
-
 
     // ======================
     // タグで絞り込み
     // ======================
-
     if (selectedTags.length > 0) {
-
         list = list.filter(song => {
-
-            const tags =
-                getEffectiveTags(song);
+            const tags = getEffectiveTags(song);
 
             return selectedTags.every(tag =>
                 tags.includes(tag)
             );
-
         });
-
     }
-
 
     // ======================
     // お気に入りで絞り込み
     // ======================
-
     if (favoriteOnly) {
-
         const favorites =
             JSON.parse(
                 localStorage.getItem("favorites")
             ) || [];
 
-
         list = list.filter(song =>
             favorites.includes(song.url)
         );
-
     }
 
-
     // ======================
-    // お気に入りの場合
-    // アルバムごとに表示
+    // 選択中のタグ＋件数
     // ======================
+    if (tagStatus) {
+        let text = "";
 
-    if (favoriteOnly) {
-
-        const albums = {};
-
-
-        list.forEach(song => {
-
-            const albumName =
-                song.album || "その他";
-
-
-            if (!albums[albumName]) {
-
-                albums[albumName] = [];
-
-            }
-
-
-            albums[albumName].push(song);
-
-        });
-
-
-        for (const album in albums) {
-
-            results.innerHTML += `
-
-                <h2 class="album-title">
-                    ${album}
-                </h2>
-
-            `;
-
-
-            albums[album].forEach(song => {
-
-                results.innerHTML += `
-
-                    <div class="search-item">
-
-                        <div class="song-row">
-
-                            <a href="${song.url}">
-                                ${song.title}
-                            </a>
-
-                            <span
-                                class="favorite"
-                                data-id="${song.url}">
-                                ☆
-                            </span>
-
-                        </div>
-
-                    </div>
-
-                `;
-
-            });
-
+        if (selectedTags.length > 0) {
+            text =
+                "🏷️ 選択中： " +
+                selectedTags.join(" × ");
         }
 
+        if (favoriteOnly) {
+            if (text !== "") {
+                text += " × ";
+            }
+
+            text += "⭐ お気に入り";
+        }
+
+        tagStatus.innerHTML = `
+            <div class="tag-status-box">
+                ${text}
+                <span class="tag-count">
+                    ${list.length}曲
+                </span>
+            </div>
+        `;
     }
 
+    // ======================
+    // 曲がない場合
+    // ======================
+    if (list.length === 0) {
+        results.innerHTML =
+            "<p>該当する曲がありません</p>";
+        return;
+    }
 
     // ======================
-    // 通常のタグ検索
+    // アルバムごとに分類
     // ======================
+    const albums = {};
 
-    else {
+    list.forEach(song => {
+        const albumName =
+            song.album || "その他";
 
-        list.forEach(song => {
+        if (!albums[albumName]) {
+            albums[albumName] = [];
+        }
+
+        albums[albumName].push(song);
+    });
+
+    // ======================
+    // アルバムごとに表示
+    // ======================
+    for (const album in albums) {
+
+        // アルバムタイトル
+        results.innerHTML += `
+            <h2 class="album-title">
+                📀 ${album}
+            </h2>
+        `;
+
+        // 曲一覧
+        results.innerHTML += `
+            <div class="album-songs">
+        `;
+
+        albums[album].forEach(song => {
 
             results.innerHTML += `
-
                 <div class="search-item">
 
                     <div class="song-row">
@@ -460,15 +480,47 @@ function showSongs() {
                     </div>
 
                 </div>
-
             `;
 
         });
 
+        results.innerHTML += `
+            </div>
+        `;
     }
 
-
+    // ======================
+    // お気に入りボタンを設定
+    // ======================
     setupFavorites();
 
+    // ======================
+    // アルバム開閉
+    // ======================
+    document
+        .querySelectorAll(".album-title")
+        .forEach(title => {
+
+            title.addEventListener(
+                "click",
+                function() {
+
+                    const songsArea =
+                        this.nextElementSibling;
+
+                    if (songsArea) {
+                        songsArea.classList.toggle(
+                            "hidden"
+                        );
+                    }
+
+                }
+            );
+
+        });
 }
+
+
+
+
 
