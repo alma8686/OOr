@@ -205,9 +205,23 @@ mark {
     transition:.3s;
 }
 
-#tags button:hover{
-    background:#ff3b3b;
+/* タグボタン：マウス操作時だけホバー */
+@media (hover: hover) and (pointer: fine) {
+
+    #tags button:hover {
+        background: #ff3b3b;
+    }
+
+    #favoriteTag:hover {
+        background: #555;
+    }
+
+    #favoriteTag.active:hover {
+        background: #ffd54f;
+    }
+
 }
+
 #tags button.active {
     background: #ff3b3b !important;
     color: white !important;
@@ -974,8 +988,32 @@ li a{
     -webkit-user-select: none;
 }
 
+/* スマホでタグをタップした後の状態をリセット */
+#tags button:focus,
+#tags button:active {
+    outline: none;
+}
+
+/* 選択中 */
 #tags button.active {
-    background: #e50914;
+    background: #ff3b3b !important;
+    color: white !important;
+    transform: scale(1.05);
+}
+
+/* 選択されていないタグ */
+#tags button:not(.active) {
+    background: #444;
     color: white;
-    border-color: #e50914;
+    transform: scale(1);
+}
+
+#favoriteTag:not(.active) {
+    background: #444 !important;
+    color: white !important;
+}
+
+#favoriteTag.active {
+    background: #ffc107 !important;
+    color: black !important;
 }
