@@ -1676,3 +1676,29 @@ ul li a:hover {
     }
 
 }
+
+/* タグ検索：PC・スマホ共通デザイン */
+
+#tags {
+    width: 80%;
+    max-width: 900px;
+    margin: 25px auto;
+    padding: 18px;
+    box-sizing: border-box;
+
+    background: rgba(0, 0, 0, 0.35);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 18px;
+
+    backdrop-filter: blur(8px);
+}
+
+/* スマホでもタグ検索の枠をPCと同じ見た目にする */
+@media (max-width: 768px) {
+    #tags {
+        width: 80%;
+        max-width: 900px;
+        padding: 18px;
+        border-radius: 18px;
+    }
+}
