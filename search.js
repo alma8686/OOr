@@ -215,32 +215,34 @@ let favoriteOnly = false;
 
 document.querySelectorAll("#tags button").forEach(button => {
 
-    button.onclick = () => {
-        const tag = button.textContent.trim();
+    button.addEventListener("click", function(event) {
 
+        event.preventDefault();
+
+        const tag = this.textContent.trim();
 
         console.log("押されたタグ:", tag);
 
+        if (selectedTags.includes(tag)) {
 
-        if(selectedTags.includes(tag)){
-
+            // もう一度押したら解除
             selectedTags =
-            selectedTags.filter(t => t !== tag);
+                selectedTags.filter(t => t !== tag);
 
-            button.classList.remove("active");
+            this.classList.remove("active");
 
-        }else{
+        } else {
 
+            // 押したら選択
             selectedTags.push(tag);
 
-            button.classList.add("active");
+            this.classList.add("active");
 
         }
 
-
         showSongs();
 
-    };
+    });
 
 });
 
