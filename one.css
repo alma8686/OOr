@@ -994,26 +994,139 @@ li a{
     outline: none;
 }
 
-/* 選択中 */
+
+/* ========================================
+   タグボタン 最終設定
+======================================== */
+
+#tags button {
+    border: none;
+    border-radius: 30px;
+
+    padding: 10px 18px;
+
+    background: #444 !important;
+    color: white !important;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+
+/* ----------------------------------------
+   選択中
+---------------------------------------- */
+
 #tags button.active {
     background: #ff3b3b !important;
     color: white !important;
+
     transform: scale(1.05);
 }
 
-/* 選択されていないタグ */
+
+/* ----------------------------------------
+   選択されていない状態
+---------------------------------------- */
+
 #tags button:not(.active) {
-    background: #444;
-    color: white;
+    background: #444 !important;
+    color: white !important;
+
     transform: scale(1);
 }
 
-#favoriteTag:not(.active) {
+
+/* ----------------------------------------
+   お気に入り
+---------------------------------------- */
+
+#favoriteTag {
     background: #444 !important;
     color: white !important;
+    font-weight: bold;
 }
+
 
 #favoriteTag.active {
     background: #ffc107 !important;
     color: black !important;
+
+    transform: scale(1.05);
 }
+
+
+/* ----------------------------------------
+   マウス操作時だけホバー
+---------------------------------------- */
+
+@media (hover: hover) and (pointer: fine) {
+
+    #tags button:hover {
+        background: #ff3b3b !important;
+    }
+
+    #tags button:not(.active):hover {
+        background: #ff3b3b !important;
+    }
+
+    #favoriteTag:not(.active):hover {
+        background: #555 !important;
+    }
+
+    #favoriteTag.active:hover {
+        background: #ffd54f !important;
+    }
+
+}
+
+
+/* ----------------------------------------
+   スマホ
+---------------------------------------- */
+
+@media (hover: none) {
+
+    #tags button:hover {
+        background: #444 !important;
+    }
+
+    #tags button.active:hover {
+        background: #ff3b3b !important;
+    }
+
+    #tags button:not(.active):hover {
+        background: #444 !important;
+    }
+
+    #favoriteTag:hover {
+        background: #444 !important;
+    }
+
+    #favoriteTag.active:hover {
+        background: #ffc107 !important;
+    }
+
+}
+
+
+/* ----------------------------------------
+   タップ後のフォーカス・押下状態
+---------------------------------------- */
+
+#tags button:focus {
+    outline: none;
+}
+
+#tags button:active {
+    outline: none;
+}
+
