@@ -483,16 +483,3 @@ function showSongs() {
 
 }
 
-
-
-const favoriteButton = document.getElementById("favoriteTag");
-
-favoriteButton.onclick = () => {
-
-    favoriteOnly = !favoriteOnly;
-
-    favoriteButton.classList.toggle("active");
-
-    showSongs();
-
-};
