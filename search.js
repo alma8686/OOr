@@ -213,33 +213,98 @@ const results = document.getElementById("results");
 let selectedTags = [];
 let favoriteOnly = false;
 
+
+// ======================
+// タグボタンの見た目を更新
+// ======================
+
+function updateTagButtons() {
+
+    document.querySelectorAll("#tags button").forEach(button => {
+
+        const tag = button.textContent.trim();
+
+        // お気に入りボタン
+        if (button.id === "favoriteTag") {
+
+            button.classList.toggle(
+                "active",
+                favoriteOnly
+            );
+
+            return;
+        }
+
+
+        // 通常タグ
+        button.classList.toggle(
+            "active",
+            selectedTags.includes(tag)
+        );
+
+    });
+
+}
+
+
+// ======================
+// タグボタン
+// ======================
+
 document.querySelectorAll("#tags button").forEach(button => {
 
     button.addEventListener("click", function(event) {
 
         event.preventDefault();
+        event.stopPropagation();
+
 
         const tag = this.textContent.trim();
 
-        console.log("押されたタグ:", tag);
 
-        if (selectedTags.includes(tag)) {
+        // ======================
+        // お気に入り
+        // ======================
 
-            // もう一度押したら解除
-            selectedTags =
-                selectedTags.filter(t => t !== tag);
+        if (this.id === "favoriteTag") {
 
-            this.classList.remove("active");
-
-        } else {
-
-            // 押したら選択
-            selectedTags.push(tag);
-
-            this.classList.add("active");
+            favoriteOnly = !favoriteOnly;
 
         }
 
+
+        // ======================
+        // 通常タグ
+        // ======================
+
+        else {
+
+            const index =
+                selectedTags.indexOf(tag);
+
+
+            if (index !== -1) {
+
+                // すでに選択中 → 解除
+
+                selectedTags.splice(index, 1);
+
+            } else {
+
+                // 未選択 → 選択
+
+                selectedTags.push(tag);
+
+            }
+
+        }
+
+
+        // 状態からボタン表示を作り直す
+        updateTagButtons();
+
+
+        // 曲一覧更新
         showSongs();
 
     });
@@ -247,15 +312,25 @@ document.querySelectorAll("#tags button").forEach(button => {
 });
 
 
+// ======================
+// 曲を表示
+// ======================
 
-function showSongs(){
+function showSongs() {
 
     results.innerHTML = "";
 
+
     // タグもお気に入りも選択されていない
-    if(selectedTags.length === 0 && !favoriteOnly){
+    if (
+        selectedTags.length === 0 &&
+        !favoriteOnly
+    ) {
+
         return;
+
     }
+
 
     let list = songs;
 
@@ -264,13 +339,18 @@ function showSongs(){
     // タグで絞り込み
     // ======================
 
-    if(selectedTags.length > 0){
+    if (selectedTags.length > 0) {
 
-        list = list.filter(song =>
-            selectedTags.every(tag =>
-                getEffectiveTags(song).includes(tag)
-            )
-        );
+        list = list.filter(song => {
+
+            const tags =
+                getEffectiveTags(song);
+
+            return selectedTags.every(tag =>
+                tags.includes(tag)
+            );
+
+        });
 
     }
 
@@ -279,10 +359,13 @@ function showSongs(){
     // お気に入りで絞り込み
     // ======================
 
-    if(favoriteOnly){
+    if (favoriteOnly) {
 
         const favorites =
-            JSON.parse(localStorage.getItem("favorites")) || [];
+            JSON.parse(
+                localStorage.getItem("favorites")
+            ) || [];
+
 
         list = list.filter(song =>
             favorites.includes(song.url)
@@ -296,32 +379,37 @@ function showSongs(){
     // アルバムごとに表示
     // ======================
 
-    if(favoriteOnly){
+    if (favoriteOnly) {
 
         const albums = {};
 
 
         list.forEach(song => {
 
-            const albumName = song.album || "その他";
+            const albumName =
+                song.album || "その他";
 
-            if(!albums[albumName]){
+
+            if (!albums[albumName]) {
+
                 albums[albumName] = [];
+
             }
+
 
             albums[albumName].push(song);
 
         });
 
 
-        // アルバムごとに表示
-
-        for(const album in albums){
+        for (const album in albums) {
 
             results.innerHTML += `
+
                 <h2 class="album-title">
                     ${album}
                 </h2>
+
             `;
 
 
@@ -360,7 +448,7 @@ function showSongs(){
     // 通常のタグ検索
     // ======================
 
-    else{
+    else {
 
         list.forEach(song => {
 

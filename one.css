@@ -966,3 +966,16 @@ li a{
     }
 
 }
+
+#tags button {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+#tags button.active {
+    background: #e50914;
+    color: white;
+    border-color: #e50914;
+}
