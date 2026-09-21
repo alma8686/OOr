@@ -1,0 +1,406 @@
+/* ===========================
+   ONE OK ROCK Lyrics Style
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:"Yu Gothic","Meiryo",sans-serif;
+    color:white;
+
+    /* 背景画像 */
+    background:
+        linear-gradient(
+            rgba(0,0,0,.75),
+            rgba(0,0,0,.40),
+            rgba(0,0,0,.75)
+        ),
+        url("images/the_way_back.jpg");
+
+    background-size:cover;
+    background-position:center top;
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+
+    min-height:100vh;
+    padding:30px 20px;
+}
+
+/* タイトル */
+h1{
+    text-align:center;
+    font-size:48px;
+    margin-bottom:15px;
+    letter-spacing:2px;
+    text-shadow:0 0 20px rgba(0,0,0,.9);
+}
+
+/* Spotifyボタン */
+.spotify{
+    display:block;
+    width:220px;
+    margin:25px auto 50px;
+    text-align:center;
+    padding:14px;
+    border-radius:50px;
+    background:#1DB954;
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.spotify:hover{
+    transform:scale(1.05);
+    box-shadow:0 0 20px #1DB954;
+}
+
+/* 歌詞 */
+.lyrics{
+    max-width:850px;
+    margin:auto;
+    padding-left:30px;
+    border-left:5px solid #ff3b3b;
+    font-size:20px;
+    line-height:2.2;
+    white-space:pre-line;
+    overflow-wrap:break-word;
+
+    text-shadow:
+        0 2px 10px rgba(0,0,0,1),
+        0 0 5px rgba(0,0,0,.9);
+}
+
+/* 戻るボタン */
+.back{
+    display:block;
+    width:220px;
+    margin:60px auto;
+    text-align:center;
+    padding:14px;
+    border:2px solid white;
+    border-radius:40px;
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.back:hover{
+    background:white;
+    color:black;
+}
+
+/* 検索ハイライト */
+mark{
+    background:yellow;
+    color:black;
+    padding:2px 5px;
+    border-radius:4px;
+    font-weight:bold;
+}
+
+/* スマホ */
+@media (max-width:768px){
+
+    body{
+        padding:20px 10px;
+        background-size:cover;
+        background-position:center top;
+    }
+
+    h1{
+        font-size:34px;
+    }
+
+    .lyrics{
+        font-size:13px;
+        line-height:1.6;
+        padding-left:18px;
+        border-left:4px solid #ff3b3b;
+    }
+
+    .spotify{
+        width:200px;
+    }
+}
+
+/* =========================
+   収録DVD
+========================= */
+
+.dvd-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0 25px;
+}
+
+.dvd-list li {
+    margin: 8px 0;
+}
+
+.dvd-link {
+    display: inline-block;
+
+    color: #ffffff !important;
+    text-decoration: none;
+
+    padding: 8px 12px;
+
+    border-left: 3px solid #ff4040;
+
+    background: rgba(0, 0, 0, 0.25);
+
+    border-radius: 4px;
+
+    transition: all 0.25s ease;
+}
+
+.dvd-link:hover {
+    color: #ffffff !important;
+
+    background: rgba(255, 64, 64, 0.25);
+
+    border-left-color: #ff7070;
+
+    padding-left: 18px;
+}
+
+/* =========================
+   DVD曲順ナビゲーション
+========================= */
+
+.dvd-navigation {
+
+    max-width: 850px;
+
+    margin: 50px auto 30px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 15px;
+
+}
+
+
+.dvd-navigation a {
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 14px;
+
+    letter-spacing: 1px;
+
+    padding: 12px 18px;
+
+    border-bottom:
+        1px solid
+        rgba(255,255,255,.45);
+
+    transition: .25s;
+
+}
+
+
+.dvd-navigation a:hover {
+
+    color: #ff3030;
+
+    border-color: #ff3030;
+
+}
+
+
+.dvd-home {
+
+    opacity: .75;
+
+}
+
+
+.dvd-disabled {
+
+    color:
+        rgba(255,255,255,.25);
+
+    font-size: 14px;
+
+    padding: 12px 18px;
+
+}
+
+
+@media (max-width:768px) {
+
+    .dvd-navigation {
+
+        margin:
+            40px 10px 25px;
+
+        gap: 5px;
+
+    }
+
+
+    .dvd-navigation a,
+    .dvd-disabled {
+
+        font-size: 12px;
+
+        padding:
+            10px 7px;
+
+        white-space:
+            nowrap;
+
+    }
+
+}
+
+/* =========================
+   DVD曲順ナビゲーション
+   スマホ対応
+========================= */
+
+.dvd-navigation {
+    max-width: 850px;
+    margin: 50px auto 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 15px;
+}
+
+.dvd-navigation a,
+.dvd-disabled {
+    display: block;
+
+    color: white;
+    text-decoration: none;
+
+    font-size: 14px;
+    letter-spacing: 1px;
+
+    padding: 12px 18px;
+
+    text-align: center;
+
+    white-space: nowrap;
+}
+
+.dvd-navigation a {
+    border-bottom: 1px solid rgba(255,255,255,.45);
+}
+
+.dvd-navigation a:hover {
+    color: #ff3030;
+    border-color: #ff3030;
+}
+
+.dvd-home {
+    opacity: .75;
+}
+
+.dvd-disabled {
+    color: rgba(255,255,255,.25);
+}
+
+
+/* =========================
+   スマホ
+========================= */
+
+@media (max-width: 768px) {
+
+    .dvd-navigation {
+
+        display: grid;
+
+        grid-template-columns:
+            1fr 1fr;
+
+        grid-template-areas:
+
+            "dvd dvd"
+            "prev next";
+
+        gap: 12px;
+
+        margin:
+            40px 10px 25px;
+
+    }
+
+
+    /* DVD名 */
+
+    .dvd-home {
+
+        grid-area: dvd;
+
+        width: 100%;
+
+        padding:
+            12px 8px;
+
+        font-size: 12px;
+
+        line-height: 1.5;
+
+        white-space: normal;
+
+        border-bottom:
+            1px solid
+            rgba(255,255,255,.35);
+
+    }
+
+
+    /* 前の曲 */
+
+    .dvd-navigation a:first-child,
+    .dvd-navigation .dvd-disabled:first-child {
+
+        grid-area: prev;
+
+    }
+
+
+    /* 次の曲 */
+
+    .dvd-navigation a:last-child,
+    .dvd-navigation .dvd-disabled:last-child {
+
+        grid-area: next;
+
+    }
+
+
+    .dvd-navigation a,
+    .dvd-disabled {
+
+        font-size: 12px;
+
+        padding:
+            11px 5px;
+
+        white-space: nowrap;
+
+    }
+
+}
