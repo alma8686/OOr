@@ -1,0 +1,9 @@
+{
+  "name": "ONE OK ROCK 和訳一覧",
+  "short_name": "ONE OK ROCK 和訳",
+  "start_url": "./oor.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "orientation": "portrait"
+}

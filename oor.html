@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+  <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#111111">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="ONE OK ROCK 和訳">
   <meta charset="UTF-8">
   <title>ONE OK ROCK 和訳サイト</title>
   <link rel="stylesheet" href="one.css">
@@ -243,5 +248,20 @@
 <script src="search.js"></script>
 <script src="favorite.js"></script>
 <script src="album.js"></script>
+
+<script>
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./sw.js")
+            .then(() => {
+                console.log("PWA起動準備OK");
+            })
+            .catch(error => {
+                console.error("Service Worker error:", error);
+            });
+    });
+}
+</script>
+
 </body>
 </html>
