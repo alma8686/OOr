@@ -467,8 +467,8 @@ function showSongs() {
 
                     <div class="song-row">
 
-                        <a href="${song.url}">
-                            ${song.title}
+                        <a href="${song.url}" target="lyricsWindow">
+                             ${song.title}
                         </a>
 
                         <span
