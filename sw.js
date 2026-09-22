@@ -3,11 +3,31 @@ const CACHE_NAME = "oor-site-v1";
 const FILES_TO_CACHE = [
     "./",
     "./oor.html",
+
     "./one.css",
+
     "./songs.js",
     "./search.js",
     "./favorite.js",
-    "./album.js"
+    "./album.js",
+    "./dvd-list.css",
+
+    "./am.css",
+    "./jin.css",
+    "./777.css",
+    "./zan.css",
+    "./kan.css",
+    "./eye.css",
+    "./35.css",
+    "./de.css",
+    "./lu.css",
+    "./beam.css",
+    "./karasu.css",
+    "./keturaku.css",
+    "./make.css",
+    "./notes.css",
+    "./sky.css",
+    "./the_way_back.css",
 ];
 
 self.addEventListener("install", event => {
