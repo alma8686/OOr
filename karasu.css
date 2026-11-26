@@ -408,3 +408,31 @@ mark{
     }
 
 }
+
+@media (max-width: 768px) {
+    .spotify {
+        display: block;
+        width: 240px;
+        max-width: 100%;
+        margin: 25px auto 50px;
+        padding: 14px 10px;
+
+        background: #ff0033;
+        color: white;
+
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        white-space: nowrap;
+        text-decoration: none;
+
+        border-radius: 50px;
+        box-shadow: 0 0 12px rgba(255, 0, 51, 0.4);
+    }
+
+    .spotify:hover {
+        background: #cc0029;
+        transform: scale(1.05);
+        box-shadow: 0 0 20px #ff0033;
+    }
+}
