@@ -7595,6 +7595,51 @@ I won’t stop the fight
 },
 
 {
+title:"Notes'n'Words",
+url:"notes'n'Words.html",
+album:"その他",
+dvd:[
+],
+lyrics:`I wanna dance like no one’s watching me
+I wanna love like it’s the only thing I know
+I wanna laugh from the bottom of my heart
+I wanna sing like every single note and word it’s all for you
+
+Is this enough?
+
+I wanna tell you and this is the only way I know
+and hope one day you’ll learn the words and say
+That you finally see, what I see
+
+Another song for you about your love
+‘cause you love the me that’s full of faults
+I wish you could see it from this view
+‘cause everything around you is a little bit brighter from your love
+
+I wanna dance the night away with you
+I wanna love because you taught me to
+I wanna laugh all your tears away
+I wanna sing ‘cause every single note and word it’s just for you
+
+Hope it’s enough?
+
+I wanna tell you and this is the only way I know
+and hope one day you’ll learn the words and say
+That you finally see, how I feel
+
+Another song for you about your love
+‘cause you love the me that’s full of faults
+I wish you could see it from this view
+‘cause everything around you is a little bit brighter from your love
+
+Not a day goes by that I don’t think
+about you and the love you’ve given me
+I wish you could see it from this view
+‘cause everything around you is a little bit brighter from your love
+Life is just so much better from your love`
+},
+
+{
 title:"欠落オートメーション",
 url:"keturaku.html",
 album:"その他",

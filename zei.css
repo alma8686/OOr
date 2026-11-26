@@ -44,18 +44,22 @@ h1{
 }
 
 /* Spotifyボタン */
-.spotify{
-    display:block;
-    width:220px;
-    margin:25px auto 50px;
-    text-align:center;
-    padding:14px;
-    border-radius:50px;
-    background:#1DB954;
-    color:white;
-    text-decoration:none;
-    font-weight:bold;
-    transition:.3s;
+.spotify {
+    display: block;
+    width: 220px;
+    margin: 25px auto 50px;
+    text-align: center;
+    padding: 14px;
+    border-radius: 50px;
+    background: #ff0033;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: .3s;
+}
+
+.spotify:hover {
+    background: #cc0029;
 }
 
 .spotify:hover{
