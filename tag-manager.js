@@ -11,6 +11,7 @@ const TAGS = [
     "日本語曲",
     "失恋",
     "応援",
+    "シャウト",
     "人気曲",
     "ライブ定番"
 ];
@@ -128,7 +129,8 @@ function createAlbumList() {
     "Ambitions",
     "Eye of the Storm",
     "Luxury Disease",
-    "DETOX"
+    "DETOX",
+    "Unreleased Collection"
 ];
 
 albums.sort((a, b) => {

@@ -7547,6 +7547,334 @@ After we've loved and learned`
 },
 
 {
+title:"Fever",
+url:"Fever.html",
+album:"Unreleased Collection",
+dvd:[],
+lyrics:`
+Feel it in the air now
+One breath and we open our eyes (Ooh)
+No time to be scared now
+We won't ever apologize (Ooh)
+Wide awake, we’re wide awake
+They call us the sinners, call us a waste
+Like we got poison deep in our veins
+Say we're the sickness, say that we're cursed
+We don’t need saving, don't want a cure
+I think I'm starting to feel it
+A fever coming down
+I think I'm starting to feel it
+A fever going round
+I think I'm starting to feel it
+A fever coming down
+A fever going round
+Fever
+They say that we're crazy
+We just want to be what we are (Ooh)
+No man is an army
+They'll never silence us all (Ooh)
+Wide awake, we're wide awake
+They call us the sinners, call us a waste
+Like we got poison deep in our veins
+Say we’re the sickness, say that we’re cursed
+We don't need saving, don’t want a cure
+I think I'm starting to feel it
+A fever coming down
+I think I'm starting to feel it
+A fever going round
+I think I'm starting to feel it
+A fever coming down
+A fever going round
+Fever
+Ooh, ooh, ooh, oh
+Ooh, ooh, ooh, oh
+No love, no trust on these empty streets
+Lies on TV, we see the world through a screen
+They say we’re sick, just sick of all the lies
+Sick of all the lies
+I think I'm starting to feel it
+A fever coming down
+I think I'm starting to feel it
+A fever going round
+I think I'm starting to feel it
+I think I'm starting to feel it
+I think I'm starting to feel it
+A fever coming down
+I think I'm starting to feel it (Ooh)
+A fever coming down
+I think I'm starting to feel it (Ooh)
+A fever going round
+I think I'm starting to feel it (Ooh)
+A fever coming down
+I think I'm starting to feel it (Ooh)
+A fever going round
+Fever (Ooh)
+Yeah (Ooh)`
+
+},
+
+{
+title:"Unforgettable",
+url:"Unforgettable.html",
+album:"Unreleased Collection",
+dvd:[],
+lyrics:`Who is the person you see when you look closer?
+Who am I going to be when it's all over?
+Sacrifice, but it's worth the price for a moment that lives on
+Bury me in a melody to remember when I'm gone
+Who is the person you see when you look closer, closer?
+More than the face you see in the crowd
+They know my name when they scream it loud
+I don't need much, I just want it all
+All I wanna be is unforgettable
+(Unforgettable)
+I'm in control of the fire 'cause I hold the matches
+Some of the best things in life are born from the ashes
+Sacrifice, but it's worth the price for a moment that lives on
+Bury me in a melody to remember when I'm gone
+I'm in control of the fire, watch while it catches, catches
+More than the face you see in the crowd
+They know my name when they scream it loud
+I don't need much, I just want it all
+All I wanna be is unforgettable
+(Unforgettable)
+I don't need much, I just want it all
+All I wanna be is unforgettable
+Sacrifice, but it's worth the price for a moment that lives on
+Bury me in a melody to remember when I'm gone
+More than the face you see in the crowd
+They know my name when they scream it loud
+I don't need much, I just want it all
+All I wanna be is unforgettable
+(Unforgettable)
+Unforgettable
+Unforgettable
+All I wanna be is unforgettable`
+},
+
+{
+title:"Jaded",
+url:"Jaded.html",
+album:"Unreleased Collection",
+dvd:[],
+lyrics:`Don't wait for your life, for your life
+The time is right
+Don't wait for your life, for your life
+Sometimes gotta try
+Gotta fight for what you want
+Don't wait for you life, for your life
+Never stop on getting who you are
+Jaded, feeling like you're out of mind
+I believe, I believe, I believe in you
+Even after all this time
+Jaded, don't you wanna feel alive?
+I believe, I believe, I believe in you
+I believe that we will never die
+See all the signs, what a sight
+Like September rain when it falls in the night
+Don't wait for your life, for your life
+Like September rain
+Sometimes gotta fight
+Jaded, feeling like you're out of mind
+I believe, I believe, I believe in you
+Even after all this time
+Jaded, don't you wanna feel alive?
+I believe, I believe, I believe in you
+I believe that we will never die
+Jaded, what you thinking?
+Faded all the time
+Jaded, what you thinking?
+(Come back to reality)
+Jaded, what you thinking?
+Faded all the time
+Jaded, what you thinking?
+Waiting and waiting
+But it's all in your head
+Jaded, feeling like you're out of mind
+I believe, I believe, I believe in you
+Even after all this time
+Jaded, don't you wanna feel alive?
+I believe, I believe, I believe in you
+I believe the dream will never die`
+},
+
+{
+title:"Hard to Love",
+url:"Hard_to_Love.html",
+album:"Unreleased Collection",
+dvd:[],
+lyrics:`When I was just a kid
+I couldn't wait til I grew up
+Tried walking in your shoes
+But couldn't even tie them up
+No matter how big and tall I grew
+I was always looking up to you
+You showed me that I was just a diamond in the rough
+You helped me to grow into the man that I've become
+We've been down, we've been up
+I hope I've made you proud enough
+You make it look easy even when I'm hard to love
+When I dropped out of school
+You told me that my time was up
+I was a rebel with a cause
+Just didn't quite know what it was
+So I got a job that barely paid
+You said you did the same thing at my age
+You showed me that I was just a diamond in the rough
+You helped me to grow into the man that I've become
+We've been down, we've been up
+I hope I've made you proud enough
+You make it look easy even when I'm hard to love
+We've been down, we've been up
+I hope I've made you proud enough
+You make it look easy even when I'm hard to love
+Even when I'm hard to love`
+},
+
+{
+title:"American Girls",
+url:"American_Girls.html",
+album:"Unreleased Collection",
+dvd:[],
+lyrics:`I'm coming straight outta Tokyo
+On my way to the coast
+To the heart of the culture clash
+I'm ready to go
+Now in the distance
+They shine like neon lights
+I just can't resist them
+Been waiting my whole life
+Come on, break my heart, you American girls
+How'd you get that reputation for taking over the world?
+Can't you see I'm out of my head for you?
+Can't you see I'm out of my head for you
+American girls?
+You got me so obsessed
+I like when east meets west
+It's like I'm in a movie
+Said, "Do you wanna use me?"
+And she said, "Hell, yes"
+Now my heart's beating
+She's got that one-track mind
+Always gets me kickin'
+She knows just what I like
+Come on, break my heart, you American girls
+How'd you get that reputation for taking over the world?
+Can't you see I'm out of my head for you?
+Can't you see I'm out of my head for you
+American girls?
+I wanna take you out, I wanna show you off
+I like the way you walk, the way you talk, the way you rock
+I wanna take you out, I wanna show you off
+I like the way you walk, the way you talk, the way you rock
+You know who you are (American girls)
+You know who you are (American girls)
+Come on, break my heart, you American girls
+How'd you get that reputation for taking over the world?
+Can't you see I'm out of my head for you?
+Can't you see I'm out of my head for you
+American girls?
+I wanna take you out, I wanna show you off
+I like the way you walk, the way you talk, the way you rock
+I wanna take you out, I wanna show you off
+I like the way you walk, the way you rock, American girls`
+},
+
+{
+title:"Last Dance",
+url:"Last_Dance.html",
+album:"Unreleased Collection",
+dvd:["ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"],
+lyrics:`It started out as any other story
+Then the words begin to fade away
+All your smile used to make me smile
+But lately I don't feel that way
+Try to remember what brought us together
+And to forget what's driving us apart
+You know we can't wait here forever
+Just making time and going nowhere
+Is this our last dance
+Can we take another chance
+To be alone together still
+Are we wasting time chasing dreams?
+Not yours or mine
+Care for you
+I always will
+We can try to keep the love from fading
+'Cuz all we have a reasons to be gone
+Remember when you used to make me smile
+But lately I don't feel the same
+Look up and I see your face
+I can see you looking back at me
+Every time I think it's getting better
+Just making time and going nowhere
+Is this our last dance
+Can we take another chance
+To be alone together still
+Are we wasting time chasing dreams?
+Not yours or mine
+Care for you
+I always will
+You know I always will
+But there's no looking back
+And no more need to cry
+No more need to cry
+No more need to cry
+Is this all we have?
+Should we walk away at last
+To be alone together still
+Are we wasting time chasing dreams?
+Not yours or mine
+Care for you
+I always will
+You know I always will`
+},
+
+
+{
+title:"The Way Back",
+url:"The_Way_Back.html",
+album:"Unreleased Collection",
+dvd:["ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"],
+lyrics:`I am still broken in two parts
+There is my mind, there is my heart
+No way for me to run and hide
+うまく転がされて
+そいつの手のひらで
+価値観や理念などはない
+
+You know the way back
+You just crash right into me
+But it’s not so easy now
+Oh way back when
+
+二つの顔をもち　使い分けるうちに
+三つ目が顔を出す
+やつれてきた頬が醜さを物語る
+Don’t even think that you know me
+
+You know the way back
+You just crash right into me
+But it’s not so easy now
+Oh way back
+You only had one face
+Saving grace now
+You know the way back
+
+I am still broken in two parts
+There is my mind, there is my heart
+No way for me to run and hide
+
+You know the way back
+You just crash right into me
+But it’s not so easy now
+Oh way back
+You only had one face
+Saving grace now
+You know the way back`
+},
+
+{
 title:"カラス",
 url:"karasu.html",
 album:"その他",
@@ -7685,49 +8013,6 @@ Nothing is coming to rise
 },
 
 
-{
-title:"The Way Back",
-url:"The_Way_Back.html",
-album:"その他",
-dvd:["ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"],
-lyrics:`I am still broken in two parts
-There is my mind, there is my heart
-No way for me to run and hide
-うまく転がされて
-そいつの手のひらで
-価値観や理念などはない
-
-You know the way back
-You just crash right into me
-But it’s not so easy now
-Oh way back when
-
-二つの顔をもち　使い分けるうちに
-三つ目が顔を出す
-やつれてきた頬が醜さを物語る
-Don’t even think that you know me
-
-You know the way back
-You just crash right into me
-But it’s not so easy now
-Oh way back
-You only had one face
-Saving grace now
-You know the way back
-
-I am still broken in two parts
-There is my mind, there is my heart
-No way for me to run and hide
-
-You know the way back
-You just crash right into me
-But it’s not so easy now
-Oh way back
-You only had one face
-Saving grace now
-You know the way back`
-},
-
 
 {
 title:"Make It Out Alive",
@@ -7793,7 +8078,7 @@ We’re gonna make it out alive`
 {
 title:"Skyfall",
 url:"Skyfall.html",
-album:"コラボ曲",
+album:"その他",
 dvd:["ONE OK ROCK 2018 AMBITIONS JAPAN DOME TOUR"],
 lyrics:`Look at all this shame
 Not gonna make it alright
@@ -7857,7 +8142,7 @@ The sky fall`
 {
 title:"777",
 url:"777.html",
-album:"コラボ曲",
+album:"YAO",
 lyrics:`7 We can't stop
 7 On a mission
 7 Hit the jackpot
@@ -7951,7 +8236,7 @@ Flip the table upside…. 7777
 {
 title:"ありふれた世界の果てに",
 url:"arihureta.html",
-album:"コラボ曲",
+album:"YAO",
 lyrics:`ほらありふれた世界の果てに
 大事なことは一つだけ
 あぁ生きゆく中で見つけたもの

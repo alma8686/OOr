@@ -4,16 +4,142 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Way Back 和訳</title>
-  <link rel="stylesheet" href="the_way_back.css">
+  <link rel="stylesheet" href="un.css">
 </head>
 <body>
   <h1>The Way Back</h1>
+
+   <div class="language-switch"> 
+    <button id="englishBtn">English Version</button>
+    <button id="japaneseBtn" class="active">Japanese Version</button>
+</div>
+
+
 <a  class="spotify" href="https://open.spotify.com/intl-ja/track/0f9BkFBR1N0HAmJNo55wPQ?si=147bf1cc23bc4f93" target="_blank">
   Youtube Musicで再生
 </a>
 <div id="dvd"></div>
 <div class="lyrics" id="lyrics">
-  <p style="white-space: pre-line;">
+  <div class="lyrics" id="englishLyrics" style="display:none;">
+     <p style="white-space: pre-line;">
+ I am still broken in two parts
+僕の気持ちはまだ引き裂かれたまま
+
+There is my mind ,there is my heart
+知性と感性が別々のところに離れてしまっている
+
+Nowhere for me to run and hide
+逃げ隠れできる場所もなく
+
+
+You only live to serve yourself
+君は自分のことしか考えていない
+
+Come crawling back when you need help
+助けが必要になれば　這いつくばって戻ってくる
+
+After you burn there's no one else
+すべてを焼き尽くした後には　もう誰も残っていない
+
+
+You know the way back
+後戻りしても
+
+You just crash right into me
+僕と正面衝突するだけ
+
+But it's not so easy now
+もう簡単には逃げられない
+
+Oh way back when
+後戻りしてもダメなんだよ
+
+
+Now that I've seen the other you
+もう一つの君の姿を見てしまった今
+
+How do I know which one is true?
+どちらが本当の君なのか　どうすれば分かる？
+
+How many faces do you have?
+君はいったいいくつの顔を持っているんだ？
+
+
+Think that you've got me figured out
+僕のことをすべて分かったつもりでいるんだろう
+
+All of this time without a doubt
+今までずっと　疑いもせずに
+
+Don't even think that you know me
+僕のことを分かった気になるなよ
+
+
+You know the way back
+後戻りしても
+
+You just crash right into me
+僕と正面衝突するだけ
+
+But it's not so easy now
+もう簡単には逃げられない
+
+Oh way back when
+後戻りしたところで、うまくはいかない
+
+
+you only had one face
+ひとつの顔だけでやっていた
+
+Saving grace
+きみは輝いていた
+
+Now...
+でも今は…
+
+You know the way back
+逃げ方を知ってしまったんだね
+
+
+(You know the way back)
+（後戻りする方法を）
+
+
+I am still broken in two parts
+僕の気持ちはまだ引き裂かれたまま
+
+There is my mind ,there is my heart
+知性と感性が別々のところに離れてしまっている
+
+Nowhere for me to run and hide
+逃げ隠れできる場所もなく
+
+
+You know the way back
+後戻りしても
+
+You just crash right into me
+僕と正面衝突するだけ
+
+But it's not so easy now
+もう簡単には逃げられない
+
+Oh way back when
+後戻りなんかしたところで…
+
+you only had one face
+ひとつの顔だけでやっていた
+
+Saving grace
+きみは輝いていたのに
+
+You know the way back...
+今のきみは、逃げ道を知ってしまったんだ 
+
+            </p>
+</div>
+    <div class="lyrics" id="japaneseLyrics">
+      <p style="white-space: pre-line;">
  I am still broken in two parts
 僕の気持ちはまだ引き裂かれたまま
 
@@ -49,7 +175,7 @@ Oh way back when
 醜さを物語る
 
 Don't even think that you know me
-だけど今のきみにはもう無理だろうね
+僕のことを分かった気になるなよ
 
 
 You know the way back
@@ -122,5 +248,6 @@ You know the way back...
 <script src="dvds.js"></script>
 <script src="song.js"></script>
 <script src="youtube-music.js"></script>
+<script src="language-switch.js"></script> 
 </body>
 </html>

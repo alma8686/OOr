@@ -1800,3 +1800,39 @@ ul li a:hover {
     }
 
 }
+
+/* アルバムごとの背景画像 */
+.album-title {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 12px;
+    min-height: 60px;
+}
+
+/* 背景を暗くする */
+.album-title::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 0;
+}
+
+/* アルバム名を前面に表示 */
+.album-title {
+    isolation: isolate;
+}
+
+/* 曲一覧の背景 */
+.album-songs {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 0 0 12px 12px;
+    padding: 15px;
+    position: relative;
+}

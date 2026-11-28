@@ -27,7 +27,7 @@ const FILES_TO_CACHE = [
     "./make.css",
     "./notes.css",
     "./sky.css",
-    "./the_way_back.css",
+    "./un.css",
 ];
 
 self.addEventListener("install", event => {
