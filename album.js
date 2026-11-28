@@ -76,13 +76,14 @@ if (imagePath) {
     }
 
         // 最初は開いている
-        //album.dataset.open = "true";
+        album.dataset.open = "true";
+        wrapper.style.display = "block";
 
         // 最初は閉じている
-     album.dataset.open = "false";
+        // album.dataset.open = "false";
 
         // ▼を追加
-        album.textContent = "▼ " + album.textContent;
+        album.textContent = "▶ " + album.textContent;
 
         // クリック
         album.addEventListener("click", () => {
