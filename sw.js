@@ -1,4 +1,4 @@
-const CACHE_NAME = "oor-site-v2";
+const CACHE_NAME = "oor-site-v3";
 
 const FILES_TO_CACHE = [
     "./",
